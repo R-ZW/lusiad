@@ -38,4 +38,4 @@ Read the [architecture](docs/en/architecture.md), [change representation](docs/e
 
 ## Citation, license, and data
 
-For a version-specific citation, use the release identifier and the published Zenodo DOI. These will be added after publication. Participant data in this repository is aggregate only. The authorial license is pending a decision before publication.
+The code and documentation in this repository are available under the [MIT license](LICENSE). The DOI provided for the Zenodo deposit is [10.5281/zenodo.24266445](https://doi.org/10.5281/zenodo.24266445); it is treated here as reserved until publication of the record is confirmed. To cite a published version, use its release identifier and corresponding DOI. Participant data made available in this repository is aggregate only.

@@ -38,4 +38,4 @@ Leia a [arquitetura](docs/pt-BR/arquitetura.md), a [representação de uma mudan
 
 ## Citação, licença e dados
 
-Para citar uma versão, use o identificador da release e o DOI do registro Zenodo publicado. Os campos serão preenchidos após a publicação. Os materiais de participantes disponibilizados neste repositório são agregados. A definição da licença autoral está pendente e deve ocorrer antes da publicação.
+O código e a documentação deste repositório são disponibilizados sob a [licença MIT](LICENSE). O DOI informado para o depósito no Zenodo é [10.5281/zenodo.24266445](https://doi.org/10.5281/zenodo.24266445); ele é tratado aqui como reservado até a confirmação da publicação do registro. Para citar uma versão publicada, use o identificador da release e o DOI correspondente. Os materiais de participantes disponibilizados neste repositório são agregados.
