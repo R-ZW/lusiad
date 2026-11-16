@@ -1,0 +1,123 @@
+/* Appearance roles. Component hues never replace selection, change or diagnostic roles. */
+:root {
+  --block-contrast: #000000;
+  --block-accent-weight: 80%;
+  --block-fill-weight: 12%;
+  --block-inline-fill-weight: 16%;
+  /* Opaque light tints keep nested blocks from accumulating gray backgrounds. */
+  --block-surface: var(--background);
+  --diff-added: #047857;
+  --diff-removed: #be123c;
+  --diff-modified: #854d0e;
+  --diff-moved: #0369a1;
+  --history-tag: #7e22ce;
+  --history-restore-link: #7c3aed;
+  --diff-ink-mix: #000000;
+  --selection-ring: #6d28d9;
+  --drop-accent: #1d4ed8;
+  --syntax-keyword: #9a3412;
+  --syntax-literal: #166534;
+  --syntax-comment: #4b5563;
+  --graph-lane-0: #4338ca;
+  --graph-lane-1: #047857;
+  --graph-lane-2: #854d0e;
+  --graph-lane-3: #be123c;
+  --graph-lane-4: #6d28d9;
+  --graph-lane-5: #0e7490;
+  --graph-lane-6: #9a3412;
+  --graph-lane-7: #9d174d;
+}
+.dark {
+  --block-contrast: #ffffff;
+  --block-accent-weight: 50%;
+  --block-fill-weight: 6%;
+  --block-inline-fill-weight: 8%;
+  --block-surface: transparent;
+  --diff-added: #6ee7b7;
+  --diff-removed: #fda4af;
+  --diff-modified: #fde047;
+  --diff-moved: #7dd3fc;
+  --history-tag: #d8b4fe;
+  --history-restore-link: #c4b5fd;
+  --diff-ink-mix: #ffffff;
+  --selection-ring: #c4b5fd;
+  --drop-accent: #93c5fd;
+  --syntax-keyword: #fdba74;
+  --syntax-literal: #86efac;
+  --syntax-comment: #a1a1aa;
+  --graph-lane-0: #a5b4fc;
+  --graph-lane-1: #6ee7b7;
+  --graph-lane-2: #fde047;
+  --graph-lane-3: #fda4af;
+  --graph-lane-4: #c4b5fd;
+  --graph-lane-5: #67e8f9;
+  --graph-lane-6: #fdba74;
+  --graph-lane-7: #f9a8d4;
+}
+.block-file { --block-base: var(--block-file-base); }
+.block-types { --block-base: var(--block-types-base); }
+.block-methods { --block-base: var(--block-methods-base); }
+.block-fields { --block-base: var(--block-fields-base); }
+.block-variables { --block-base: var(--block-variables-base); }
+.block-conditionals { --block-base: var(--block-conditionals-base); }
+.block-loops { --block-base: var(--block-loops-base); }
+.block-switch { --block-base: var(--block-switch-base); }
+.block-exceptions { --block-base: var(--block-exceptions-base); }
+.block-calls { --block-base: var(--block-calls-base); }
+.block-returns { --block-base: var(--block-returns-base); }
+.block-jumps { --block-base: var(--block-jumps-base); }
+.block-comments { --block-base: var(--block-comments-base); }
+.block-blocks { --block-base: var(--block-blocks-base); }
+.lusiad-block, .lusiad-inline { --block-accent: color-mix(in srgb, var(--block-base) var(--block-accent-weight), var(--block-contrast)); }
+.lusiad-block { border-color: var(--block-accent); background-color: color-mix(in srgb, var(--block-base-fill, var(--block-base)) var(--block-fill-weight), var(--block-surface)); }
+.dark .lusiad-block, .dark .lusiad-inline { --block-base-fill: var(--block-accent); }
+.lusiad-inline { border-color: transparent; background-color: transparent; }
+.lusiad-inline:hover, .lusiad-inline.lusiad-selected { border-color: var(--block-accent); background-color: color-mix(in srgb, var(--block-base-fill, var(--block-base)) var(--block-inline-fill-weight), var(--block-surface)); }
+.lusiad-selected { outline: 2px solid var(--selection-ring); outline-offset: 2px; }
+.canvas-drop { color: var(--drop-accent); border-color: var(--drop-accent); background-color: color-mix(in srgb, var(--drop-accent) 12%, transparent); }
+.canvas-preview-existing { border-color: color-mix(in srgb, var(--muted-foreground) 45%, transparent); background-color: color-mix(in srgb, var(--muted-foreground) 7%, transparent); }
+.canvas-diagnostic-line { color: var(--destructive); background-color: color-mix(in srgb, var(--destructive) 12%, var(--background)); outline: 1px dashed var(--destructive); }
+.code-text, .code-identifier { color: var(--foreground); }
+.code-keyword { color: var(--syntax-keyword); }
+.code-literal { color: var(--syntax-literal); }
+.code-comment { color: var(--syntax-comment); }
+.library-code { background-color: #eeeef0; color: var(--foreground); }
+.dark .library-code { background-color: #18181b; }
+.library-code .tok-keyword, .library-code .tok-meta { color: var(--syntax-keyword); }
+.library-code .tok-literal, .library-code .tok-string, .library-code .tok-string2,
+.library-code .tok-number, .library-code .tok-bool, .library-code .tok-atom { color: var(--syntax-literal); }
+.library-code .tok-comment { color: var(--syntax-comment); }
+.diff-added { --diff-color: var(--diff-added); }
+.diff-removed { --diff-color: var(--diff-removed); }
+.diff-modified { --diff-color: var(--diff-modified); }
+.diff-moved { --diff-color: var(--diff-moved); }
+.diff-block { border-color: var(--diff-color); background-color: color-mix(in srgb, var(--diff-color) 12%, transparent); }
+.diff-inline { outline: 1px solid var(--diff-color); background-color: color-mix(in srgb, var(--diff-color) 20%, transparent); }
+.diff-token, .diff-line { color: color-mix(in srgb, var(--diff-color) 70%, var(--diff-ink-mix)); background-color: color-mix(in srgb, var(--diff-color) 15%, transparent); }
+.diff-text-added { color: var(--diff-added); }
+.diff-text-removed { color: var(--diff-removed); }
+.diff-text-modified { color: var(--diff-modified); }
+.diff-text-moved { color: var(--diff-moved); }
+
+/* History selection follows the operation, independently of the block palette. */
+.history-change[data-active="true"],
+.change-file-row[data-selected="true"] {
+  border-color: var(--diff-color);
+  background-color: color-mix(in srgb, var(--diff-color) 12%, var(--background));
+}
+.history-change[data-active="true"]:hover,
+.change-file-row[data-selected="true"]:hover {
+  background-color: color-mix(in srgb, var(--diff-color) 18%, var(--background));
+}
+
+.history-discard-button { background-color: #a84848; color: #fff; }
+.history-discard-button:hover { background-color: #933e3e; }
+.dark .history-discard-button { background-color: #85464b; }
+.dark .history-discard-button:hover { background-color: #9a5056; }
+.notice-warning { color: var(--ui-warning); border-color: color-mix(in srgb, var(--ui-warning) 35%, var(--border)); background-color: var(--ui-warning-surface); }
+.cm-editor { background-color: var(--background) !important; color: var(--foreground); }
+.cm-editor .cm-gutters { background-color: var(--muted); color: var(--muted-foreground); border-color: var(--border); }
+.cm-editor .cm-activeLine, .cm-editor .cm-activeLineGutter { background-color: var(--accent); }
+.cm-editor .cm-cursor { border-left-color: var(--foreground); }
+.cm-editor.cm-focused .cm-selectionBackground { background-color: color-mix(in srgb, var(--selection-ring) 25%, transparent) !important; }
+.diagram-paper { background: #ffffff; color: #0f172a; color-scheme: light; }

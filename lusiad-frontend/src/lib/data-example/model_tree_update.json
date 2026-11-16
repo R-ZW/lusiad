@@ -1,0 +1,1299 @@
+{
+  "file": "D:/lusiad-examples/project/Test.java",
+  "tree": {
+    "type": "PsiJavaFileImpl",
+    "startOffset": 0,
+    "endOffset": 207,
+    "startLine": 1,
+    "startColumn": 1,
+    "endLine": 9,
+    "endColumn": 2,
+    "children": [
+      {
+        "type": "PsiImportListImpl",
+        "startOffset": 0,
+        "endOffset": 0,
+        "startLine": 1,
+        "startColumn": 1,
+        "endLine": 1,
+        "endColumn": 1,
+        "text": ""
+      },
+      {
+        "type": "PsiClassImpl",
+        "startOffset": 0,
+        "endOffset": 206,
+        "startLine": 1,
+        "startColumn": 1,
+        "endLine": 9,
+        "endColumn": 1,
+        "children": [
+          {
+            "type": "PsiModifierListImpl",
+            "startOffset": 0,
+            "endOffset": 6,
+            "startLine": 1,
+            "startColumn": 1,
+            "endLine": 1,
+            "endColumn": 6,
+            "children": [
+              {
+                "type": "PsiKeywordImpl",
+                "startOffset": 0,
+                "endOffset": 6,
+                "startLine": 1,
+                "startColumn": 1,
+                "endLine": 1,
+                "endColumn": 6,
+                "text": "public"
+              }
+            ]
+          },
+          {
+            "type": "PsiWhiteSpaceImpl",
+            "startOffset": 6,
+            "endOffset": 7,
+            "startLine": 1,
+            "startColumn": 7,
+            "endLine": 1,
+            "endColumn": 7,
+            "text": " "
+          },
+          {
+            "type": "PsiKeywordImpl",
+            "startOffset": 7,
+            "endOffset": 12,
+            "startLine": 1,
+            "startColumn": 8,
+            "endLine": 1,
+            "endColumn": 12,
+            "text": "class"
+          },
+          {
+            "type": "PsiWhiteSpaceImpl",
+            "startOffset": 12,
+            "endOffset": 13,
+            "startLine": 1,
+            "startColumn": 13,
+            "endLine": 1,
+            "endColumn": 13,
+            "text": " "
+          },
+          {
+            "type": "PsiIdentifierImpl",
+            "startOffset": 13,
+            "endOffset": 18,
+            "startLine": 1,
+            "startColumn": 14,
+            "endLine": 1,
+            "endColumn": 18,
+            "text": "Hello"
+          },
+          {
+            "type": "PsiTypeParameterListImpl",
+            "startOffset": 18,
+            "endOffset": 18,
+            "startLine": 1,
+            "startColumn": 19,
+            "endLine": 1,
+            "endColumn": 19,
+            "text": ""
+          },
+          {
+            "type": "PsiReferenceListImpl",
+            "startOffset": 18,
+            "endOffset": 18,
+            "startLine": 1,
+            "startColumn": 19,
+            "endLine": 1,
+            "endColumn": 19,
+            "text": ""
+          },
+          {
+            "type": "PsiReferenceListImpl",
+            "startOffset": 18,
+            "endOffset": 18,
+            "startLine": 1,
+            "startColumn": 19,
+            "endLine": 1,
+            "endColumn": 19,
+            "text": ""
+          },
+          {
+            "type": "PsiWhiteSpaceImpl",
+            "startOffset": 18,
+            "endOffset": 19,
+            "startLine": 1,
+            "startColumn": 19,
+            "endLine": 1,
+            "endColumn": 19,
+            "text": " "
+          },
+          {
+            "type": "PsiJavaTokenImpl",
+            "startOffset": 19,
+            "endOffset": 20,
+            "startLine": 1,
+            "startColumn": 20,
+            "endLine": 1,
+            "endColumn": 20,
+            "text": "{"
+          },
+          {
+            "type": "PsiWhiteSpaceImpl",
+            "startOffset": 20,
+            "endOffset": 23,
+            "startLine": 1,
+            "startColumn": 21,
+            "endLine": 2,
+            "endColumn": 2,
+            "text": "\n  "
+          },
+          {
+            "type": "PsiMethodImpl",
+            "startOffset": 23,
+            "endOffset": 204,
+            "startLine": 2,
+            "startColumn": 3,
+            "endLine": 8,
+            "endColumn": 3,
+            "children": [
+              {
+                "type": "PsiModifierListImpl",
+                "startOffset": 23,
+                "endOffset": 36,
+                "startLine": 2,
+                "startColumn": 3,
+                "endLine": 2,
+                "endColumn": 15,
+                "children": [
+                  {
+                    "type": "PsiKeywordImpl",
+                    "startOffset": 23,
+                    "endOffset": 29,
+                    "startLine": 2,
+                    "startColumn": 3,
+                    "endLine": 2,
+                    "endColumn": 8,
+                    "text": "public"
+                  },
+                  {
+                    "type": "PsiWhiteSpaceImpl",
+                    "startOffset": 29,
+                    "endOffset": 30,
+                    "startLine": 2,
+                    "startColumn": 9,
+                    "endLine": 2,
+                    "endColumn": 9,
+                    "text": " "
+                  },
+                  {
+                    "type": "PsiKeywordImpl",
+                    "startOffset": 30,
+                    "endOffset": 36,
+                    "startLine": 2,
+                    "startColumn": 10,
+                    "endLine": 2,
+                    "endColumn": 15,
+                    "text": "static"
+                  }
+                ]
+              },
+              {
+                "type": "PsiTypeParameterListImpl",
+                "startOffset": 36,
+                "endOffset": 36,
+                "startLine": 2,
+                "startColumn": 16,
+                "endLine": 2,
+                "endColumn": 16,
+                "text": ""
+              },
+              {
+                "type": "PsiWhiteSpaceImpl",
+                "startOffset": 36,
+                "endOffset": 37,
+                "startLine": 2,
+                "startColumn": 16,
+                "endLine": 2,
+                "endColumn": 16,
+                "text": " "
+              },
+              {
+                "type": "PsiTypeElementImpl",
+                "startOffset": 37,
+                "endOffset": 41,
+                "startLine": 2,
+                "startColumn": 17,
+                "endLine": 2,
+                "endColumn": 20,
+                "children": [
+                  {
+                    "type": "PsiKeywordImpl",
+                    "startOffset": 37,
+                    "endOffset": 41,
+                    "startLine": 2,
+                    "startColumn": 17,
+                    "endLine": 2,
+                    "endColumn": 20,
+                    "text": "void"
+                  }
+                ]
+              },
+              {
+                "type": "PsiWhiteSpaceImpl",
+                "startOffset": 41,
+                "endOffset": 42,
+                "startLine": 2,
+                "startColumn": 21,
+                "endLine": 2,
+                "endColumn": 21,
+                "text": " "
+              },
+              {
+                "type": "PsiIdentifierImpl",
+                "startOffset": 42,
+                "endOffset": 46,
+                "startLine": 2,
+                "startColumn": 22,
+                "endLine": 2,
+                "endColumn": 25,
+                "text": "main"
+              },
+              {
+                "type": "PsiParameterListImpl",
+                "startOffset": 46,
+                "endOffset": 61,
+                "startLine": 2,
+                "startColumn": 26,
+                "endLine": 2,
+                "endColumn": 40,
+                "children": [
+                  {
+                    "type": "PsiJavaTokenImpl",
+                    "startOffset": 46,
+                    "endOffset": 47,
+                    "startLine": 2,
+                    "startColumn": 26,
+                    "endLine": 2,
+                    "endColumn": 26,
+                    "text": "("
+                  },
+                  {
+                    "type": "PsiParameterImpl",
+                    "startOffset": 47,
+                    "endOffset": 60,
+                    "startLine": 2,
+                    "startColumn": 27,
+                    "endLine": 2,
+                    "endColumn": 39,
+                    "children": [
+                      {
+                        "type": "PsiModifierListImpl",
+                        "startOffset": 47,
+                        "endOffset": 47,
+                        "startLine": 2,
+                        "startColumn": 27,
+                        "endLine": 2,
+                        "endColumn": 27,
+                        "text": ""
+                      },
+                      {
+                        "type": "PsiTypeElementImpl",
+                        "startOffset": 47,
+                        "endOffset": 55,
+                        "startLine": 2,
+                        "startColumn": 27,
+                        "endLine": 2,
+                        "endColumn": 34,
+                        "children": [
+                          {
+                            "type": "PsiTypeElementImpl",
+                            "startOffset": 47,
+                            "endOffset": 53,
+                            "startLine": 2,
+                            "startColumn": 27,
+                            "endLine": 2,
+                            "endColumn": 32,
+                            "children": [
+                              {
+                                "type": "PsiJavaCodeReferenceElementImpl",
+                                "startOffset": 47,
+                                "endOffset": 53,
+                                "startLine": 2,
+                                "startColumn": 27,
+                                "endLine": 2,
+                                "endColumn": 32,
+                                "children": [
+                                  {
+                                    "type": "PsiIdentifierImpl",
+                                    "startOffset": 47,
+                                    "endOffset": 53,
+                                    "startLine": 2,
+                                    "startColumn": 27,
+                                    "endLine": 2,
+                                    "endColumn": 32,
+                                    "text": "String"
+                                  },
+                                  {
+                                    "type": "PsiReferenceParameterListImpl",
+                                    "startOffset": 53,
+                                    "endOffset": 53,
+                                    "startLine": 2,
+                                    "startColumn": 33,
+                                    "endLine": 2,
+                                    "endColumn": 33,
+                                    "text": ""
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "PsiJavaTokenImpl",
+                            "startOffset": 53,
+                            "endOffset": 54,
+                            "startLine": 2,
+                            "startColumn": 33,
+                            "endLine": 2,
+                            "endColumn": 33,
+                            "text": "["
+                          },
+                          {
+                            "type": "PsiJavaTokenImpl",
+                            "startOffset": 54,
+                            "endOffset": 55,
+                            "startLine": 2,
+                            "startColumn": 34,
+                            "endLine": 2,
+                            "endColumn": 34,
+                            "text": "]"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "PsiWhiteSpaceImpl",
+                        "startOffset": 55,
+                        "endOffset": 56,
+                        "startLine": 2,
+                        "startColumn": 35,
+                        "endLine": 2,
+                        "endColumn": 35,
+                        "text": " "
+                      },
+                      {
+                        "type": "PsiIdentifierImpl",
+                        "startOffset": 56,
+                        "endOffset": 60,
+                        "startLine": 2,
+                        "startColumn": 36,
+                        "endLine": 2,
+                        "endColumn": 39,
+                        "text": "args"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "PsiJavaTokenImpl",
+                    "startOffset": 60,
+                    "endOffset": 61,
+                    "startLine": 2,
+                    "startColumn": 40,
+                    "endLine": 2,
+                    "endColumn": 40,
+                    "text": ")"
+                  }
+                ]
+              },
+              {
+                "type": "PsiReferenceListImpl",
+                "startOffset": 61,
+                "endOffset": 61,
+                "startLine": 2,
+                "startColumn": 41,
+                "endLine": 2,
+                "endColumn": 41,
+                "text": ""
+              },
+              {
+                "type": "PsiWhiteSpaceImpl",
+                "startOffset": 61,
+                "endOffset": 62,
+                "startLine": 2,
+                "startColumn": 41,
+                "endLine": 2,
+                "endColumn": 41,
+                "text": " "
+              },
+              {
+                "type": "PsiCodeBlockImpl",
+                "startOffset": 62,
+                "endOffset": 204,
+                "startLine": 2,
+                "startColumn": 42,
+                "endLine": 8,
+                "endColumn": 3,
+                "children": [
+                  {
+                    "type": "PsiJavaTokenImpl",
+                    "startOffset": 62,
+                    "endOffset": 63,
+                    "startLine": 2,
+                    "startColumn": 42,
+                    "endLine": 2,
+                    "endColumn": 42,
+                    "text": "{"
+                  },
+                  {
+                    "type": "PsiWhiteSpaceImpl",
+                    "startOffset": 63,
+                    "endOffset": 68,
+                    "startLine": 2,
+                    "startColumn": 43,
+                    "endLine": 3,
+                    "endColumn": 4,
+                    "text": "\n    "
+                  },
+                  {
+                    "type": "PsiIfStatementImpl",
+                    "startOffset": 68,
+                    "endOffset": 200,
+                    "startLine": 3,
+                    "startColumn": 5,
+                    "endLine": 7,
+                    "endColumn": 5,
+                    "children": [
+                      {
+                        "type": "PsiKeywordImpl",
+                        "startOffset": 68,
+                        "endOffset": 70,
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "endLine": 3,
+                        "endColumn": 6,
+                        "text": "if"
+                      },
+                      {
+                        "type": "PsiWhiteSpaceImpl",
+                        "startOffset": 70,
+                        "endOffset": 71,
+                        "startLine": 3,
+                        "startColumn": 7,
+                        "endLine": 3,
+                        "endColumn": 7,
+                        "text": " "
+                      },
+                      {
+                        "type": "PsiJavaTokenImpl",
+                        "startOffset": 71,
+                        "endOffset": 72,
+                        "startLine": 3,
+                        "startColumn": 8,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "text": "("
+                      },
+                      {
+                        "type": "PsiLiteralExpressionImpl",
+                        "startOffset": 72,
+                        "endOffset": 76,
+                        "startLine": 3,
+                        "startColumn": 9,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "children": [
+                          {
+                            "type": "PsiJavaTokenImpl",
+                            "startOffset": 72,
+                            "endOffset": 76,
+                            "startLine": 3,
+                            "startColumn": 9,
+                            "endLine": 3,
+                            "endColumn": 12,
+                            "text": "true"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "PsiJavaTokenImpl",
+                        "startOffset": 76,
+                        "endOffset": 77,
+                        "startLine": 3,
+                        "startColumn": 13,
+                        "endLine": 3,
+                        "endColumn": 13,
+                        "text": ")"
+                      },
+                      {
+                        "type": "PsiWhiteSpaceImpl",
+                        "startOffset": 77,
+                        "endOffset": 78,
+                        "startLine": 3,
+                        "startColumn": 14,
+                        "endLine": 3,
+                        "endColumn": 14,
+                        "text": " "
+                      },
+                      {
+                        "type": "PsiBlockStatementImpl",
+                        "startOffset": 78,
+                        "endOffset": 200,
+                        "startLine": 3,
+                        "startColumn": 15,
+                        "endLine": 7,
+                        "endColumn": 5,
+                        "children": [
+                          {
+                            "type": "PsiCodeBlockImpl",
+                            "startOffset": 78,
+                            "endOffset": 200,
+                            "startLine": 3,
+                            "startColumn": 15,
+                            "endLine": 7,
+                            "endColumn": 5,
+                            "children": [
+                              {
+                                "type": "PsiJavaTokenImpl",
+                                "startOffset": 78,
+                                "endOffset": 79,
+                                "startLine": 3,
+                                "startColumn": 15,
+                                "endLine": 3,
+                                "endColumn": 15,
+                                "text": "{"
+                              },
+                              {
+                                "type": "PsiWhiteSpaceImpl",
+                                "startOffset": 79,
+                                "endOffset": 86,
+                                "startLine": 3,
+                                "startColumn": 16,
+                                "endLine": 4,
+                                "endColumn": 6,
+                                "text": "\n      "
+                              },
+                              {
+                                "type": "PsiForStatementImpl",
+                                "startOffset": 86,
+                                "endOffset": 194,
+                                "startLine": 4,
+                                "startColumn": 7,
+                                "endLine": 6,
+                                "endColumn": 7,
+                                "children": [
+                                  {
+                                    "type": "PsiKeywordImpl",
+                                    "startOffset": 86,
+                                    "endOffset": 89,
+                                    "startLine": 4,
+                                    "startColumn": 7,
+                                    "endLine": 4,
+                                    "endColumn": 9,
+                                    "text": "for"
+                                  },
+                                  {
+                                    "type": "PsiWhiteSpaceImpl",
+                                    "startOffset": 89,
+                                    "endOffset": 90,
+                                    "startLine": 4,
+                                    "startColumn": 10,
+                                    "endLine": 4,
+                                    "endColumn": 10,
+                                    "text": " "
+                                  },
+                                  {
+                                    "type": "PsiJavaTokenImpl",
+                                    "startOffset": 90,
+                                    "endOffset": 91,
+                                    "startLine": 4,
+                                    "startColumn": 11,
+                                    "endLine": 4,
+                                    "endColumn": 11,
+                                    "text": "("
+                                  },
+                                  {
+                                    "type": "PsiDeclarationStatementImpl",
+                                    "startOffset": 91,
+                                    "endOffset": 101,
+                                    "startLine": 4,
+                                    "startColumn": 12,
+                                    "endLine": 4,
+                                    "endColumn": 21,
+                                    "children": [
+                                      {
+                                        "type": "PsiLocalVariableImpl",
+                                        "startOffset": 91,
+                                        "endOffset": 101,
+                                        "startLine": 4,
+                                        "startColumn": 12,
+                                        "endLine": 4,
+                                        "endColumn": 21,
+                                        "children": [
+                                          {
+                                            "type": "PsiModifierListImpl",
+                                            "startOffset": 91,
+                                            "endOffset": 91,
+                                            "startLine": 4,
+                                            "startColumn": 12,
+                                            "endLine": 4,
+                                            "endColumn": 12,
+                                            "text": ""
+                                          },
+                                          {
+                                            "type": "PsiTypeElementImpl",
+                                            "startOffset": 91,
+                                            "endOffset": 94,
+                                            "startLine": 4,
+                                            "startColumn": 12,
+                                            "endLine": 4,
+                                            "endColumn": 14,
+                                            "children": [
+                                              {
+                                                "type": "PsiKeywordImpl",
+                                                "startOffset": 91,
+                                                "endOffset": 94,
+                                                "startLine": 4,
+                                                "startColumn": 12,
+                                                "endLine": 4,
+                                                "endColumn": 14,
+                                                "text": "int"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "PsiWhiteSpaceImpl",
+                                            "startOffset": 94,
+                                            "endOffset": 95,
+                                            "startLine": 4,
+                                            "startColumn": 15,
+                                            "endLine": 4,
+                                            "endColumn": 15,
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "PsiIdentifierImpl",
+                                            "startOffset": 95,
+                                            "endOffset": 96,
+                                            "startLine": 4,
+                                            "startColumn": 16,
+                                            "endLine": 4,
+                                            "endColumn": 16,
+                                            "text": "i"
+                                          },
+                                          {
+                                            "type": "PsiWhiteSpaceImpl",
+                                            "startOffset": 96,
+                                            "endOffset": 97,
+                                            "startLine": 4,
+                                            "startColumn": 17,
+                                            "endLine": 4,
+                                            "endColumn": 17,
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "PsiJavaTokenImpl",
+                                            "startOffset": 97,
+                                            "endOffset": 98,
+                                            "startLine": 4,
+                                            "startColumn": 18,
+                                            "endLine": 4,
+                                            "endColumn": 18,
+                                            "text": "\u003d"
+                                          },
+                                          {
+                                            "type": "PsiWhiteSpaceImpl",
+                                            "startOffset": 98,
+                                            "endOffset": 99,
+                                            "startLine": 4,
+                                            "startColumn": 19,
+                                            "endLine": 4,
+                                            "endColumn": 19,
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "PsiLiteralExpressionImpl",
+                                            "startOffset": 99,
+                                            "endOffset": 100,
+                                            "startLine": 4,
+                                            "startColumn": 20,
+                                            "endLine": 4,
+                                            "endColumn": 20,
+                                            "children": [
+                                              {
+                                                "type": "PsiJavaTokenImpl",
+                                                "startOffset": 99,
+                                                "endOffset": 100,
+                                                "startLine": 4,
+                                                "startColumn": 20,
+                                                "endLine": 4,
+                                                "endColumn": 20,
+                                                "text": "0"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "PsiJavaTokenImpl",
+                                            "startOffset": 100,
+                                            "endOffset": 101,
+                                            "startLine": 4,
+                                            "startColumn": 21,
+                                            "endLine": 4,
+                                            "endColumn": 21,
+                                            "text": ";"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "PsiWhiteSpaceImpl",
+                                    "startOffset": 101,
+                                    "endOffset": 102,
+                                    "startLine": 4,
+                                    "startColumn": 22,
+                                    "endLine": 4,
+                                    "endColumn": 22,
+                                    "text": " "
+                                  },
+                                  {
+                                    "type": "PsiBinaryExpressionImpl",
+                                    "startOffset": 102,
+                                    "endOffset": 108,
+                                    "startLine": 4,
+                                    "startColumn": 23,
+                                    "endLine": 4,
+                                    "endColumn": 28,
+                                    "children": [
+                                      {
+                                        "type": "PsiReferenceExpressionImpl",
+                                        "startOffset": 102,
+                                        "endOffset": 103,
+                                        "startLine": 4,
+                                        "startColumn": 23,
+                                        "endLine": 4,
+                                        "endColumn": 23,
+                                        "children": [
+                                          {
+                                            "type": "PsiReferenceParameterListImpl",
+                                            "startOffset": 102,
+                                            "endOffset": 102,
+                                            "startLine": 4,
+                                            "startColumn": 23,
+                                            "endLine": 4,
+                                            "endColumn": 23,
+                                            "text": ""
+                                          },
+                                          {
+                                            "type": "PsiIdentifierImpl",
+                                            "startOffset": 102,
+                                            "endOffset": 103,
+                                            "startLine": 4,
+                                            "startColumn": 23,
+                                            "endLine": 4,
+                                            "endColumn": 23,
+                                            "text": "i"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "PsiWhiteSpaceImpl",
+                                        "startOffset": 103,
+                                        "endOffset": 104,
+                                        "startLine": 4,
+                                        "startColumn": 24,
+                                        "endLine": 4,
+                                        "endColumn": 24,
+                                        "text": " "
+                                      },
+                                      {
+                                        "type": "PsiJavaTokenImpl",
+                                        "startOffset": 104,
+                                        "endOffset": 105,
+                                        "startLine": 4,
+                                        "startColumn": 25,
+                                        "endLine": 4,
+                                        "endColumn": 25,
+                                        "text": "\u003c"
+                                      },
+                                      {
+                                        "type": "PsiWhiteSpaceImpl",
+                                        "startOffset": 105,
+                                        "endOffset": 106,
+                                        "startLine": 4,
+                                        "startColumn": 26,
+                                        "endLine": 4,
+                                        "endColumn": 26,
+                                        "text": " "
+                                      },
+                                      {
+                                        "type": "PsiLiteralExpressionImpl",
+                                        "startOffset": 106,
+                                        "endOffset": 108,
+                                        "startLine": 4,
+                                        "startColumn": 27,
+                                        "endLine": 4,
+                                        "endColumn": 28,
+                                        "children": [
+                                          {
+                                            "type": "PsiJavaTokenImpl",
+                                            "startOffset": 106,
+                                            "endOffset": 108,
+                                            "startLine": 4,
+                                            "startColumn": 27,
+                                            "endLine": 4,
+                                            "endColumn": 28,
+                                            "text": "10"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "PsiJavaTokenImpl",
+                                    "startOffset": 108,
+                                    "endOffset": 109,
+                                    "startLine": 4,
+                                    "startColumn": 29,
+                                    "endLine": 4,
+                                    "endColumn": 29,
+                                    "text": ";"
+                                  },
+                                  {
+                                    "type": "PsiWhiteSpaceImpl",
+                                    "startOffset": 109,
+                                    "endOffset": 110,
+                                    "startLine": 4,
+                                    "startColumn": 30,
+                                    "endLine": 4,
+                                    "endColumn": 30,
+                                    "text": " "
+                                  },
+                                  {
+                                    "type": "PsiExpressionStatementImpl",
+                                    "startOffset": 110,
+                                    "endOffset": 113,
+                                    "startLine": 4,
+                                    "startColumn": 31,
+                                    "endLine": 4,
+                                    "endColumn": 33,
+                                    "children": [
+                                      {
+                                        "type": "PsiPostfixExpressionImpl",
+                                        "startOffset": 110,
+                                        "endOffset": 113,
+                                        "startLine": 4,
+                                        "startColumn": 31,
+                                        "endLine": 4,
+                                        "endColumn": 33,
+                                        "children": [
+                                          {
+                                            "type": "PsiReferenceExpressionImpl",
+                                            "startOffset": 110,
+                                            "endOffset": 111,
+                                            "startLine": 4,
+                                            "startColumn": 31,
+                                            "endLine": 4,
+                                            "endColumn": 31,
+                                            "children": [
+                                              {
+                                                "type": "PsiReferenceParameterListImpl",
+                                                "startOffset": 110,
+                                                "endOffset": 110,
+                                                "startLine": 4,
+                                                "startColumn": 31,
+                                                "endLine": 4,
+                                                "endColumn": 31,
+                                                "text": ""
+                                              },
+                                              {
+                                                "type": "PsiIdentifierImpl",
+                                                "startOffset": 110,
+                                                "endOffset": 111,
+                                                "startLine": 4,
+                                                "startColumn": 31,
+                                                "endLine": 4,
+                                                "endColumn": 31,
+                                                "text": "i"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "PsiJavaTokenImpl",
+                                            "startOffset": 111,
+                                            "endOffset": 113,
+                                            "startLine": 4,
+                                            "startColumn": 32,
+                                            "endLine": 4,
+                                            "endColumn": 33,
+                                            "text": "++"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "PsiJavaTokenImpl",
+                                    "startOffset": 113,
+                                    "endOffset": 114,
+                                    "startLine": 4,
+                                    "startColumn": 34,
+                                    "endLine": 4,
+                                    "endColumn": 34,
+                                    "text": ")"
+                                  },
+                                  {
+                                    "type": "PsiWhiteSpaceImpl",
+                                    "startOffset": 114,
+                                    "endOffset": 115,
+                                    "startLine": 4,
+                                    "startColumn": 35,
+                                    "endLine": 4,
+                                    "endColumn": 35,
+                                    "text": " "
+                                  },
+                                  {
+                                    "type": "PsiBlockStatementImpl",
+                                    "startOffset": 115,
+                                    "endOffset": 194,
+                                    "startLine": 4,
+                                    "startColumn": 36,
+                                    "endLine": 6,
+                                    "endColumn": 7,
+                                    "children": [
+                                      {
+                                        "type": "PsiCodeBlockImpl",
+                                        "startOffset": 115,
+                                        "endOffset": 194,
+                                        "startLine": 4,
+                                        "startColumn": 36,
+                                        "endLine": 6,
+                                        "endColumn": 7,
+                                        "children": [
+                                          {
+                                            "type": "PsiJavaTokenImpl",
+                                            "startOffset": 115,
+                                            "endOffset": 116,
+                                            "startLine": 4,
+                                            "startColumn": 36,
+                                            "endLine": 4,
+                                            "endColumn": 36,
+                                            "text": "{"
+                                          },
+                                          {
+                                            "type": "PsiWhiteSpaceImpl",
+                                            "startOffset": 116,
+                                            "endOffset": 125,
+                                            "startLine": 4,
+                                            "startColumn": 37,
+                                            "endLine": 5,
+                                            "endColumn": 8,
+                                            "text": "\n        "
+                                          },
+                                          {
+                                            "type": "PsiExpressionStatementImpl",
+                                            "startOffset": 125,
+                                            "endOffset": 186,
+                                            "startLine": 5,
+                                            "startColumn": 9,
+                                            "endLine": 5,
+                                            "endColumn": 69,
+                                            "children": [
+                                              {
+                                                "type": "PsiMethodCallExpressionImpl",
+                                                "startOffset": 125,
+                                                "endOffset": 185,
+                                                "startLine": 5,
+                                                "startColumn": 9,
+                                                "endLine": 5,
+                                                "endColumn": 68,
+                                                "children": [
+                                                  {
+                                                    "type": "PsiReferenceExpressionImpl",
+                                                    "startOffset": 125,
+                                                    "endOffset": 143,
+                                                    "startLine": 5,
+                                                    "startColumn": 9,
+                                                    "endLine": 5,
+                                                    "endColumn": 26,
+                                                    "children": [
+                                                      {
+                                                        "type": "PsiReferenceExpressionImpl",
+                                                        "startOffset": 125,
+                                                        "endOffset": 135,
+                                                        "startLine": 5,
+                                                        "startColumn": 9,
+                                                        "endLine": 5,
+                                                        "endColumn": 18,
+                                                        "children": [
+                                                          {
+                                                            "type": "PsiReferenceExpressionImpl",
+                                                            "startOffset": 125,
+                                                            "endOffset": 131,
+                                                            "startLine": 5,
+                                                            "startColumn": 9,
+                                                            "endLine": 5,
+                                                            "endColumn": 14,
+                                                            "children": [
+                                                              {
+                                                                "type": "PsiReferenceParameterListImpl",
+                                                                "startOffset": 125,
+                                                                "endOffset": 125,
+                                                                "startLine": 5,
+                                                                "startColumn": 9,
+                                                                "endLine": 5,
+                                                                "endColumn": 9,
+                                                                "text": ""
+                                                              },
+                                                              {
+                                                                "type": "PsiIdentifierImpl",
+                                                                "startOffset": 125,
+                                                                "endOffset": 131,
+                                                                "startLine": 5,
+                                                                "startColumn": 9,
+                                                                "endLine": 5,
+                                                                "endColumn": 14,
+                                                                "text": "System"
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "type": "PsiJavaTokenImpl",
+                                                            "startOffset": 131,
+                                                            "endOffset": 132,
+                                                            "startLine": 5,
+                                                            "startColumn": 15,
+                                                            "endLine": 5,
+                                                            "endColumn": 15,
+                                                            "text": "."
+                                                          },
+                                                          {
+                                                            "type": "PsiReferenceParameterListImpl",
+                                                            "startOffset": 132,
+                                                            "endOffset": 132,
+                                                            "startLine": 5,
+                                                            "startColumn": 16,
+                                                            "endLine": 5,
+                                                            "endColumn": 16,
+                                                            "text": ""
+                                                          },
+                                                          {
+                                                            "type": "PsiIdentifierImpl",
+                                                            "startOffset": 132,
+                                                            "endOffset": 135,
+                                                            "startLine": 5,
+                                                            "startColumn": 16,
+                                                            "endLine": 5,
+                                                            "endColumn": 18,
+                                                            "text": "out"
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "type": "PsiJavaTokenImpl",
+                                                        "startOffset": 135,
+                                                        "endOffset": 136,
+                                                        "startLine": 5,
+                                                        "startColumn": 19,
+                                                        "endLine": 5,
+                                                        "endColumn": 19,
+                                                        "text": "."
+                                                      },
+                                                      {
+                                                        "type": "PsiReferenceParameterListImpl",
+                                                        "startOffset": 136,
+                                                        "endOffset": 136,
+                                                        "startLine": 5,
+                                                        "startColumn": 20,
+                                                        "endLine": 5,
+                                                        "endColumn": 20,
+                                                        "text": ""
+                                                      },
+                                                      {
+                                                        "type": "PsiIdentifierImpl",
+                                                        "startOffset": 136,
+                                                        "endOffset": 143,
+                                                        "startLine": 5,
+                                                        "startColumn": 20,
+                                                        "endLine": 5,
+                                                        "endColumn": 26,
+                                                        "text": "println"
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "type": "PsiExpressionListImpl",
+                                                    "startOffset": 143,
+                                                    "endOffset": 185,
+                                                    "startLine": 5,
+                                                    "startColumn": 27,
+                                                    "endLine": 5,
+                                                    "endColumn": 68,
+                                                    "children": [
+                                                      {
+                                                        "type": "PsiJavaTokenImpl",
+                                                        "startOffset": 143,
+                                                        "endOffset": 144,
+                                                        "startLine": 5,
+                                                        "startColumn": 27,
+                                                        "endLine": 5,
+                                                        "endColumn": 27,
+                                                        "text": "("
+                                                      },
+                                                      {
+                                                        "type": "PsiLiteralExpressionImpl",
+                                                        "startOffset": 144,
+                                                        "endOffset": 184,
+                                                        "startLine": 5,
+                                                        "startColumn": 28,
+                                                        "endLine": 5,
+                                                        "endColumn": 67,
+                                                        "children": [
+                                                          {
+                                                            "type": "PsiJavaTokenImpl",
+                                                            "startOffset": 144,
+                                                            "endOffset": 184,
+                                                            "startLine": 5,
+                                                            "startColumn": 28,
+                                                            "endLine": 5,
+                                                            "endColumn": 67,
+                                                            "text": "\"MODIFICAÇÃO FEITA NA CHAMADA DE FUNÇÃO\""
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "type": "PsiJavaTokenImpl",
+                                                        "startOffset": 184,
+                                                        "endOffset": 185,
+                                                        "startLine": 5,
+                                                        "startColumn": 68,
+                                                        "endLine": 5,
+                                                        "endColumn": 68,
+                                                        "text": ")"
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "type": "PsiJavaTokenImpl",
+                                                "startOffset": 185,
+                                                "endOffset": 186,
+                                                "startLine": 5,
+                                                "startColumn": 69,
+                                                "endLine": 5,
+                                                "endColumn": 69,
+                                                "text": ";"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "PsiWhiteSpaceImpl",
+                                            "startOffset": 186,
+                                            "endOffset": 193,
+                                            "startLine": 5,
+                                            "startColumn": 70,
+                                            "endLine": 6,
+                                            "endColumn": 6,
+                                            "text": "\n      "
+                                          },
+                                          {
+                                            "type": "PsiJavaTokenImpl",
+                                            "startOffset": 193,
+                                            "endOffset": 194,
+                                            "startLine": 6,
+                                            "startColumn": 7,
+                                            "endLine": 6,
+                                            "endColumn": 7,
+                                            "text": "}"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "PsiWhiteSpaceImpl",
+                                "startOffset": 194,
+                                "endOffset": 199,
+                                "startLine": 6,
+                                "startColumn": 8,
+                                "endLine": 7,
+                                "endColumn": 4,
+                                "text": "\n    "
+                              },
+                              {
+                                "type": "PsiJavaTokenImpl",
+                                "startOffset": 199,
+                                "endOffset": 200,
+                                "startLine": 7,
+                                "startColumn": 5,
+                                "endLine": 7,
+                                "endColumn": 5,
+                                "text": "}"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "PsiWhiteSpaceImpl",
+                    "startOffset": 200,
+                    "endOffset": 203,
+                    "startLine": 7,
+                    "startColumn": 6,
+                    "endLine": 8,
+                    "endColumn": 2,
+                    "text": "\n  "
+                  },
+                  {
+                    "type": "PsiJavaTokenImpl",
+                    "startOffset": 203,
+                    "endOffset": 204,
+                    "startLine": 8,
+                    "startColumn": 3,
+                    "endLine": 8,
+                    "endColumn": 3,
+                    "text": "}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PsiWhiteSpaceImpl",
+            "startOffset": 204,
+            "endOffset": 205,
+            "startLine": 8,
+            "startColumn": 4,
+            "endLine": 8,
+            "endColumn": 4,
+            "text": "\n"
+          },
+          {
+            "type": "PsiJavaTokenImpl",
+            "startOffset": 205,
+            "endOffset": 206,
+            "startLine": 9,
+            "startColumn": 1,
+            "endLine": 9,
+            "endColumn": 1,
+            "text": "}"
+          }
+        ]
+      },
+      {
+        "type": "PsiWhiteSpaceImpl",
+        "startOffset": 206,
+        "endOffset": 207,
+        "startLine": 9,
+        "startColumn": 2,
+        "endLine": 9,
+        "endColumn": 2,
+        "text": "\n"
+      }
+    ]
+  }
+}

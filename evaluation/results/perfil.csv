@@ -1,0 +1,32 @@
+variavel,categoria,frequencia
+escolaridade,Graduação concluída,1
+escolaridade,Graduação em andamento,12
+escolaridade,Mestrado concluído,1
+escolaridade,Pós-graduação concluída,1
+situacao_atual,Docente na área de tecnologia,1
+situacao_atual,Estudante e profissional da área de tecnologia,2
+situacao_atual,"Estudante, sem atuação profissional na área de tecnologia",11
+situacao_atual,Profissionais de outra área,1
+tempo_programacao,De 1 a 3 anos,5
+tempo_programacao,De 3 a 5 anos,4
+tempo_programacao,Mais de 5 anos,6
+experiencia_programacao,Avançada — desenvolvo programas de maior complexidade de forma independente,8
+experiencia_programacao,Intermediária — consigo desenvolver programas simples de forma independente,7
+programacao_visual,Algumas vezes,6
+programacao_visual,Nunca,3
+programacao_visual,Uma ou poucas vezes,6
+experiencia_controle_versao,Utilizo ou utilizei em disciplinas ou projetos pessoais,7
+experiencia_controle_versao,Utilizo ou utilizei em projetos profissionais,8
+frequencia_historico,Frequentemente,8
+frequencia_historico,Raramente,2
+frequencia_historico,Às vezes,5
+contato_anterior_lusiad,"Já tinha ouvido falar, mas não havia utilizado",8
+contato_anterior_lusiad,Não conhecia,7
+java_disciplinas,0,1
+java_disciplinas,1,14
+java_projetos_academicos,0,2
+java_projetos_academicos,1,13
+java_projetos_pessoais,0,7
+java_projetos_pessoais,1,8
+java_profissional,0,11
+java_profissional,1,4

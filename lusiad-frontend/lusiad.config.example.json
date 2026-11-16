@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "apiUrl": "http://127.0.0.1:8765",
+  "frontendUrl": "http://localhost:3000",
+  "allowCloudflareTunnel": false,
+  "requestTimeoutMs": 0,
+  "analyticsEnabled": false,
+  "database": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "name": "lusiad",
+    "user": "SEU_USUARIO",
+    "password": "",
+    "tls": false,
+    "connectTimeoutMs": 5000,
+    "socketTimeoutMs": 30000
+  }
+}

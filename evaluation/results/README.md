@@ -1,0 +1,5 @@
+# Resultados agregados
+
+Os arquivos desta pasta apresentam apenas frequências de grupos. `perfil.csv` contém distribuições de uma variável por vez. `tarefas.csv` registra a frequência das pontuações de zero a dez nas dez respostas factuais. `sus.csv` contém a frequência de cada pontuação SUS observada. `itens.csv` contém as frequências de concordância de 1 a 5 nos itens SUS01–SUS10, UP1–UP3 e IU1–IU2. `intencoes_pareadas.csv` apresenta quantos participantes deram a IU2 nota maior, igual ou menor que a IU1.
+
+O script `recompute.py` recalcula totais, média e mediana das pontuações e o desvio-padrão amostral SUS a partir das frequências. Execute `python recompute.py` nesta pasta. Sem identificador por participante, essas tabelas não permitem recompor respostas individuais nem reexaminar comentários. As contagens foram geradas a partir dos formulários originais mantidos em acervo restrito. A nota das tarefas aceita diferenças de escrita que preservam a resposta solicitada. Não representa conclusão integral das tarefas nem independência de orientações.

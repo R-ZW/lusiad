@@ -1,0 +1,19 @@
+{
+  "candidate": "2026-11-15-rc1",
+  "backend_source": "851120de39bf0b90987d939db0d4f2407db04111",
+  "frontend_source": "d2f9326a2041374541aa4e8781d79767e184c884",
+  "evaluated_revisions": "not confirmed",
+  "archives": {
+    "lusiad-frontend-2026-11-15-rc1.zip": "34af2aaf15a5290d0d0087393416a5b4a5ace824c2504ace8663bb25a39a5156",
+    "lusiad-plugin-2026-11-15-rc1.zip": "8dfbee7033af1fcd1c7afe3e61339e2aa054b74434dc428063c2ecddcb96e375"
+  },
+  "tests": {
+    "backend_build": "passed",
+    "frontend_build_webpack": "passed",
+    "frontend_extracted_yarn_install": "passed",
+    "frontend_extracted_home_http": "200",
+    "frontend_extracted_demo_project_http": "200",
+    "plugin_zip_ide_install": "pending",
+    "scenario_mysql_restore": "pending"
+  }
+}
