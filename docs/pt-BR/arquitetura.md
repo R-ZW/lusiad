@@ -1,18 +1,27 @@
-# Arquitetura e diretórios
+# `Lusiad` – Arquitetura
 
-## Nesta página
+[🇺🇸 English](../en/architecture.md) · **🇧🇷 Português (Brasil)**
 
-- [Componentes](#componentes)
-- [Fluxo de uma alteração](#fluxo-de-uma-alteração)
-- [Onde localizar o código](#onde-localizar-o-código)
+### Nesta página
 
-## Componentes
+> [1. Componentes](#-1-componentes)<br>
+> [2. Fluxo de uma alteração](#-2-fluxo-de-uma-alteração)<br>
+> [3. Onde localizar o código](#-3-onde-localizar-o-código)<br>
+> [Índice da documentação](#índice-da-documentação)
+
+---
+
+<a name="componentes"></a>
+
+## 🧩 1. Componentes
 
 O plugin `lusiad-backend` roda dentro do IntelliJ. Ele usa a PSI da plataforma para ler e modificar programas Java, executa operações nos arquivos e fornece uma API HTTP local autenticada. O `lusiad-frontend` é uma aplicação Next.js que apresenta os painéis de edição, consulta e histórico. Seu servidor coordena operações Git, chamadas à API do plugin e consultas ao MySQL. O navegador recebe a interface, sem precisar de credenciais do banco.
 
 O MySQL guarda projetos, branches, commits, eventos de mudança e recibos de operações. O repositório Git do projeto guarda os estados versionados. Os dois precisam permanecer associados ao mesmo projeto para reconstrução histórica. A configuração de exemplo fica nos arquivos `.env.example` de cada componente.
 
-## Fluxo de uma alteração
+<a name="fluxo-de-uma-alteração"></a>
+
+## 🔀 2. Fluxo de uma alteração
 
 1. O usuário seleciona ou move um elemento no modelo exibido pelo frontend.
 2. O frontend envia a operação à API do plugin, que usa PSI e aplica a edição ao arquivo Java.
@@ -21,7 +30,9 @@ O MySQL guarda projetos, branches, commits, eventos de mudança e recibos de ope
 
 O fluxo completo, com os limites entre dados de apresentação e reconstrução, é descrito em [Implementação](implementacao.md).
 
-## Onde localizar o código
+<a name="onde-localizar-o-código"></a>
+
+## 📂 3. Onde localizar o código
 
 | Diretório | Conteúdo principal |
 | --- | --- |
@@ -36,4 +47,32 @@ O fluxo completo, com os limites entre dados de apresentação e reconstrução,
 
 ---
 
-[← Manual](manual.md) · [Índice](index.md) · [Implementação →](implementacao.md) · [English](../en/architecture.md)
+<table width="100%">
+<tr>
+<td align="left"><a href="indice-implementacao.md">⬅️ Página anterior · Implementação</a></td>
+<td align="center"><a href="index.md">🔟 Arquitetura</a></td>
+<td align="right"><a href="implementacao.md">Próxima página ➡️ Elementos notáveis da implementação</a></td>
+</tr>
+</table>
+
+### Índice da documentação
+
+**[📖 Visão geral](../../README.pt-BR.md)**
+
+- [🖥️ Manual de uso](manual.md)
+- [🎬 Demonstração](demonstracao.md)
+
+**[⚙️ Instalação](preparacao.md)**
+
+- [🔧 Guia de instalação](instalacao.md)
+- [🚀 Primeiros passos](primeiros-passos.md)
+
+**[📐 Projeto](projeto.md)**
+
+- [📋 Requisitos](requisitos.md)
+- [✏️ Prototipação](prototipacao.md)
+
+**[💻 Implementação](indice-implementacao.md)**
+
+- [🏗️ Arquitetura](arquitetura.md) 👈
+- [🔍 Elementos notáveis da implementação](implementacao.md)

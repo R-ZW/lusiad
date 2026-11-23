@@ -1,27 +1,40 @@
-# Manual de uso
+# `Lusiad` – Manual de uso
 
-## Nesta página
+[🇺🇸 English](../en/manual.md) · **🇧🇷 Português (Brasil)**
 
-- [Painel do plugin](#painel-do-plugin)
-- [Projetos e editor](#projetos-e-editor)
-- [Histórico e comparação](#histórico-e-comparação)
-- [Telas](#telas)
+### Nesta página
 
-## Painel do plugin
+> [1. Painel do plugin](#-1-painel-do-plugin)<br>
+> [2. Projetos e editor](#-2-projetos-e-editor)<br>
+> [3. Histórico e comparação](#-3-histórico-e-comparação)<br>
+> [4. Telas](#-4-telas)<br>
+> [Índice da documentação](#índice-da-documentação)
+
+---
+
+<a name="painel-do-plugin"></a>
+
+## 🔌 1. Painel do plugin
 
 Abra **Lusiad** na janela de ferramentas do IntelliJ. O painel permite iniciar e parar o servidor local, verificar a ligação com o MySQL, configurar o endereço do frontend, ajustar preferências e consultar tutoriais. Mantenha a IDE aberta enquanto usa a interface web.
 
-## Projetos e editor
+<a name="projetos-e-editor"></a>
+
+## 🗂️ 2. Projetos e editor
 
 A página de projetos cadastra uma pasta, seleciona um projeto e abre o ambiente de trabalho. No explorador, abra um arquivo Java. A área central mostra a estrutura editável e o código correspondente. A biblioteca oferece componentes para inserção. Selecione um elemento para editar seus atributos no painel de propriedades. As ações de desfazer e refazer ficam junto às abas. Os ícones de ajuda oferecem orientação guiada para as áreas principais.
 
-## Histórico e comparação
+<a name="histórico-e-comparação"></a>
+
+## 🕘 3. Histórico e comparação
 
 Inicie Git no projeto pela interface e registre uma versão pelo menu de commit. No histórico, escolha a branch e o commit. Abra uma mudança individual para consultar o evento registrado. A comparação de versões permite escolher base e alvo. Antes de restaurar um estado, confirme a branch e a versão indicadas na interface. O [guia de primeiros passos](primeiros-passos.md) apresenta uma sequência curta dessas ações.
 
-## Telas
+<a name="telas"></a>
 
-As imagens abaixo foram capturadas na interface real com um projeto descartável. O backend demonstrado corresponde a `851120d` e o frontend a `d2f9326`; a correspondência com a versão avaliada permanece incerta.
+## 🖼️ 4. Telas
+
+As imagens abaixo foram capturadas na interface real com um projeto descartável. O backend demonstrado corresponde a `851120d` e o frontend a `d2f9326`.
 
 ![Biblioteca e modelo com iniciar antes de encerrar](../assets/01-modelagem.png)
 *Modelo e biblioteca antes da movimentação.*
@@ -51,4 +64,32 @@ O painel do plugin IntelliJ não estava aberto durante a captura. Para completá
 
 ---
 
-[← Primeiros passos](primeiros-passos.md) · [Índice](index.md) · [Arquitetura →](arquitetura.md) · [English](../en/manual.md)
+<table width="100%">
+<tr>
+<td align="left"><a href="../../README.pt-BR.md">⬅️ Página anterior · Visão geral</a></td>
+<td align="center"><a href="index.md">1️⃣ Manual de uso</a></td>
+<td align="right"><a href="demonstracao.md">Próxima página ➡️ Demonstração</a></td>
+</tr>
+</table>
+
+### Índice da documentação
+
+**[📖 Visão geral](../../README.pt-BR.md)**
+
+- [🖥️ Manual de uso](manual.md) 👈
+- [🎬 Demonstração](demonstracao.md)
+
+**[⚙️ Instalação](preparacao.md)**
+
+- [🔧 Guia de instalação](instalacao.md)
+- [🚀 Primeiros passos](primeiros-passos.md)
+
+**[📐 Projeto](projeto.md)**
+
+- [📋 Requisitos](requisitos.md)
+- [✏️ Prototipação](prototipacao.md)
+
+**[💻 Implementação](indice-implementacao.md)**
+
+- [🏗️ Arquitetura](arquitetura.md)
+- [🔍 Elementos notáveis da implementação](implementacao.md)

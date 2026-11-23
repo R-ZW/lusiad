@@ -1,27 +1,40 @@
-# User guide
+# `Lusiad` – User guide
 
-## On this page
+**🇺🇸 English** · [🇧🇷 Português (Brasil)](../pt-BR/manual.md)
 
-- [Plugin panel](#plugin-panel)
-- [Projects and editor](#projects-and-editor)
-- [History and comparison](#history-and-comparison)
-- [Screens](#screens)
+### On this page
 
-## Plugin panel
+> [1. Plugin panel](#-1-plugin-panel)<br>
+> [2. Projects and editor](#-2-projects-and-editor)<br>
+> [3. History and comparison](#-3-history-and-comparison)<br>
+> [4. Screens](#-4-screens)<br>
+> [Documentation index](#documentation-index)
+
+---
+
+<a name="plugin-panel"></a>
+
+## 🔌 1. Plugin panel
 
 Open **Lusiad** in IntelliJ's tool window. The panel starts and stops the local service, checks MySQL connectivity, configures the frontend URL, adjusts preferences, and provides tutorials. Keep the IDE open while using the web interface.
 
-## Projects and editor
+<a name="projects-and-editor"></a>
+
+## 🗂️ 2. Projects and editor
 
 The project page registers a directory, selects a project, and opens the workspace. In the explorer, open a Java file. The central area shows the editable structure and corresponding code. The library supplies components for insertion. Select an element to edit its properties. Undo and redo controls sit beside file tabs. Help icons open guided instructions for the main areas.
 
-## History and comparison
+<a name="history-and-comparison"></a>
+
+## 🕘 3. History and comparison
 
 Initialize Git through the interface and create a commit. In the history, select a branch and commit. Open an individual event to inspect its record. Version comparison lets you choose base and target. Before restoring a state, check the selected branch and version in the UI. The [first steps guide](first-steps.md) gives a short walkthrough.
 
-## Screens
+<a name="screens"></a>
 
-These screenshots came from the live interface and a disposable project. The demonstrated backend is `851120d` and frontend `d2f9326`; their correspondence to the evaluated version is still uncertain.
+## 🖼️ 4. Screens
+
+These screenshots came from the live interface and a disposable project. The demonstrated backend is `851120d` and frontend `d2f9326`.
 
 ![Library and model with iniciar above encerrar](../assets/01-modelagem.png)
 *Model and library before the move.*
@@ -51,4 +64,32 @@ The IntelliJ plugin panel was not open during capture. To complete it, install t
 
 ---
 
-[← First steps](first-steps.md) · [Index](index.md) · [Architecture →](architecture.md) · [Português](../pt-BR/manual.md)
+<table width="100%">
+<tr>
+<td align="left"><a href="../../README.md">⬅️ Previous page · Overview</a></td>
+<td align="center"><a href="index.md">1️⃣ User guide</a></td>
+<td align="right"><a href="demo.md">Next page ➡️ Demo</a></td>
+</tr>
+</table>
+
+### Documentation index
+
+**[📖 Overview](../../README.md)**
+
+- [🖥️ User guide](manual.md) 👈
+- [🎬 Demo](demo.md)
+
+**[⚙️ Installation](setup.md)**
+
+- [🔧 Installation guide](installation.md)
+- [🚀 First steps](first-steps.md)
+
+**[📐 Project](project.md)**
+
+- [📋 Requirements](requirements.md)
+- [✏️ Prototyping](prototyping.md)
+
+**[💻 Implementation](implementation-index.md)**
+
+- [🏗️ Architecture](architecture.md)
+- [🔍 Notable implementation elements](implementation.md)

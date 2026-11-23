@@ -1,41 +1,62 @@
-# Lusiad
+# `Lusiad` – Model-Based Programming with Change Tracking
 
-[English](README.en.md) · [Documentação](docs/pt-BR/index.md) · [Instalação](docs/pt-BR/instalacao.md) · [Avaliação](docs/pt-BR/avaliacao.md)
+**🇺🇸 English** · [🇧🇷 Português (Brasil)](README.pt-BR.md)
 
-O Lusiad é um ambiente para programação Java baseada em modelos e acompanhamento de mudanças. Um plugin do IntelliJ IDEA fornece a análise estrutural do código e uma API local. A interface web permite editar o modelo, consultar o código gerado e navegar pelo histórico. Os registros de mudanças combinam elementos estruturais do programa, estados de arquivos, commits Git e dados em MySQL.
+Lusiad lets you edit Java source code as a model of nested blocks and trace how it changes. An IntelliJ IDEA plugin uses the Program Structure Interface (PSI) to connect each block to the Java element it represents. In the web interface, you can follow a class or method from an edit on the canvas to its entry in the project history.
 
-Este repositório reúne o [plugin e serviço local](lusiad-backend/), a [interface web](lusiad-frontend/), a [documentação](docs/pt-BR/index.md) e os [artefatos públicos da avaliação](evaluation/README.md). Os materiais referem-se às revisões identificadas em [VERSIONS.md](VERSIONS.md).
+### On this page
 
-## Lusiad em ação
+> [1. Using Lusiad](#-1-using-lusiad)<br>
+> [2. Repository layout](#-2-repository-layout)<br>
+> [Documentation index](#documentation-index)
 
-Em um projeto Java criado só para esta demonstração, `Exemplo.java` continha `iniciar()` antes de `encerrar()`. Na interface real, o usuário selecionou `encerrar()` no modelo e o arrastou para antes de `iniciar()`. O código Java passou a refletir a nova ordem. Em seguida, registrou o commit **Mover encerrar antes de iniciar**, abriu a mudança individual no histórico e comparou esse commit com **Preparar dois métodos**. As capturas mostram a revisão demonstrada em [VERSIONS.md](VERSIONS.md), distinta da revisão avaliada ainda não confirmada.
+---
 
-![Modelo Java e biblioteca antes do movimento: iniciar acima de encerrar](docs/assets/01-modelagem.png)
-*1. Estado anterior: biblioteca, modelo e código de `Exemplo.java`.*
+## 🧩 1. Using Lusiad
 
-![Modelo Java depois do movimento: encerrar acima de iniciar](docs/assets/02-movimento.png)
-*2. A posição dos métodos mudou no modelo e no arquivo Java.*
+The canvas shows the structure of the open Java file. The history lets you inspect the individual edits grouped within each commit.
 
-![Comparação visual lado a lado entre os commits anterior e posterior](docs/assets/05-comparacao.png)
-*3. A comparação de versões mostra os estados anterior e posterior.*
+- [**🖥️ User guide**](docs/en/manual.md) — Find the controls for projects, editing, and history.
+- [**🎬 Demo**](docs/en/demo.md) — Follow a method move through the model, Java source, and commit comparison.
 
-O [manual ilustrado](docs/pt-BR/manual.md) mostra o histórico, o evento individual, o diff Git e a árvore PSI.
+## 📂 2. Repository layout
 
-## Instalar e executar
-
-Consulte os [pré-requisitos e passos de instalação](docs/pt-BR/instalacao.md) para instalar o plugin a partir do ZIP da release ou compilá-lo do código, preparar o MySQL e iniciar a interface. O [guia de primeiros passos](docs/pt-BR/primeiros-passos.md) acompanha a criação de um projeto, uma edição e a consulta ao histórico.
-
-## Como o projeto está organizado
-
-| Pasta | Responsabilidade |
+| Directory | Contents |
 | --- | --- |
-| `lusiad-backend/` | Plugin IntelliJ, API local, serviços PSI, persistência e migrações SQL. |
-| `lusiad-frontend/` | Interface Next.js, operações Git e consultas ao banco. |
-| `docs/pt-BR/`, `docs/en/` | Manuais, arquitetura, implementação, prototipação e avaliação. |
-| `evaluation/` | Instrumentos aplicados, cenário e resultados agregados liberáveis. |
+| [`lusiad-backend/`](lusiad-backend/) | IntelliJ IDEA plugin, local HTTP API, Java PSI services, and MySQL schema and migrations. |
+| [`lusiad-frontend/`](lusiad-frontend/) | Next.js web interface and server-side services for Git operations and database access. |
+| [`docs/en/`](docs/en/index.md) · [`docs/pt-BR/`](docs/pt-BR/index.md) | User guides and technical documentation in English and Brazilian Portuguese. |
 
-Leia a [arquitetura](docs/pt-BR/arquitetura.md), a [representação de uma mudança](docs/pt-BR/implementacao.md) e a [história dos protótipos](docs/pt-BR/prototipacao.md). O [protocolo](docs/pt-BR/avaliacao.md) informa como foi conduzida a avaliação e delimita o alcance dos resultados. [Informações sobre versão, citação e conteúdo do pacote](VERSIONS.md).
+The source code and documentation are available under the [MIT license](LICENSE).
 
-## Citação, licença e dados
+---
 
-O código e a documentação deste repositório são disponibilizados sob a [licença MIT](LICENSE). O DOI informado para o depósito no Zenodo é [10.5281/zenodo.24266445](https://doi.org/10.5281/zenodo.24266445); ele é tratado aqui como reservado até a confirmação da publicação do registro. Para citar uma versão publicada, use o identificador da release e o DOI correspondente. Os materiais de participantes disponibilizados neste repositório são agregados.
+<table width="100%">
+<tr>
+<td align="left">⬅️ Previous page</td>
+<td align="center">0️⃣ Overview</td>
+<td align="right"><a href="docs/en/manual.md">Next page ➡️ User guide</a></td>
+</tr>
+</table>
+
+### Documentation index
+
+**[📖 Overview](README.md)** 👈
+
+- [🖥️ User guide](docs/en/manual.md)
+- [🎬 Demo](docs/en/demo.md)
+
+**[⚙️ Installation](docs/en/setup.md)**
+
+- [🔧 Installation guide](docs/en/installation.md)
+- [🚀 First steps](docs/en/first-steps.md)
+
+**[📐 Project](docs/en/project.md)**
+
+- [📋 Requirements](docs/en/requirements.md)
+- [✏️ Prototyping](docs/en/prototyping.md)
+
+**[💻 Implementation](docs/en/implementation-index.md)**
+
+- [🏗️ Architecture](docs/en/architecture.md)
+- [🔍 Notable implementation elements](docs/en/implementation.md)

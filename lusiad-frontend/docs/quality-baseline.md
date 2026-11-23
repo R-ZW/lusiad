@@ -31,4 +31,4 @@ O backend usa o framework de testes da plataforma IntelliJ já declarado. Seu co
 .\gradlew.bat verifyPlugin
 ```
 
-O ambiente desta execução não possui Java/JDK, portanto os testes do plugin não puderam ser executados aqui. O Docker também não está disponível, por isso a configuração do MySQL de teste foi criada, mas sua inicialização real permanece pendente. Esses dois pontos devem ser validados em uma máquina com JDK 21 e Docker antes de encerrar a preparação para avaliação.
+O ambiente desta execução não possui Java/JDK, portanto os testes do plugin não puderam ser executados aqui. O Docker também não está disponível, por isso a configuração do MySQL de teste foi criada, mas sua inicialização real permanece pendente. Esses dois pontos devem ser validados em uma máquina com JDK 21 e Docker.

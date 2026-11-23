@@ -1,30 +1,42 @@
-# Documentação do Lusiad
+# `Lusiad` – Índice da documentação
 
-## Nesta página
+[🇺🇸 English](../en/index.md) · **🇧🇷 Português (Brasil)**
 
-- [Começar](#começar)
-- [Entender o sistema](#entender-o-sistema)
-- [Reproduzir a avaliação](#reproduzir-a-avaliação)
+### Nesta página
 
-## Começar
-
-1. [Instalação](instalacao.md), com requisitos, release e compilação.
-2. [Primeiros passos](primeiros-passos.md), do projeto à primeira mudança.
-3. [Manual de uso](manual.md), com as telas e os controles principais.
-
-## Entender o sistema
-
-4. [Arquitetura e diretórios](arquitetura.md), incluindo plugin, frontend, Git e MySQL.
-5. [Implementação do rastreamento](implementacao.md), com um exemplo de mudança estrutural.
-6. [Prototipação](prototipacao.md), com as decisões de interface.
-
-## Reproduzir a avaliação
-
-7. [Avaliação](avaliacao.md), com protocolo, versão, cenário e medidas.
-8. [Materiais e resultados agregados](../../evaluation/README.md).
-
-As páginas têm navegação anterior/próxima e link para o tópico correspondente em inglês. Os [READMEs do repositório](../../README.md) apresentam o resumo para quem está conhecendo a ferramenta.
+> [1. Visão geral](#-1-visão-geral)<br>
+> [2. Instalação](#-2-instalação)<br>
+> [3. Projeto](#-3-projeto)<br>
+> [4. Implementação](#-4-implementação)
 
 ---
 
-[Índice](index.md) · [Instalação →](instalacao.md) · [English](../en/index.md)
+## 📖 1. [Visão geral](../../README.pt-BR.md)
+
+- [🖥️ Manual de uso](manual.md)
+- [🎬 Demonstração](demonstracao.md)
+
+## ⚙️ 2. [Instalação](preparacao.md)
+
+- [🔧 Guia de instalação](instalacao.md)
+- [🚀 Primeiros passos](primeiros-passos.md)
+
+## 📐 3. [Projeto](projeto.md)
+
+- [📋 Requisitos](requisitos.md)
+- [✏️ Prototipação](prototipacao.md)
+
+## 💻 4. [Implementação](indice-implementacao.md)
+
+- [🏗️ Arquitetura](arquitetura.md)
+- [🔍 Elementos notáveis da implementação](implementacao.md)
+
+---
+
+<table width="100%">
+<tr>
+<td align="left"><a href="../../README.pt-BR.md">⬅️ Página anterior · Visão geral</a></td>
+<td align="center">📚 Índice da documentação</td>
+<td align="right"><a href="manual.md">Próxima página ➡️ Manual de uso</a></td>
+</tr>
+</table>

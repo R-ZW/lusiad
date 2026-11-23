@@ -1,0 +1,49 @@
+# `Lusiad` – Instalação
+
+[🇺🇸 English](../en/setup.md) · **🇧🇷 Português (Brasil)**
+
+Configure o plugin, o banco e a interface web. Depois, faça a primeira mudança em um projeto Java.
+
+### Nesta página
+
+> [1. Nesta seção](#-1-nesta-seção)<br>
+> [Índice da documentação](#índice-da-documentação)
+
+---
+
+## 📑 1. Nesta seção
+
+- [**🔧 Guia de instalação**](instalacao.md) — Prepare o MySQL, compile o plugin do IntelliJ e inicie a interface web.
+- [**🚀 Primeiros passos**](primeiros-passos.md) — Abra um arquivo Java, edite o modelo e inspecione o primeiro commit.
+
+---
+
+<table width="100%">
+<tr>
+<td align="left"><a href="demonstracao.md">⬅️ Página anterior · Demonstração</a></td>
+<td align="center"><a href="index.md">3️⃣ Instalação</a></td>
+<td align="right"><a href="instalacao.md">Próxima página ➡️ Guia de instalação</a></td>
+</tr>
+</table>
+
+### Índice da documentação
+
+**[📖 Visão geral](../../README.pt-BR.md)**
+
+- [🖥️ Manual de uso](manual.md)
+- [🎬 Demonstração](demonstracao.md)
+
+**[⚙️ Instalação](preparacao.md)** 👈
+
+- [🔧 Guia de instalação](instalacao.md)
+- [🚀 Primeiros passos](primeiros-passos.md)
+
+**[📐 Projeto](projeto.md)**
+
+- [📋 Requisitos](requisitos.md)
+- [✏️ Prototipação](prototipacao.md)
+
+**[💻 Implementação](indice-implementacao.md)**
+
+- [🏗️ Arquitetura](arquitetura.md)
+- [🔍 Elementos notáveis da implementação](implementacao.md)

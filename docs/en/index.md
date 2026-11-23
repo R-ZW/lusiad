@@ -1,30 +1,42 @@
-# Lusiad documentation
+# `Lusiad` – Documentation index
 
-## On this page
+**🇺🇸 English** · [🇧🇷 Português (Brasil)](../pt-BR/index.md)
 
-- [Get started](#get-started)
-- [Understand the system](#understand-the-system)
-- [Reproduce the evaluation](#reproduce-the-evaluation)
+### On this page
 
-## Get started
-
-1. [Installation](installation.md), covering requirements, releases, and source builds.
-2. [First steps](first-steps.md), from a project to its first change.
-3. [User guide](manual.md), with key screens and controls.
-
-## Understand the system
-
-4. [Architecture and directories](architecture.md), including the plugin, frontend, Git, and MySQL.
-5. [Change-tracking implementation](implementation.md), following a structural change.
-6. [Prototyping](prototyping.md), describing interface decisions.
-
-## Reproduce the evaluation
-
-7. [Evaluation](evaluation.md), including the protocol, version, scenario, and measures.
-8. [Materials and aggregate results](../../evaluation/README.md).
-
-Each page links to the previous and next page and to its Portuguese counterpart. The [repository README](../../README.en.md) provides an overview.
+> [1. Overview](#-1-overview)<br>
+> [2. Installation](#-2-installation)<br>
+> [3. Project](#-3-project)<br>
+> [4. Implementation](#-4-implementation)
 
 ---
 
-[Index](index.md) · [Installation →](installation.md) · [Português](../pt-BR/index.md)
+## 📖 1. [Overview](../../README.md)
+
+- [🖥️ User guide](manual.md)
+- [🎬 Demo](demo.md)
+
+## ⚙️ 2. [Installation](setup.md)
+
+- [🔧 Installation guide](installation.md)
+- [🚀 First steps](first-steps.md)
+
+## 📐 3. [Project](project.md)
+
+- [📋 Requirements](requirements.md)
+- [✏️ Prototyping](prototyping.md)
+
+## 💻 4. [Implementation](implementation-index.md)
+
+- [🏗️ Architecture](architecture.md)
+- [🔍 Notable implementation elements](implementation.md)
+
+---
+
+<table width="100%">
+<tr>
+<td align="left"><a href="../../README.md">⬅️ Previous page · Overview</a></td>
+<td align="center">📚 Documentation index</td>
+<td align="right"><a href="manual.md">Next page ➡️ User guide</a></td>
+</tr>
+</table>
