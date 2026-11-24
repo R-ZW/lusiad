@@ -35,7 +35,7 @@ The source code and documentation are available under the [MIT license](LICENSE)
 <tr>
 <td align="left">⬅️ Previous page</td>
 <td align="center">0️⃣ Overview</td>
-<td align="right">User guide | <a href="docs/en/manual.md">Next page ➡️</a></td>
+<td align="right"><a href="docs/en/manual.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -59,4 +59,10 @@ The source code and documentation are available under the [MIT license](LICENSE)
 **[💻 Implementation](docs/en/implementation.md)**
 
 - [🏗️ Architecture](docs/en/architecture.md)
+- [📂 Directory structure](docs/en/directory-structure.md)
+- [🧰 Technology stack](docs/en/technology-stack.md)
+- [🗃️ Data model](docs/en/data-model.md)
+- [🔌 API reference](docs/en/api-reference.md)
+- [🔀 Interaction diagrams](docs/en/interaction-diagrams.md)
+- [🧭 Design decisions](docs/en/design-decisions.md)
 - [🔍 Notable implementation elements](docs/en/notable-implementation-elements.md)

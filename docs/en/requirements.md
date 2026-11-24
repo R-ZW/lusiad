@@ -97,9 +97,9 @@ Moving a block illustrates how these requirements work together. The developer n
 
 <table width="100%">
 <tr>
-<td align="left"><a href="project.md">⬅️ Previous page</a> | Project</td>
+<td align="left"><a href="project.md">⬅️ Previous page</a></td>
 <td align="center"><a href="index.md">7️⃣ Requirements</a></td>
-<td align="right">Prototyping | <a href="prototyping.md">Next page ➡️</a></td>
+<td align="right"><a href="prototyping.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -123,4 +123,10 @@ Moving a block illustrates how these requirements work together. The developer n
 **[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)

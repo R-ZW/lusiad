@@ -20,9 +20,9 @@ Configure o plugin, o banco e a interface web. Depois, faça a primeira mudança
 
 <table width="100%">
 <tr>
-<td align="left"><a href="demonstracao.md">⬅️ Página anterior</a> | Demonstração</td>
+<td align="left"><a href="demonstracao.md">⬅️ Página anterior</a></td>
 <td align="center"><a href="index.md">3️⃣ Instalação</a></td>
-<td align="right">Guia de instalação | <a href="instalacao.md">Próxima página ➡️</a></td>
+<td align="right"><a href="instalacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -46,4 +46,10 @@ Configure o plugin, o banco e a interface web. Depois, faça a primeira mudança
 **[💻 Implementação](implementacao.md)**
 
 - [🏗️ Arquitetura](arquitetura.md)
+- [📂 Estrutura de diretórios](estrutura-de-diretorios.md)
+- [🧰 Tecnologias utilizadas](tecnologias-utilizadas.md)
+- [🗃️ Modelo de dados](modelo-de-dados.md)
+- [🔌 Referência da API](referencia-da-api.md)
+- [🔀 Diagramas de interação](diagramas-de-interacao.md)
+- [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)

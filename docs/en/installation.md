@@ -66,9 +66,9 @@ With the IDE, local service, and frontend running, open the project page. Create
 
 <table width="100%">
 <tr>
-<td align="left"><a href="setup.md">⬅️ Previous page</a> | Installation</td>
+<td align="left"><a href="setup.md">⬅️ Previous page</a></td>
 <td align="center"><a href="index.md">4️⃣ Installation guide</a></td>
-<td align="right">First steps | <a href="first-steps.md">Next page ➡️</a></td>
+<td align="right"><a href="first-steps.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -92,4 +92,10 @@ With the IDE, local service, and frontend running, open the project page. Create
 **[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)

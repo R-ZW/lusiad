@@ -84,9 +84,9 @@ For the corresponding screens in the running application, see the [user guide](m
 
 <table width="100%">
 <tr>
-<td align="left"><a href="requirements.md">⬅️ Previous page</a> | Requirements</td>
+<td align="left"><a href="requirements.md">⬅️ Previous page</a></td>
 <td align="center"><a href="index.md">8️⃣ Prototyping</a></td>
-<td align="right">Implementation | <a href="implementation.md">Next page ➡️</a></td>
+<td align="right"><a href="implementation.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -110,4 +110,10 @@ For the corresponding screens in the running application, see the [user guide](m
 **[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)

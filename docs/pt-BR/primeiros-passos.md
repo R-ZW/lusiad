@@ -33,9 +33,9 @@ No menu de commit, salve as mudanças sob um título descritivo. No histórico, 
 
 <table width="100%">
 <tr>
-<td align="left"><a href="instalacao.md">⬅️ Página anterior</a> | Guia de instalação</td>
+<td align="left"><a href="instalacao.md">⬅️ Página anterior</a></td>
 <td align="center"><a href="index.md">5️⃣ Primeiros passos</a></td>
-<td align="right">Projeto | <a href="projeto.md">Próxima página ➡️</a></td>
+<td align="right"><a href="projeto.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -59,4 +59,10 @@ No menu de commit, salve as mudanças sob um título descritivo. No histórico, 
 **[💻 Implementação](implementacao.md)**
 
 - [🏗️ Arquitetura](arquitetura.md)
+- [📂 Estrutura de diretórios](estrutura-de-diretorios.md)
+- [🧰 Tecnologias utilizadas](tecnologias-utilizadas.md)
+- [🗃️ Modelo de dados](modelo-de-dados.md)
+- [🔌 Referência da API](referencia-da-api.md)
+- [🔀 Diagramas de interação](diagramas-de-interacao.md)
+- [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)

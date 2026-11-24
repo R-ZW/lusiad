@@ -33,9 +33,9 @@ After committing the move, you can inspect it in two ways. Open the event in the
 
 <table width="100%">
 <tr>
-<td align="left"><a href="manual.md">⬅️ Previous page</a> | User guide</td>
+<td align="left"><a href="manual.md">⬅️ Previous page</a></td>
 <td align="center"><a href="index.md">2️⃣ Demo</a></td>
-<td align="right">Installation | <a href="setup.md">Next page ➡️</a></td>
+<td align="right"><a href="setup.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -59,4 +59,10 @@ After committing the move, you can inspect it in two ways. Open the event in the
 **[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)

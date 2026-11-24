@@ -35,7 +35,7 @@ O código e a documentação são distribuídos sob a [licença MIT](LICENSE).
 <tr>
 <td align="left">⬅️ Página anterior</td>
 <td align="center">0️⃣ Visão geral</td>
-<td align="right">Manual de uso | <a href="docs/pt-BR/manual.md">Próxima página ➡️</a></td>
+<td align="right"><a href="docs/pt-BR/manual.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -59,4 +59,10 @@ O código e a documentação são distribuídos sob a [licença MIT](LICENSE).
 **[💻 Implementação](docs/pt-BR/implementacao.md)**
 
 - [🏗️ Arquitetura](docs/pt-BR/arquitetura.md)
+- [📂 Estrutura de diretórios](docs/pt-BR/estrutura-de-diretorios.md)
+- [🧰 Tecnologias utilizadas](docs/pt-BR/tecnologias-utilizadas.md)
+- [🗃️ Modelo de dados](docs/pt-BR/modelo-de-dados.md)
+- [🔌 Referência da API](docs/pt-BR/referencia-da-api.md)
+- [🔀 Diagramas de interação](docs/pt-BR/diagramas-de-interacao.md)
+- [🧭 Decisões de projeto](docs/pt-BR/decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](docs/pt-BR/elementos-notaveis-da-implementacao.md)

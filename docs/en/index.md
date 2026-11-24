@@ -29,14 +29,20 @@
 ## 💻 4. [Implementation](implementation.md)
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
 
 ---
 
 <table width="100%">
 <tr>
-<td align="left"><a href="../../README.md">⬅️ Previous page</a> | Overview</td>
+<td align="left"><a href="../../README.md">⬅️ Previous page</a></td>
 <td align="center">📚 Documentation index</td>
-<td align="right">User guide | <a href="manual.md">Next page ➡️</a></td>
+<td align="right"><a href="manual.md">Next page ➡️</a></td>
 </tr>
 </table>

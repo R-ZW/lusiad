@@ -20,9 +20,9 @@ Set up the plugin, database, and web interface, then make your first change in a
 
 <table width="100%">
 <tr>
-<td align="left"><a href="demo.md">⬅️ Previous page</a> | Demo</td>
+<td align="left"><a href="demo.md">⬅️ Previous page</a></td>
 <td align="center"><a href="index.md">3️⃣ Installation</a></td>
-<td align="right">Installation guide | <a href="installation.md">Next page ➡️</a></td>
+<td align="right"><a href="installation.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -46,4 +46,10 @@ Set up the plugin, database, and web interface, then make your first change in a
 **[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)

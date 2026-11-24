@@ -20,9 +20,9 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 
 <table width="100%">
 <tr>
-<td align="left"><a href="first-steps.md">⬅️ Previous page</a> | First steps</td>
+<td align="left"><a href="first-steps.md">⬅️ Previous page</a></td>
 <td align="center"><a href="index.md">6️⃣ Project</a></td>
-<td align="right">Requirements | <a href="requirements.md">Next page ➡️</a></td>
+<td align="right"><a href="requirements.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -46,4 +46,10 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 **[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)

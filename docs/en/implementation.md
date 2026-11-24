@@ -14,15 +14,21 @@ Follow an edit from the browser to the Java source, its change record, and the h
 ## 📑 In this section
 
 - [**🏗️ Architecture**](architecture.md) — See how the IntelliJ plugin and Next.js application work with Git and MySQL.
+- [**📂 Directory structure**](directory-structure.md) — Explore the repository tree and locate the source files for each part of Lusiad.
+- [**🧰 Technology stack**](technology-stack.md)
+- [**🗃️ Data model**](data-model.md)
+- [**🔌 API reference**](api-reference.md)
+- [**🔀 Interaction diagrams**](interaction-diagrams.md)
+- [**🧭 Design decisions**](design-decisions.md)
 - [**🔍 Notable implementation elements**](notable-implementation-elements.md) — Trace a method move through recording, versioning, and reconstruction.
 
 ---
 
 <table width="100%">
 <tr>
-<td align="left"><a href="prototyping.md">⬅️ Previous page</a> | Prototyping</td>
+<td align="left"><a href="prototyping.md">⬅️ Previous page</a></td>
 <td align="center"><a href="index.md">9️⃣ Implementation</a></td>
-<td align="right">Architecture | <a href="architecture.md">Next page ➡️</a></td>
+<td align="right"><a href="architecture.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -46,4 +52,10 @@ Follow an edit from the browser to the Java source, its change record, and the h
 **[💻 Implementation](implementation.md)** 👈
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)

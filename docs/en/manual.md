@@ -66,9 +66,9 @@ The IntelliJ plugin panel was not open during capture. To complete it, install t
 
 <table width="100%">
 <tr>
-<td align="left"><a href="../../README.md">⬅️ Previous page</a> | Overview</td>
+<td align="left"><a href="../../README.md">⬅️ Previous page</a></td>
 <td align="center"><a href="index.md">1️⃣ User guide</a></td>
-<td align="right">Demo | <a href="demo.md">Next page ➡️</a></td>
+<td align="right"><a href="demo.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -92,4 +92,10 @@ The IntelliJ plugin panel was not open during capture. To complete it, install t
 **[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)

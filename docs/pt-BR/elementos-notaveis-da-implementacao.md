@@ -44,8 +44,8 @@ O modelo de dados permite distinguir uma mudança em um elemento Java de uma dif
 
 <table width="100%">
 <tr>
-<td align="left"><a href="arquitetura.md">⬅️ Página anterior</a> | Arquitetura</td>
-<td align="center"><a href="index.md">1️⃣1️⃣ Elementos notáveis da implementação</a></td>
+<td align="left"><a href="decisoes-de-projeto.md">⬅️ Página anterior</a></td>
+<td align="center"><a href="index.md">1️⃣7️⃣ Elementos notáveis da implementação</a></td>
 <td align="right">Próxima página ➡️</td>
 </tr>
 </table>
@@ -70,4 +70,10 @@ O modelo de dados permite distinguir uma mudança em um elemento Java de uma dif
 **[💻 Implementação](implementacao.md)**
 
 - [🏗️ Arquitetura](arquitetura.md)
+- [📂 Estrutura de diretórios](estrutura-de-diretorios.md)
+- [🧰 Tecnologias utilizadas](tecnologias-utilizadas.md)
+- [🗃️ Modelo de dados](modelo-de-dados.md)
+- [🔌 Referência da API](referencia-da-api.md)
+- [🔀 Diagramas de interação](diagramas-de-interacao.md)
+- [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md) 👈

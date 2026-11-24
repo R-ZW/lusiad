@@ -32,9 +32,9 @@ Em um projeto Java criado só para esta demonstração, `Exemplo.java` continha 
 
 <table width="100%">
 <tr>
-<td align="left"><a href="manual.md">⬅️ Página anterior</a> | Manual de uso</td>
+<td align="left"><a href="manual.md">⬅️ Página anterior</a></td>
 <td align="center"><a href="index.md">2️⃣ Demonstração</a></td>
-<td align="right">Instalação | <a href="preparacao.md">Próxima página ➡️</a></td>
+<td align="right"><a href="preparacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -58,4 +58,10 @@ Em um projeto Java criado só para esta demonstração, `Exemplo.java` continha 
 **[💻 Implementação](implementacao.md)**
 
 - [🏗️ Arquitetura](arquitetura.md)
+- [📂 Estrutura de diretórios](estrutura-de-diretorios.md)
+- [🧰 Tecnologias utilizadas](tecnologias-utilizadas.md)
+- [🗃️ Modelo de dados](modelo-de-dados.md)
+- [🔌 Referência da API](referencia-da-api.md)
+- [🔀 Diagramas de interação](diagramas-de-interacao.md)
+- [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)

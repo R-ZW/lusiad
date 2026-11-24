@@ -44,8 +44,8 @@ The data model can identify a change in a Java element apart from a line-based t
 
 <table width="100%">
 <tr>
-<td align="left"><a href="architecture.md">⬅️ Previous page</a> | Architecture</td>
-<td align="center"><a href="index.md">1️⃣1️⃣ Notable implementation elements</a></td>
+<td align="left"><a href="design-decisions.md">⬅️ Previous page</a></td>
+<td align="center"><a href="index.md">1️⃣7️⃣ Notable implementation elements</a></td>
 <td align="right">Next page ➡️</td>
 </tr>
 </table>
@@ -70,4 +70,10 @@ The data model can identify a change in a Java element apart from a line-based t
 **[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
+- [📂 Directory structure](directory-structure.md)
+- [🧰 Technology stack](technology-stack.md)
+- [🗃️ Data model](data-model.md)
+- [🔌 API reference](api-reference.md)
+- [🔀 Interaction diagrams](interaction-diagrams.md)
+- [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md) 👈
