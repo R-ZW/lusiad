@@ -27,15 +27,15 @@ Abra um `.java` no explorador. A área central apresenta o modelo estrutural e o
 
 ## 🕘 3. Registrar e consultar
 
-No menu de commit, salve as mudanças sob um título descritivo. No histórico, selecione esse commit e abra uma mudança individual. Compare os estados anterior e posterior na visualização do código ou do modelo. O [manual](manual.md) descreve os outros painéis e a [implementação](implementacao.md) explica de onde vêm esses estados.
+No menu de commit, salve as mudanças sob um título descritivo. No histórico, selecione esse commit e abra uma mudança individual. Compare os estados anterior e posterior na visualização do código ou do modelo. O [manual](manual.md) descreve os outros painéis e a [implementação](elementos-notaveis-da-implementacao.md) explica de onde vêm esses estados.
 
 ---
 
 <table width="100%">
 <tr>
-<td align="left"><a href="instalacao.md">⬅️ Página anterior · Guia de instalação</a></td>
+<td align="left"><a href="instalacao.md">⬅️ Página anterior</a> | Guia de instalação</td>
 <td align="center"><a href="index.md">5️⃣ Primeiros passos</a></td>
-<td align="right"><a href="projeto.md">Próxima página ➡️ Projeto</a></td>
+<td align="right">Projeto | <a href="projeto.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -56,7 +56,7 @@ No menu de commit, salve as mudanças sob um título descritivo. No histórico, 
 - [📋 Requisitos](requisitos.md)
 - [✏️ Prototipação](prototipacao.md)
 
-**[💻 Implementação](indice-implementacao.md)**
+**[💻 Implementação](implementacao.md)**
 
 - [🏗️ Arquitetura](arquitetura.md)
-- [🔍 Elementos notáveis da implementação](implementacao.md)
+- [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)

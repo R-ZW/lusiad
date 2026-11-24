@@ -6,12 +6,12 @@ Set up the plugin, database, and web interface, then make your first change in a
 
 ### On this page
 
-> [1. In this section](#-1-in-this-section)<br>
+> [In this section](#-in-this-section)<br>
 > [Documentation index](#documentation-index)
 
 ---
 
-## 📑 1. In this section
+## 📑 In this section
 
 - [**🔧 Installation guide**](installation.md) — Prepare MySQL, build the IntelliJ plugin, and start the web interface.
 - [**🚀 First steps**](first-steps.md) — Open a Java file, edit the model, and inspect your first commit.
@@ -20,9 +20,9 @@ Set up the plugin, database, and web interface, then make your first change in a
 
 <table width="100%">
 <tr>
-<td align="left"><a href="demo.md">⬅️ Previous page · Demo</a></td>
+<td align="left"><a href="demo.md">⬅️ Previous page</a> | Demo</td>
 <td align="center"><a href="index.md">3️⃣ Installation</a></td>
-<td align="right"><a href="installation.md">Next page ➡️ Installation guide</a></td>
+<td align="right">Installation guide | <a href="installation.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ Set up the plugin, database, and web interface, then make your first change in a
 - [📋 Requirements](requirements.md)
 - [✏️ Prototyping](prototyping.md)
 
-**[💻 Implementation](implementation-index.md)**
+**[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
-- [🔍 Notable implementation elements](implementation.md)
+- [🔍 Notable implementation elements](notable-implementation-elements.md)

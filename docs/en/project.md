@@ -6,12 +6,12 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 
 ### On this page
 
-> [1. In this section](#-1-in-this-section)<br>
+> [In this section](#-in-this-section)<br>
 > [Documentation index](#documentation-index)
 
 ---
 
-## 📑 1. In this section
+## 📑 In this section
 
 - [**📋 Requirements**](requirements.md) — Read the functional requirements by user story group and the quality goals for the tool.
 - [**✏️ Prototyping**](prototyping.md) — See how the canvas, component library, and history views took shape.
@@ -20,9 +20,9 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 
 <table width="100%">
 <tr>
-<td align="left"><a href="first-steps.md">⬅️ Previous page · First steps</a></td>
+<td align="left"><a href="first-steps.md">⬅️ Previous page</a> | First steps</td>
 <td align="center"><a href="index.md">6️⃣ Project</a></td>
-<td align="right"><a href="requirements.md">Next page ➡️ Requirements</a></td>
+<td align="right">Requirements | <a href="requirements.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 - [📋 Requirements](requirements.md)
 - [✏️ Prototyping](prototyping.md)
 
-**[💻 Implementation](implementation-index.md)**
+**[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
-- [🔍 Notable implementation elements](implementation.md)
+- [🔍 Notable implementation elements](notable-implementation-elements.md)

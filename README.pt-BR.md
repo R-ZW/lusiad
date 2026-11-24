@@ -35,7 +35,7 @@ O código e a documentação são distribuídos sob a [licença MIT](LICENSE).
 <tr>
 <td align="left">⬅️ Página anterior</td>
 <td align="center">0️⃣ Visão geral</td>
-<td align="right"><a href="docs/pt-BR/manual.md">Próxima página ➡️ Manual de uso</a></td>
+<td align="right">Manual de uso | <a href="docs/pt-BR/manual.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -56,7 +56,7 @@ O código e a documentação são distribuídos sob a [licença MIT](LICENSE).
 - [📋 Requisitos](docs/pt-BR/requisitos.md)
 - [✏️ Prototipação](docs/pt-BR/prototipacao.md)
 
-**[💻 Implementação](docs/pt-BR/indice-implementacao.md)**
+**[💻 Implementação](docs/pt-BR/implementacao.md)**
 
 - [🏗️ Arquitetura](docs/pt-BR/arquitetura.md)
-- [🔍 Elementos notáveis da implementação](docs/pt-BR/implementacao.md)
+- [🔍 Elementos notáveis da implementação](docs/pt-BR/elementos-notaveis-da-implementacao.md)

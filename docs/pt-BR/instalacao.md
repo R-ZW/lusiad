@@ -66,9 +66,9 @@ Com a IDE, o servidor local e o frontend ativos, abra a página de projetos. Cri
 
 <table width="100%">
 <tr>
-<td align="left"><a href="preparacao.md">⬅️ Página anterior · Instalação</a></td>
+<td align="left"><a href="preparacao.md">⬅️ Página anterior</a> | Instalação</td>
 <td align="center"><a href="index.md">4️⃣ Guia de instalação</a></td>
-<td align="right"><a href="primeiros-passos.md">Próxima página ➡️ Primeiros passos</a></td>
+<td align="right">Primeiros passos | <a href="primeiros-passos.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -89,7 +89,7 @@ Com a IDE, o servidor local e o frontend ativos, abra a página de projetos. Cri
 - [📋 Requisitos](requisitos.md)
 - [✏️ Prototipação](prototipacao.md)
 
-**[💻 Implementação](indice-implementacao.md)**
+**[💻 Implementação](implementacao.md)**
 
 - [🏗️ Arquitetura](arquitetura.md)
-- [🔍 Elementos notáveis da implementação](implementacao.md)
+- [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)

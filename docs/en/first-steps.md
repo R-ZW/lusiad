@@ -27,15 +27,15 @@ Open a `.java` file in the explorer. The central workspace shows its structure a
 
 ## 🕘 3. Record and inspect
 
-In the commit menu, save your changes under a descriptive title. In the history view, select the commit and open an individual change. Compare the before and after states in the code or model view. The [manual](manual.md) covers the other panels, and [implementation](implementation.md) explains how these states are obtained.
+In the commit menu, save your changes under a descriptive title. In the history view, select the commit and open an individual change. Compare the before and after states in the code or model view. The [manual](manual.md) covers the other panels, and [implementation](notable-implementation-elements.md) explains how these states are obtained.
 
 ---
 
 <table width="100%">
 <tr>
-<td align="left"><a href="installation.md">⬅️ Previous page · Installation guide</a></td>
+<td align="left"><a href="installation.md">⬅️ Previous page</a> | Installation guide</td>
 <td align="center"><a href="index.md">5️⃣ First steps</a></td>
-<td align="right"><a href="project.md">Next page ➡️ Project</a></td>
+<td align="right">Project | <a href="project.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -56,7 +56,7 @@ In the commit menu, save your changes under a descriptive title. In the history 
 - [📋 Requirements](requirements.md)
 - [✏️ Prototyping](prototyping.md)
 
-**[💻 Implementation](implementation-index.md)**
+**[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
-- [🔍 Notable implementation elements](implementation.md)
+- [🔍 Notable implementation elements](notable-implementation-elements.md)

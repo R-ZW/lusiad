@@ -35,7 +35,7 @@ The source code and documentation are available under the [MIT license](LICENSE)
 <tr>
 <td align="left">⬅️ Previous page</td>
 <td align="center">0️⃣ Overview</td>
-<td align="right"><a href="docs/en/manual.md">Next page ➡️ User guide</a></td>
+<td align="right">User guide | <a href="docs/en/manual.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -56,7 +56,7 @@ The source code and documentation are available under the [MIT license](LICENSE)
 - [📋 Requirements](docs/en/requirements.md)
 - [✏️ Prototyping](docs/en/prototyping.md)
 
-**[💻 Implementation](docs/en/implementation-index.md)**
+**[💻 Implementation](docs/en/implementation.md)**
 
 - [🏗️ Architecture](docs/en/architecture.md)
-- [🔍 Notable implementation elements](docs/en/implementation.md)
+- [🔍 Notable implementation elements](docs/en/notable-implementation-elements.md)

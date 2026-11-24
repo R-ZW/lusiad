@@ -36,22 +36,22 @@ Inicie Git no projeto pela interface e registre uma versão pelo menu de commit.
 
 As imagens abaixo foram capturadas na interface real com um projeto descartável. O backend demonstrado corresponde a `851120d` e o frontend a `d2f9326`.
 
-![Biblioteca e modelo com iniciar antes de encerrar](../assets/01-modelagem.png)
+![Biblioteca e modelo com iniciar antes de encerrar](../assets/01-modeling-canvas.png)
 *Modelo e biblioteca antes da movimentação.*
 
-![Modelo com encerrar antes de iniciar](../assets/02-movimento.png)
+![Modelo com encerrar antes de iniciar](../assets/02-method-move.png)
 *Modelo e Java depois da movimentação.*
 
-![Biblioteca de componentes, classe Java e atributos do método selecionado](../assets/08-propriedades.png)
+![Biblioteca de componentes, classe Java e atributos do método selecionado](../assets/08-properties.png)
 *Biblioteca, modelo e propriedades na mesma tela.*
 
-![Histórico com o commit e a mudança de movimentação](../assets/03-historico.png)
+![Histórico com o commit e a mudança de movimentação](../assets/03-change-history.png)
 *Commit e evento individual no histórico.*
 
-![Visualização da mudança individual do método encerrar](../assets/04-mudanca.png)
+![Visualização da mudança individual do método encerrar](../assets/04-individual-change.png)
 *Consulta do evento selecionado.*
 
-![Estados anterior e posterior em dois painéis](../assets/05-comparacao.png)
+![Estados anterior e posterior em dois painéis](../assets/05-version-comparison.png)
 *Comparação das versões no canvas.*
 
 ![Diferença textual Git entre as duas versões](../assets/06-git-diff.png)
@@ -66,9 +66,9 @@ O painel do plugin IntelliJ não estava aberto durante a captura. Para completá
 
 <table width="100%">
 <tr>
-<td align="left"><a href="../../README.pt-BR.md">⬅️ Página anterior · Visão geral</a></td>
+<td align="left"><a href="../../README.pt-BR.md">⬅️ Página anterior</a> | Visão geral</td>
 <td align="center"><a href="index.md">1️⃣ Manual de uso</a></td>
-<td align="right"><a href="demonstracao.md">Próxima página ➡️ Demonstração</a></td>
+<td align="right">Demonstração | <a href="demonstracao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -89,7 +89,7 @@ O painel do plugin IntelliJ não estava aberto durante a captura. Para completá
 - [📋 Requisitos](requisitos.md)
 - [✏️ Prototipação](prototipacao.md)
 
-**[💻 Implementação](indice-implementacao.md)**
+**[💻 Implementação](implementacao.md)**
 
 - [🏗️ Arquitetura](arquitetura.md)
-- [🔍 Elementos notáveis da implementação](implementacao.md)
+- [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)

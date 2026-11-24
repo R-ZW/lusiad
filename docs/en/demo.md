@@ -15,27 +15,27 @@
 
 In `Exemplo.java`, the method `iniciar()` appears above `encerrar()`. The canvas shows both methods inside their enclosing class.
 
-![Java model of Exemplo.java with iniciar above encerrar](../assets/01-modelagem.png)
+![Java model of Exemplo.java with iniciar above encerrar](../assets/01-modeling-canvas.png)
 
 ## ↕️ 2. Move the method
 
 Drag `encerrar()` above `iniciar()`. The Java source reflects the new order, and Lusiad records the move as an individual change.
 
-![Java model and source after moving encerrar above iniciar](../assets/02-movimento.png)
+![Java model and source after moving encerrar above iniciar](../assets/02-method-move.png)
 
 ## 🔍 3. Compare the commits
 
 After committing the move, you can inspect it in two ways. Open the event in the history to see the method immediately before and after the move. Select two commits to compare the file across versions, as shown below.
 
-![Side-by-side comparison of the two commits showing the change in method order](../assets/05-comparacao.png)
+![Side-by-side comparison of the two commits showing the change in method order](../assets/05-version-comparison.png)
 
 ---
 
 <table width="100%">
 <tr>
-<td align="left"><a href="manual.md">⬅️ Previous page · User guide</a></td>
+<td align="left"><a href="manual.md">⬅️ Previous page</a> | User guide</td>
 <td align="center"><a href="index.md">2️⃣ Demo</a></td>
-<td align="right"><a href="setup.md">Next page ➡️ Installation</a></td>
+<td align="right">Installation | <a href="setup.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -56,7 +56,7 @@ After committing the move, you can inspect it in two ways. Open the event in the
 - [📋 Requirements](requirements.md)
 - [✏️ Prototyping](prototyping.md)
 
-**[💻 Implementation](implementation-index.md)**
+**[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
-- [🔍 Notable implementation elements](implementation.md)
+- [🔍 Notable implementation elements](notable-implementation-elements.md)

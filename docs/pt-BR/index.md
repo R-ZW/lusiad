@@ -26,17 +26,17 @@
 - [📋 Requisitos](requisitos.md)
 - [✏️ Prototipação](prototipacao.md)
 
-## 💻 4. [Implementação](indice-implementacao.md)
+## 💻 4. [Implementação](implementacao.md)
 
 - [🏗️ Arquitetura](arquitetura.md)
-- [🔍 Elementos notáveis da implementação](implementacao.md)
+- [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)
 
 ---
 
 <table width="100%">
 <tr>
-<td align="left"><a href="../../README.pt-BR.md">⬅️ Página anterior · Visão geral</a></td>
+<td align="left"><a href="../../README.pt-BR.md">⬅️ Página anterior</a> | Visão geral</td>
 <td align="center">📚 Índice da documentação</td>
-<td align="right"><a href="manual.md">Próxima página ➡️ Manual de uso</a></td>
+<td align="right">Manual de uso | <a href="manual.md">Próxima página ➡️</a></td>
 </tr>
 </table>

@@ -36,22 +36,22 @@ Initialize Git through the interface and create a commit. In the history, select
 
 These screenshots came from the live interface and a disposable project. The demonstrated backend is `851120d` and frontend `d2f9326`.
 
-![Library and model with iniciar above encerrar](../assets/01-modelagem.png)
+![Library and model with iniciar above encerrar](../assets/01-modeling-canvas.png)
 *Model and library before the move.*
 
-![Model with encerrar above iniciar](../assets/02-movimento.png)
+![Model with encerrar above iniciar](../assets/02-method-move.png)
 *Model and Java after the move.*
 
-![Component library, Java class, and selected method properties](../assets/08-propriedades.png)
+![Component library, Java class, and selected method properties](../assets/08-properties.png)
 *Library, model, and properties in one screen.*
 
-![History showing the commit and move event](../assets/03-historico.png)
+![History showing the commit and move event](../assets/03-change-history.png)
 *Commit and individual event in history.*
 
-![Individual view of the encerrar method move](../assets/04-mudanca.png)
+![Individual view of the encerrar method move](../assets/04-individual-change.png)
 *Selected event view.*
 
-![Before and after states in separate panes](../assets/05-comparacao.png)
+![Before and after states in separate panes](../assets/05-version-comparison.png)
 *Canvas comparison of the two commits.*
 
 ![Git text diff between the two versions](../assets/06-git-diff.png)
@@ -66,9 +66,9 @@ The IntelliJ plugin panel was not open during capture. To complete it, install t
 
 <table width="100%">
 <tr>
-<td align="left"><a href="../../README.md">⬅️ Previous page · Overview</a></td>
+<td align="left"><a href="../../README.md">⬅️ Previous page</a> | Overview</td>
 <td align="center"><a href="index.md">1️⃣ User guide</a></td>
-<td align="right"><a href="demo.md">Next page ➡️ Demo</a></td>
+<td align="right">Demo | <a href="demo.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -89,7 +89,7 @@ The IntelliJ plugin panel was not open during capture. To complete it, install t
 - [📋 Requirements](requirements.md)
 - [✏️ Prototyping](prototyping.md)
 
-**[💻 Implementation](implementation-index.md)**
+**[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
-- [🔍 Notable implementation elements](implementation.md)
+- [🔍 Notable implementation elements](notable-implementation-elements.md)

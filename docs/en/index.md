@@ -26,17 +26,17 @@
 - [📋 Requirements](requirements.md)
 - [✏️ Prototyping](prototyping.md)
 
-## 💻 4. [Implementation](implementation-index.md)
+## 💻 4. [Implementation](implementation.md)
 
 - [🏗️ Architecture](architecture.md)
-- [🔍 Notable implementation elements](implementation.md)
+- [🔍 Notable implementation elements](notable-implementation-elements.md)
 
 ---
 
 <table width="100%">
 <tr>
-<td align="left"><a href="../../README.md">⬅️ Previous page · Overview</a></td>
+<td align="left"><a href="../../README.md">⬅️ Previous page</a> | Overview</td>
 <td align="center">📚 Documentation index</td>
-<td align="right"><a href="manual.md">Next page ➡️ User guide</a></td>
+<td align="right">User guide | <a href="manual.md">Next page ➡️</a></td>
 </tr>
 </table>

@@ -66,9 +66,9 @@ With the IDE, local service, and frontend running, open the project page. Create
 
 <table width="100%">
 <tr>
-<td align="left"><a href="setup.md">⬅️ Previous page · Installation</a></td>
+<td align="left"><a href="setup.md">⬅️ Previous page</a> | Installation</td>
 <td align="center"><a href="index.md">4️⃣ Installation guide</a></td>
-<td align="right"><a href="first-steps.md">Next page ➡️ First steps</a></td>
+<td align="right">First steps | <a href="first-steps.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -89,7 +89,7 @@ With the IDE, local service, and frontend running, open the project page. Create
 - [📋 Requirements](requirements.md)
 - [✏️ Prototyping](prototyping.md)
 
-**[💻 Implementation](implementation-index.md)**
+**[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md)
-- [🔍 Notable implementation elements](implementation.md)
+- [🔍 Notable implementation elements](notable-implementation-elements.md)

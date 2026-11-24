@@ -6,12 +6,12 @@ Configure o plugin, o banco e a interface web. Depois, faça a primeira mudança
 
 ### Nesta página
 
-> [1. Nesta seção](#-1-nesta-seção)<br>
+> [Nesta seção](#-nesta-seção)<br>
 > [Índice da documentação](#índice-da-documentação)
 
 ---
 
-## 📑 1. Nesta seção
+## 📑 Nesta seção
 
 - [**🔧 Guia de instalação**](instalacao.md) — Prepare o MySQL, compile o plugin do IntelliJ e inicie a interface web.
 - [**🚀 Primeiros passos**](primeiros-passos.md) — Abra um arquivo Java, edite o modelo e inspecione o primeiro commit.
@@ -20,9 +20,9 @@ Configure o plugin, o banco e a interface web. Depois, faça a primeira mudança
 
 <table width="100%">
 <tr>
-<td align="left"><a href="demonstracao.md">⬅️ Página anterior · Demonstração</a></td>
+<td align="left"><a href="demonstracao.md">⬅️ Página anterior</a> | Demonstração</td>
 <td align="center"><a href="index.md">3️⃣ Instalação</a></td>
-<td align="right"><a href="instalacao.md">Próxima página ➡️ Guia de instalação</a></td>
+<td align="right">Guia de instalação | <a href="instalacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ Configure o plugin, o banco e a interface web. Depois, faça a primeira mudança
 - [📋 Requisitos](requisitos.md)
 - [✏️ Prototipação](prototipacao.md)
 
-**[💻 Implementação](indice-implementacao.md)**
+**[💻 Implementação](implementacao.md)**
 
 - [🏗️ Arquitetura](arquitetura.md)
-- [🔍 Elementos notáveis da implementação](implementacao.md)
+- [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)

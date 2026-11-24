@@ -28,7 +28,7 @@ O MySQL guarda projetos, branches, commits, eventos de mudança e recibos de ope
 3. O serviço registra a operação e o elemento afetado no MySQL. Mudanças pendentes podem ser reunidas em um commit Git pela interface.
 4. Na consulta ao histórico, o frontend carrega o registro e solicita os estados reconstruídos para mostrar o antes e o depois.
 
-O fluxo completo, com os limites entre dados de apresentação e reconstrução, é descrito em [Implementação](implementacao.md).
+O fluxo completo, com os limites entre dados de apresentação e reconstrução, é descrito em [Implementação](elementos-notaveis-da-implementacao.md).
 
 <a name="onde-localizar-o-código"></a>
 
@@ -49,9 +49,9 @@ O fluxo completo, com os limites entre dados de apresentação e reconstrução,
 
 <table width="100%">
 <tr>
-<td align="left"><a href="indice-implementacao.md">⬅️ Página anterior · Implementação</a></td>
+<td align="left"><a href="implementacao.md">⬅️ Página anterior</a> | Implementação</td>
 <td align="center"><a href="index.md">🔟 Arquitetura</a></td>
-<td align="right"><a href="implementacao.md">Próxima página ➡️ Elementos notáveis da implementação</a></td>
+<td align="right">Elementos notáveis da implementação | <a href="elementos-notaveis-da-implementacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -72,7 +72,7 @@ O fluxo completo, com os limites entre dados de apresentação e reconstrução,
 - [📋 Requisitos](requisitos.md)
 - [✏️ Prototipação](prototipacao.md)
 
-**[💻 Implementação](indice-implementacao.md)**
+**[💻 Implementação](implementacao.md)**
 
 - [🏗️ Arquitetura](arquitetura.md) 👈
-- [🔍 Elementos notáveis da implementação](implementacao.md)
+- [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)

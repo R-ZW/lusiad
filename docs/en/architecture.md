@@ -28,7 +28,7 @@ MySQL stores projects, branches, commits, change events, and operation receipts.
 3. The service records the operation and affected element in MySQL. The interface can group pending changes into a Git commit.
 4. The history view loads the record and requests reconstructed states for a before and after view.
 
-See [Implementation](implementation.md) for the boundary between display facts and replay data.
+See [Implementation](notable-implementation-elements.md) for the boundary between display facts and replay data.
 
 <a name="code-map"></a>
 
@@ -49,9 +49,9 @@ See [Implementation](implementation.md) for the boundary between display facts a
 
 <table width="100%">
 <tr>
-<td align="left"><a href="implementation-index.md">⬅️ Previous page · Implementation</a></td>
+<td align="left"><a href="implementation.md">⬅️ Previous page</a> | Implementation</td>
 <td align="center"><a href="index.md">🔟 Architecture</a></td>
-<td align="right"><a href="implementation.md">Next page ➡️ Notable implementation elements</a></td>
+<td align="right">Notable implementation elements | <a href="notable-implementation-elements.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -72,7 +72,7 @@ See [Implementation](implementation.md) for the boundary between display facts a
 - [📋 Requirements](requirements.md)
 - [✏️ Prototyping](prototyping.md)
 
-**[💻 Implementation](implementation-index.md)**
+**[💻 Implementation](implementation.md)**
 
 - [🏗️ Architecture](architecture.md) 👈
-- [🔍 Notable implementation elements](implementation.md)
+- [🔍 Notable implementation elements](notable-implementation-elements.md)
