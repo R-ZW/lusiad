@@ -34,7 +34,7 @@ No menu de commit, salve as mudanças sob um título descritivo. No histórico, 
 <table width="100%">
 <tr>
 <td align="left"><a href="instalacao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="index.md">5️⃣ Primeiros passos</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">5️⃣ Primeiros passos</a></td>
 <td align="right"><a href="projeto.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -66,3 +66,11 @@ No menu de commit, salve as mudanças sob um título descritivo. No histórico, 
 - [🔀 Diagramas de interação](diagramas-de-interacao.md)
 - [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)
+
+**[📊 Avaliação](avaliacao.md)**
+
+- [📋 Planejamento](avaliacao-planejamento.md)
+- [🧪 Execução](avaliacao-execucao.md)
+- [📈 Resultados](avaliacao-resultados.md)
+- [💬 Discussão](avaliacao-discussao.md)
+- [📂 Materiais e dados](avaliacao-dados.md)

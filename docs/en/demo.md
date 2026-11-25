@@ -34,7 +34,7 @@ After committing the move, you can inspect it in two ways. Open the event in the
 <table width="100%">
 <tr>
 <td align="left"><a href="manual.md">⬅️ Previous page</a></td>
-<td align="center"><a href="index.md">2️⃣ Demo</a></td>
+<td align="center"><a href="../../README.md#documentation-index">2️⃣ Demo</a></td>
 <td align="right"><a href="setup.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -66,3 +66,11 @@ After committing the move, you can inspect it in two ways. Open the event in the
 - [🔀 Interaction diagrams](interaction-diagrams.md)
 - [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
+
+**[📊 Evaluation](evaluation.md)**
+
+- [📋 Planning](evaluation-planning.md)
+- [🧪 Execution](evaluation-execution.md)
+- [📈 Results](evaluation-results.md)
+- [💬 Discussion](evaluation-discussion.md)
+- [📂 Materials and data](evaluation-data.md)

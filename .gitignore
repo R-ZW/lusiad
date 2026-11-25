@@ -13,6 +13,16 @@
 release/*.zip
 release/test-install*/
 zenodo/
+!/docs/zenodo/
+/docs/zenodo/*
+!/docs/zenodo/evaluation-material-1-form-profile.txt
+!/docs/zenodo/evaluation-material-2-form-tasks.txt
+!/docs/zenodo/evaluation-material-3-form-sus-and-tam.txt
+!/docs/zenodo/evaluation-material-session-guide.md
+!/docs/zenodo/evaluation-results-1-profile.csv
+!/docs/zenodo/evaluation-results-3-sus-and-tam.csv
+!/docs/zenodo/evaluation-results-transcription-0[1-9].txt
+!/docs/zenodo/evaluation-results-transcription-1[0-5].txt
 private/
 evaluation/scenario/aval-base-local.sql
 evaluation/scenario/temp/

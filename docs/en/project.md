@@ -21,7 +21,7 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 <table width="100%">
 <tr>
 <td align="left"><a href="first-steps.md">⬅️ Previous page</a></td>
-<td align="center"><a href="index.md">6️⃣ Project</a></td>
+<td align="center"><a href="../../README.md#documentation-index">6️⃣ Project</a></td>
 <td align="right"><a href="requirements.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -53,3 +53,11 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 - [🔀 Interaction diagrams](interaction-diagrams.md)
 - [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
+
+**[📊 Evaluation](evaluation.md)**
+
+- [📋 Planning](evaluation-planning.md)
+- [🧪 Execution](evaluation-execution.md)
+- [📈 Results](evaluation-results.md)
+- [💬 Discussion](evaluation-discussion.md)
+- [📂 Materials and data](evaluation-data.md)

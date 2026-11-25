@@ -21,7 +21,7 @@ Conheça os requisitos do Lusiad e os protótipos que orientaram o desenho do ed
 <table width="100%">
 <tr>
 <td align="left"><a href="primeiros-passos.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="index.md">6️⃣ Projeto</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">6️⃣ Projeto</a></td>
 <td align="right"><a href="requisitos.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -53,3 +53,11 @@ Conheça os requisitos do Lusiad e os protótipos que orientaram o desenho do ed
 - [🔀 Diagramas de interação](diagramas-de-interacao.md)
 - [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)
+
+**[📊 Avaliação](avaliacao.md)**
+
+- [📋 Planejamento](avaliacao-planejamento.md)
+- [🧪 Execução](avaliacao-execucao.md)
+- [📈 Resultados](avaliacao-resultados.md)
+- [💬 Discussão](avaliacao-discussao.md)
+- [📂 Materiais e dados](avaliacao-dados.md)

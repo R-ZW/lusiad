@@ -1,0 +1,318 @@
+
+Transcrição 01
+
+0:00
+/
+40:32
+Transcrição
+Pesquisar transcrição
+0:02
+Tá, acho que tá tá gravando. Bueno. Eh, boa noite, [participante]. Eh, obrigado por
+0:07
+reservar o tempo para participar aqui. Tu consegue me escutar bem?
+0:11
+>> Sim, escuto bem.
+0:12
+>> Tá, antes de começar, eu quero avisar que a sessão ela vai ser gravada. A
+0:17
+proposta é gravar o áudio e a tela durante as atividades para que eu possa
+0:21
+rever o uso da ferramenta na análise. Eh, tu concorda com isso?
+0:25
+>> Sim.
+0:26
+>> Tá. H, essa avaliação, ela faz parte do meu
+0:29
+trabalho de conclusão de curso. A ferramenta base, ela se chama [ferramenta]. Eh,
+0:33
+ela basicamente representa estrutura de programas em Java por meio de blocos e
+0:38
+permite editar esses elementos e consultar as mudanças realizadas ao
+0:42
+longo do trabalho. Ah, o objetivo da avaliação, ela é observar como as
+0:46
+pessoas usam esses recursos sem conhecer a e eh sem conhecer a ferramenta e ver a
+0:51
+percepção delas depois dessa experiência. H, a gente tá avaliando a
+0:55
+ferramenta e as dificuldades que aparecem no uso. A gente não vai
+0:58
+atribuir uma nota à tua habilidade de programar.
+1:01
+Ação, a sessão ela é dividida em três partes. Primeiro, eu vou ter passar um
+1:05
+termo de consentimento e algumas perguntas sobre a tua experiência com
+1:08
+programação e com Java. Ã, depois tu vai realizar cinco tarefas dentro da
+1:13
+ferramenta, seguindo os enunciados de um formulário. E por fim, tu vai eh
+1:17
+responder um questionário sobre a tua experiência com a ferramenta. A previsão
+1:21
+é cerca de 30 a 40 minutos. H, vou identificar. A, é importante tu guardar
+1:26
+esse número. A gente vai e porque eu não vou salvar teu nome, eu vou salvar tu
+1:31
+como número [código omitido]. Tu é o código [código omitido]. Nos formulários tu vai ter que responder
+1:35
+isso. Código [código omitido].
+1:38
+>> Ã, eu vou enviar agora o primeiro link eh com o o termo e as perguntas do
+1:42
+perfil. avisa quando tu conseguir abrir ele.
+1:51
+Certo?
+1:52
+>> Tá. Então eu vou pedir para que tu comece a compartilhar a tela.
+1:57
+>> Sim.
+2:00
+>> Bom, na primeira página ela vai conter essas questões sobre a eh sobre a
+2:05
+pesquisa e a participação e o uso dos dados. Eh, lê com calma. Se alguma
+2:09
+informação não tiver clara, pode perguntar. Eh, depois o formulário ele
+2:13
+vai pedir teu consentimento e autorização para gravação e algumas
+2:17
+diferentes informações sobre a experiência e responde de acordo com a
+2:20
+tua situação atual. Eh, ficou alguma dúvida antes de começar? Não, não.
+2:25
+>> Certo. Beleza. Pode responder com calma e me avisa quando terminar. Certo.
+4:48
+Ótimo. Agora vou te enviar os links de acesso à ferramenta e a lista de
+4:54
+tarefas. me avisa quando eu tô conseguir abrir.
+4:58
+>> Certo, deu.
+5:10
+>> Beleza. Certo. Agora a gente vai as atividades
+5:16
+práticas, né? Eh, eu peço para que tu streame a tela da ferramenta ou as da
+5:21
+ferramenta, certo? se tu quiser. H o formulário ele vai ter uma sessão
+5:27
+para cada tarefa. Eh, eu peço que tu leia por vez e aguarde a conforme tu for
+5:33
+passando a indicação para avançar. Eh, os nomes, valores, trechos de códigos,
+5:38
+tudo que é necessário tá dentro do enunciado. Eh, tu pode consultar eles
+5:42
+durante toda a atividade. Eh, quando campos de resposta, tu vai preencher
+5:46
+eles com base no que tu encontrou da ferramenta. E tu pode pedir
+5:50
+esclarecimento sobre o que o enunciado solicita. E durante as tarefas eu vou
+5:55
+registrar como tu utiliza o sistema. Eu não posso te indicar botões, caminhos ou
+6:00
+sequências. Hã, eu vou pedir que tu verbalize tudo que tu que tu tá achando
+6:04
+do sistema. Eh, qualquer defeito, sugestão, divagação, qualquer coisa que
+6:09
+tu pensar sobre, eu peço que tu que tu me dê o feedback. E se tu precisar, tu
+6:13
+pode utilizar os tutoriais interativos que a ferramenta eh disponibiliza, né?
+6:19
+>> Certo.
+6:20
+>> Ficou alguma dúvida de como tu vai, a gente vai conduzir?
+6:23
+>> Não.
+6:24
+>> Tá certo. Pode fazer com calma e me avisar conforme tu tu progreda.
+6:30
+>> OK. as respostas.
+6:52
+Tipo, pode ser que seja o meu o meu monitor, a minha resolução aqui, mas
+6:58
+acho que esse aqui ficar muito muito pequeno aqui. Talvez um
+7:03
+redimensionário seja legal para aumentar isso aqui. M.
+7:59
+É, talvez isso aqui vira já vira aberto aqui por padrão. Seja legal.
+9:11
+Só aqui dando ressaltando, né? Se tu precisar tem o um menu de help, ele ele
+9:16
+pode mostrar todas as as localizações e afins. Onde o men aqui, certo?
+9:23
+>> Aí, obrigado. Isso aqui talvez seja legal hoje para ele já aparecer direto
+9:26
+no primeiro no primeiro contato.
+9:28
+>> Sim, sim. Eu não vou passando porque eu eu vou eu não vou ter dando feedback da
+9:32
+das das do tuas pontuações, porque isso vai ser analisado depois, sabe? É só,
+9:38
+>> mas eu tô escutando só para deixar. U
+12:09
+Так. Mano,
+14:21
+Так. Eu não sei se eu posso perguntar isso, mas
+14:25
+a ideia aqui é que tenha um system output que eu possa puxar com o
+14:29
+bloquinho ou eu escrevo na mão aqui.
+14:32
+>> Tu pode fazer as duas coisas, mas esse o system out ele existe. Inclusive para
+14:36
+ficar mais fácil, tu pode usar a barra de pesquisa dos do buscar componentes.
+14:42
+>> Hum. Tem que tem. Tá.
+14:54
+>> Ã, só uma intromissão. Eh, tu pode jogar coisas dentro das chaves. Eu tenho que
+14:58
+deixar isso mais claro. Se tu arrastar a coisa pro lugar da chave, eh, tu
+15:03
+arrastar o componente, isso. Segura o componente e tu bota dentro da chave.
+15:08
+>> Ah, aqui tá. Ele tava com preview só, só para ver. Tá.
+15:13
+Perfeito. É que tava, ele tava pequenininho daí
+15:18
+não. Aí
+16:01
+Certo. Essa primeira parte que foi. Posso prosseguir?
+16:11
+Certo, certo. Pode prosseguir, pode prosseguir. M.
+17:41
+О. Ótimo. Ótimo. Certinho.
+18:13
+Pode ir para próxima. Certo.
+18:42
+M. Ah. aqui mostrando o comit.
+19:37
+>> Certo. Certo. Então,
+19:38
+>> agora eu respondo as perguntas. Isso.
+20:10
+Eh, quando eu responder só dar um toque que
+20:24
+que já dá para próxima. Isso. Deu
+20:40
+>> certo. Pode passar para quatro. Certo.
+21:36
+Talvez tenha ficado um pouco confusa a dois, mas ela é para ser feita no
+21:40
+histórico de mudanças. Sim, sim, sim. Não, eu vi isso agora. Eu só eu coloquei
+21:43
+direto porque eu vi a organização e já já fui direto no arquivo.
+22:44
+Não. Кана.
+25:24
+Ah, só pontuando, tu pode abrir múltiplos menus ao mesmo tempo. Não sei
+25:27
+se tu chegou a reparar, mas
+25:29
+>> não. Não. Onde?
+25:31
+>> No caso, tu pode, é só tu não fechar o menu, os menus laterais tu pode abrir
+25:36
+múltiplos vários menus. Pode, por exemplo, abr
+25:38
+>> Ah, tá. Sim. Não, não, isso eu percebi. Tá. Eu achei que tava falando sobre
+25:40
+aqui. Eu abri esses aqui em cima aqui.
+25:42
+>> Ah, não, não,
+25:43
+>> não, não. Tá. Entendi. Entendi. Entendi. Posso avançar para cinco?
+26:35
+Pode, pode. Só só pontuando, vi que tá um pouco
+28:22
+confuso. A opção expandir é a que fica abaixo ali no menu de do histórico.
+28:27
+Aquele botão não era isso que eu tava procurando. Tava procurando o ML.
+28:31
+>> Ah, tá. Ai. Ah, tá. Então acho que eu não tô conseguindo ver a o modal na
+28:37
+gravação.
+28:39
+>> Ah,
+28:39
+>> você tá com o modal aberto?
+28:41
+>> Não, não, não. Sem modal.
+28:43
+>> Ah, tá. Não, então ok. O botão de expandir, ele fica ali embaixo da da
+28:47
+coção.
+28:47
+>> Certo. Aqui aparece na gravação.
+28:52
+>> Isso aparece. Eu achei que tu tava com ele aberto e eu não tava conseguindo.
+28:55
+Não,
+28:55
+>> não. Eu tava na Eu tava na na avaliação. Tava na avaliação mesmo.
+28:58
+>> Certo. Sem problema. Perfeito.
+29:17
+Ótimo. Tá certinho. Tô vendo aqui por aqui.
+30:02
+Tu consegue navegar diretamente pelas mudanças no modal ali. Não sei se tu não
+30:06
+chegou a reparar ali no tem a lista
+30:09
+>> aqui.
+30:11
+>> Isso. Ah, perfeito. Perfeito.
+31:06
+>> Ótimo. Finalizou o questionário.
+31:08
+>> Uhum. Certo? Pode pode enviar ele. H bom,
+31:13
+agora eu vou te te enviar o último link, que ele é o questionário de de avaliação
+31:19
+da ferramenta. Eh, me avisa quando tu conseguir abrir ele.
+31:23
+>> Certo? Deu
+31:30
+>> certo. Ele tem 15 afirmações eh sobre a experiência que tu acabou de ter com a
+31:35
+com a ferramenta. Eh, eu peço que tu leia cada afirmação e escolha a
+31:39
+alternativa que que melhor representa a tua opinião. Ah, considera também as
+31:44
+dificuldades que tu teve e as tarefas que ficaram incompletas, enfim, eh, o
+31:48
+que tu não conseguiu fazer. As tanto as avaliações favoráveis quanto
+31:53
+desfavoráveis são igualment igualmente importantes pra pesquisa. Se tiver
+31:57
+qualquer comentário específico para cada questão tem espaço para fazer. Aí só vai
+32:03
+respondendo e me avisa quando finalizar.
+32:05
+>> Belisar essa parte ou posso?
+32:14
+Não é teu critério. Não, não, não quiseram deixar aqui, mano.
+39:39
+Show. Maravilha. Concluímos a sessão. Então, [participante], a
+39:46
+princípio, se tiver algum comentário, deixo aberto. Já te agradeço previamente
+39:50
+por por participar e pelo tempo que tu dedicou a fazer as atividades. Eh, ou
+39:55
+vai ser muito útil os teus registros dessa dessa reunião para analisar a
+40:00
+ferramenta e orientar os próximos passos do trabalho. Se quiser esclarecer alguma
+40:04
+informação sobre a pesquisa, solicitar acesso aos registros ou retirada dos
+40:08
+dados, pode entrar em contato pelo e-mail que que foi informado pelo tempo,
+40:12
+certo?
+40:13
+>> Certinho? Eu acho que era isso mesmo. Os pontos
+40:16
+que eu que eu tive ali de de atenção, eu falei enquanto eu ia ia utilizando.
+40:22
+Então era isso mesmo.
+40:24
+>> Tranquilo, tranquilo. Feito. Então, [participante], vou vou encerrar a gravação
+40:28
+agora. Obrigado.
+40:29
+>> Certo.

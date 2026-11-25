@@ -1,0 +1,435 @@
+
+Transcrição 06
+
+
+0:00
+/
+42:18
+Transcrição
+Pesquisar transcrição
+0:02
+OK, tá gravando. Bem, eh, boa tarde, tudo certo? Boa tarde.
+0:08
+>> Obrigado por reservar esse tempo para para participar. Eh, tu consegue me
+0:12
+escutar bem?
+0:13
+>> Claro.
+0:15
+>> Beleza. Então, antes de começar, quero avisar que a sessão ela vai ser gravada.
+0:19
+A proposta é gravar o áudio e a tua tela durante as atividades para eu poder
+0:23
+rever o uso da ferramenta na hora de fazer a análise. Tu concorda com isso?
+0:28
+Concordo.
+0:30
+>> Maravilha. Só para contextualizar, essa avaliação,
+0:34
+ela faz parte do meu TCC. A ferramenta, ela se chama [ferramenta]. A base dela é
+0:40
+representar a estrutura de programas em Java utilizando blocos, basicamente como
+0:44
+se fosse um scratch, e permitir editar os blocos, os elementos e adicionar,
+0:48
+enfim. e o principal que seria consultar as mudanças que foram feitas durante o o
+0:54
+trabalho. Eh, o objeto da avaliação, o objetivo dessa avaliação é observar a
+1:00
+tua interação com o objeto, nesse caso a ferramenta, eh como tu vai utilizar os
+1:04
+recursos e e depois a tua experiência, como é que tu vai eh qual é a tua
+1:09
+percepção do que foi a experiência com a ferramenta. a gente tá avaliando a
+1:13
+ferramenta e não as e eventualmente pode acontecer de de haver alguma dificuldade
+1:18
+durante o uso, mas a gente não vai atribuir nota tuabilidade, é apenas a
+1:22
+ferramenta em si. Eh, a sessão ela tem três partes. Primeiro, é um termo de
+1:27
+consentimento e algumas perguntas sobre o teu perfil, né? tua tua experiência
+1:31
+com programação, tua experiência com versionamento e algumas outras
+1:35
+coisinhas. Depois, tu vai realizar cinco tarefas eh utilizando a ferramenta, eh
+1:40
+seguindo os os enunciados de um formulário e por fim, tu vai responder
+1:44
+um questionário falando sobre a tua experiência com a ferramenta. É
+1:47
+basicamente isso, a previsão. Se tu fizer tudo ah conforme manda o manual,
+1:52
+vai demorar 20 a 30 minutinhos. Eh, vou eh para título de anonimização,
+1:59
+eh, eu vou identificar os registros da sessão por meio de códigos. O teu código
+2:02
+seria o código [código omitido]. Aí tu vai preencher isso conforme eu vou ter passando nos
+2:07
+nos formulários. Código [código omitido]. Eh, eu vou enviar agora o primeiro link
+2:12
+que tem o termo de consentimento e as perguntas e perfil. Eh, eu peço que tu
+2:16
+me avise quando conseguir abrir ele. Tá no chat do do MIT.
+2:28
+Abriu.
+2:29
+>> Maravilha. Eu vou pedir que tu comece a compartilhar tua tela,
+2:32
+>> tá? Deixa eu só isolar o contexto aqui
+2:36
+rapidinho.
+2:37
+>> Tranquilo. Em linhas gerais, eh, esse esse
+2:49
+questionário, esse primeiro questionário aí, ele serve para basicamente as
+2:53
+informações. Na primeira página dele, eh, se referem à pesquisa, a, a tua
+2:58
+participação e o uso dos dados, né? Eh, peço que tu leia com calma e se alguma
+3:03
+informação não tiver clara, tu pode me perguntar.
+3:08
+Depois disso, o formulário, ele vai também pedir o teu consentimento e
+3:11
+autorização paraa gravação e para pro uso das dos dados que tu fornecer
+3:16
+conforme os questionários e da gravação em si. Eh, e peço para que as perguntas
+3:22
+referentes ao teu perfil tu responda de acordo com a situação atual, como tu se
+3:26
+encontra no momento. Eh, ficou alguma dúvida, alguma coisa para esse primeiro
+3:30
+questionário?
+3:31
+>> Não, tranquilo, tudo certo.
+3:33
+>> Beleza, pode começar. Eh, faz com calma e me avisa quando tu finalizar ele,
+3:38
+>> certo? O código é [código omitido].
+4:31
+>> [resposta de perfil omitida]
+5:16
+[resposta de perfil omitida]
+5:20
+Não, não. Certinho. Ah, eu vou te enviar agora os
+7:09
+links de acesso à ferramenta e a lista de tarefas. Aí eu peço que tu me avise
+7:14
+quando conseguir abrir eles,
+7:16
+>> certo? Esses dois aí. OK, certinho. Agora a gente vai para as
+7:29
+atividades práticas. O formulário que eu te encaminhei, ele tem uma sessão para
+7:34
+cada uma das tarefas. Eh, vai fazendo uma por vez e conforme tu vai avançando,
+7:38
+a gente vai comentando, né? Eh, tudo que for valor, eh, nome, trecho de código
+7:44
+necessário vai tá dentro do enunciado. Eh, tu pode consultar o enunciado
+7:49
+durante qualquer ponto da atividade, né? Eh, quando houver campos de resposta eh
+7:53
+pro formulário, eu peço que tu preencha com base no que tu encontrar dentro da
+7:58
+ferramenta. Eh, tu pode pedir a qualquer momento
+8:02
+esclarecimentos sobre o que o enunciado solicita, sobre as tarefas, qualquer
+8:06
+dúvida que tu tenha pela ferramenta, só me dar um um toquezinho que eu te te
+8:10
+aviso. Durante as tarefas, eu vou eu vou ir vendo como é que tu tu vai utilizando
+8:14
+a ferramenta e se necessário eu vou te dar alguma dica quando tiver travando em
+8:18
+alguma coisa, quando eu vê que tu que tu tá que tu tá perto do menu, só que não
+8:22
+tá encontrando, eu vou te ajudar. Eh, enfim, é basicamente isso para não para
+8:26
+não ficar truncando a avaliação. Eu vou pedir para que tu verbalize tudo que tu
+8:30
+tá achando do sistema. Então, qualquer coisa que tu acha que seja um defeito,
+8:33
+qualquer sugestão, uma divagação que tu tenha, qualquer coisa que tu pensar, eu
+8:37
+peço que tu me dê o o feedback eh, falando.
+8:40
+>> Ã, uma dica que eu reparei que ajuda nas nas sessões anteriores que eu fiz de
+8:45
+avaliação é que tu inicialmente usa os tutoriais do sistema, tu vai ver que
+8:49
+eles têm ali no canto superior direito, tanto nessa tela de projetos quanto na
+8:53
+próxima tela. Quando tu entrar num projeto, tu vai ver que tem um
+8:56
+tutorialzinho e tu pode ver só para ver os nomes dos menus e tal, porque como é
+9:01
+como se fosse uma IDE, ele tem muitos menus distintos e tu pode acabar se
+9:04
+perdendo, sabe? Mas sem problema. Tô te ajudando conforme conforme tu vai
+9:08
+progredindo.
+9:09
+>> Eh, alguma dúvida sobre como tu vai realizar as tarefas?
+9:13
+>> Não, acho que eu vou vou tendo as dúvidas durante o processo.
+9:17
+>> Tranquilo, tranquilo. Pode ir fazendo com calma e vamos indo conforme tu
+9:22
+progridade,
+9:22
+>> tá? Eu abro o projeto aqui. Faz conforme as tarefas. Vai lendo as
+9:27
+tarefas, elas indicam tudo que tu precisa fazer na naquela naquele
+9:31
+formulário que eu te passei.
+9:32
+>> Ah, tá aqui primeiro, tá? Só para pontuar, as instruções elas elas
+10:10
+estão bem passo a passo. Então, se tu quiser ir fazendo conforme as instruções
+10:14
+avançam, tu pode fazer uma, uma depende da outra.
+10:17
+>> Melhor,
+10:20
+>> tá? Então,
+10:25
+construção. Java, navegador de arquivos. Vamos ver.
+10:43
+Biblioteca de componentes, um atributo privado do tipo int.
+10:51
+Aí eu vou te recomendar que para te saber os nomes dos menus, né, tu usar o
+10:56
+o helpzinho lá no canto superior direito. Aí tu vai ver no nome de cada
+11:00
+um dos menus. Tem lá no canto superior direito do lado das configurações aí, ó.
+13:34
+Isso. A biblioteca de componentes, ela é o dentinho da esquerda. Tu abriu os
+13:38
+atributos no da direita e esse dentinho ali, ó. Esse aí, essa aí é a biblioteca
+13:43
+de componentes. Tu tem o a barra de pesquisa ali em cima, se tu quiser ir
+13:47
+mais rápido ou enfim, mas tu pode explorar também tudo na teu critério.
+15:36
+Aí no caso não teria problema ter colocado antes do método, porque tu
+15:40
+poderia mover ele depois, só pontua. Ah, perfeito.
+16:20
+Aí é um padrãozinho isso aí. Eh, tu tem que jogar para dentro das chaves.
+16:39
+por enquanto tá intuitivo. Aí seria só abrir aquele menu que tu já
+16:58
+tinha aberto antes e me mostrar as propriedades ali.
+17:07
+Se tu quiser fechar só isso, tá? Então, seleciona um atributo, um
+17:13
+bloco específico.
+17:15
+>> Ah, perfeito.
+17:16
+>> Isso.
+17:17
+>> Maravilha.
+17:19
+>> Quando tu quiser, pode partir para pra tarefa dois.
+18:12
+Aí tu poderia selecionar especificamente a chamada. Pode ser assim, não tem
+18:16
+problema, mas tu pode selecionar também a chamada. Ah, entendi.
+19:09
+Aí é só desfazer e mostrar aí, ó. Certinho.
+19:14
+Pode passar pra próxima. Não precisa refazer se não
+19:17
+>> precisa, tá? Podzie, tá, pera aí.
+19:34
+Ah, não, aqui, ó. Aí,
+20:19
+Só que nesse caso tu abriu o do histórico, é o do do decomito. Abaixo.
+20:23
+Tu pode abrir vários ao mesmo tempo, mas eu recomendo abrir só um por causa do
+20:27
+tamanho do monitor, enfim, que é o menu de que é esse aí. Isso aí pode fechar os
+20:32
+outros para ficar mais fácil aí. Tu pode copiar e colar o conteúdo das
+20:50
+aspas internas,
+20:51
+>> tá? Para visualizar, acho que fica melhor tu
+21:31
+deixar o menu só pro V, que aí eu acho que fica mais
+21:34
+>> Ah, tá. É que eu não tinha sacado essa. Tá.
+21:38
+>> É, é para é para mimicar a interface do Intell, sabe? Que tem aqueles aquelas
+21:43
+barras laterais. Enfim,
+21:45
+>> pior que eu nunca vi. Santinho. Aí é só tu responder aquelas
+21:58
+questões com base nisso e podemos passar para quatro.
+22:25
+O nome da brand tá lá em cima, ali do lado da tag, não sei se chei para ver,
+22:29
+tem a tagzinha à esquerda dela tem o nome da brinch.
+22:40
+Ah, pior que aqui eu fiquei com dúvida.
+22:44
+>> Ã, vamos ver o que acontece. Se eu clicar criar uma nova brand,
+22:48
+>> aí tu pode criar uma, é que tem uma tarefa na próxima. A próxima tarefa
+22:52
+envolve criar uma brand.
+22:53
+>> Ah, tá.
+22:53
+>> Isso eu te diria para Mas então cada
+22:58
+eh coisinha dessa é uma brand ou é um commit?
+23:02
+>> É um
+23:02
+>> aí. A brand seria esse aqui.
+23:04
+>> Isso aí. Esse nome em cima,
+23:06
+>> o master ou esse aqui?
+23:09
+>> Não, isso aí é a tagzinha, não sei se tá vendo aí tag.
+23:12
+>> Ah, tá.
+23:14
+>> É, não, eu até não mexo muito com o git hub, né? Mas não tinha entendido.
+23:25
+>> Master, essa aí é mais simples do que parece. É
+23:33
+só o o comite que tu fez mesmo.
+23:38
+>> Esse aqui.
+23:39
+>> Isso aí. Agora sim. Tu vai criar uma brand.
+24:47
+Isso. Eu ia falar que esses elementos são clicáveis.
+24:58
+E se tu quiser ver mais detalhadamente, abaixo eu tenho um menu de expandir.
+25:02
+Aí tu achou a mudança específica. Essa aí é mais simples, é só tu abrir o
+26:26
+menuzinho e visualizar. É no próprio grafo mesmo
+26:33
+aí. As visualizações que eu me refiro seriam
+27:41
+aqueles menus, aquel aquelas opções ali, só pontuando que ficou um pouco confuso
+27:46
+nas outras nas outras sessões.
+27:50
+>> Perfeito. Aí aí já tá certo. já pode responder as
+28:00
+questões. Essas aí elas fazem menção ao arquivo,
+28:49
+essas últimas duas aí, o arquivo que foi alterado e as
+28:55
+alterações feitas, eu acho que facilita tu usar o a visualização de canvas e
+28:59
+isso So Se tu fechar os menus, acho que vai
+29:38
+ficar mais fácil para te visualizar. Se não souber, pode aí, pode avançar.
+30:08
+Super. Um menu de história o menu mais lá de
+30:40
+cima tá é o de de
+30:43
+>> de branches. É essa aí mesmo.
+31:09
+Ah, tá. aquela essa cadeia de mudanças aí
+31:49
+embaixo. Ela é clicável. Essas que mostram essas três aí, tu pode navegar
+31:53
+por ela. A a dos do meio ali. Ah,
+31:57
+>> essas aí. Isso aí. Tu pode navegar por elas.
+32:40
+Tranquilo. Pode responder as questões se tu quiser. Agora acredito que com código
+32:44
+fique mais fácil de tu visualizar as as mudanças.
+34:24
+Feito,
+34:24
+>> certinho. Maravilha. Então, agora eu vou te enviar o último link. Eh, ele vai
+34:32
+conter o questionário da avaliação em si.
+34:35
+Deixa eu até mandar ele aqui.
+34:36
+>> Certo?
+34:39
+>> Aí, basicamente, ele vai ter, quando tu conseguir abrir, tu me avisa.
+34:43
+Basicamente, ele tem 15 afirmações sobre a experiência que tu acabou de ter com a
+34:48
+ferramenta. Eh, eu peço que tu leia cada afirmação e escolha a alternativa que
+34:52
+melhor representa a tua opinião, né? Considere todas as dificuldades que tu
+34:56
+teve, enfim, as as tarefas que tu que tu fez.
+35:00
+>> Eh, peço para que tu diga, né, as as avaliações favoráveis, elas são tão
+35:06
+importantes quanto as desfavoráveis, né? Não, não, não tem, não tem problema tu
+35:10
+dizer que é algo que tu não gostou. Se tu tiver qualquer comentário, tem o
+35:14
+espaço aberto. Não, não é obrigatório, mas
+35:16
+>> se tu quiser comentar alguma coisa, tá aberto.
+35:19
+>> Aí se tu quiser também parar de transmitir a tela. Se tu quiser
+35:22
+transmitir, não tem problema, mas não precisa
+35:25
+mais a princípio,
+35:27
+>> certo?
+35:27
+>> Aí tu só responde com calma e depois me avisa quando tu
+35:31
+>> Uhum. Quando tem finalizar de responder. Tranquilo.
+40:18
+Só não esquece de me avisar quando tu tu finalizar aí.
+40:45
+Tá, terminei. Certinho. Bueno feito. Então, eh,
+40:53
+concluímos a sessão. obrigado por participar e pelo tempo que
+40:57
+tu dedicou a as atividades. Eh, os registros vão ser de bastante eh de
+41:03
+bastante importância para para fazer a análise do uso da ferramenta e para
+41:06
+determinar os próximos passos do trabalho. Eh, se tu tiver alguma algum
+41:11
+comentário, alguma ponderação, alguma coisa, pode sim te livre a a falar.
+41:17
+H bom, eu já usei o Scratch algumas vezes. Ele tem, agora não lembro se tu
+41:25
+consegue alterar os eh diretamente clicando nos blocos. Ã,
+41:31
+tá, você consegue sim, mas não nível de alterar da complexidade do Java, né,
+41:38
+porque lá é muito mais simples.
+41:40
+>> Sim. Então, acho que e também achei bem interessante a integração, assim, isso
+41:46
+eu diria que foi bem feito, com certeza.
+41:49
+>> Certo. Muito obrigado. Ahã. certinho? Se tu quiser solicitar
+41:55
+acesso aos registros da da gravação, os dados da tua participação, enfim, se tu
+42:01
+quiser também eventualmente remover eles e conforme tava lá no no termo, só
+42:07
+entrar em contato comigo que
+42:09
+>> que eu faço isso aí. Tranquilo, eu vou vou encerrando a gravação aqui e muito
+42:15
+obrigado.

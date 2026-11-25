@@ -85,7 +85,7 @@ For the corresponding screens in the running application, see the [user guide](m
 <table width="100%">
 <tr>
 <td align="left"><a href="requirements.md">⬅️ Previous page</a></td>
-<td align="center"><a href="index.md">8️⃣ Prototyping</a></td>
+<td align="center"><a href="../../README.md#documentation-index">8️⃣ Prototyping</a></td>
 <td align="right"><a href="implementation.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -117,3 +117,11 @@ For the corresponding screens in the running application, see the [user guide](m
 - [🔀 Interaction diagrams](interaction-diagrams.md)
 - [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
+
+**[📊 Evaluation](evaluation.md)**
+
+- [📋 Planning](evaluation-planning.md)
+- [🧪 Execution](evaluation-execution.md)
+- [📈 Results](evaluation-results.md)
+- [💬 Discussion](evaluation-discussion.md)
+- [📂 Materials and data](evaluation-data.md)

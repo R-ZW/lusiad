@@ -1,0 +1,115 @@
+Suporte do leitor de tela ativado.
+Avaliação do Lusiad — Atividades práticas
+
+Total de pontos: 10
+Seção 1 de 6
+Avaliação do Lusiad — Atividades práticas
+Você realizará cinco atividades no Lusiad. Os nomes, valores e trechos de Java necessários serão fornecidos.
+
+Leia uma tarefa por vez e avance para a próxima quando finalizar. Você pode consultar os enunciados durante toda a atividade e pedir esclarecimentos.
+
+Este formulário está coletando automaticamente os e-mails de todos os participantes.Alterar configurações
+Código de participante
+*
+Insira o código recebido do pesquisador na introdução da avaliação.
+Após a seção 1
+Seção 2 de 6
+Tarefa 01 - Construir componentes
+Abra o projeto AVAL-BASE usando a tela de projetos:
+
+Usando o navegador de arquivos, abra o arquivo Construcao.java e acrescente os componentes abaixo usando a biblioteca de componentes da ferramenta.
+
+Um atributo privado do tipo int, chamado "limite", com valor inicial 10, antes dos métodos.
+Um método público chamado exibirMensagem(), com retorno void, sem parâmetros, depois do método existente().
+Dentro de exibirMensagem, uma chamada a System.out.println() com o argumento "Olá".
+Ao terminar, abra o menu de propriedades, selecione o atributo criado e depois o método criado para consultar suas propriedades. Mostre ao pesquisador onde essas informações são apresentadas.
+
+Não é necessário executar o programa nem transcrever o código nesta tarefa.
+
+Use os seguintes trechos como referência
+
+Após a seção 2
+Seção 3 de 6
+Tarefa 02 -  Editar e reorganizar o modelo
+Usando o navegador de arquivos, abra o arquivo Organizacao.java e usando o menu de propriedades realize as seguintes alterações.
+
+Altere o valor inicial de limite de 10 para 20.
+No método iniciar(), substitua a mensagem "Início" por "Processo iniciado".
+Mova o método encerrar() inteiro para que apareça antes de iniciar, dentro da mesma classe.
+Exclua somente o comentário "// Comentário temporário".
+Desfaça essa exclusão e confira o retorno do comentário. Depois, refaça a exclusão e confira que ele foi removido novamente.
+Mostre ao pesquisador o retorno do comentário ao desfazer e sua remoção ao refazer.
+
+Não é necessário executar o programa nem transcrever o código neste formulário.
+
+Após a seção 3
+Seção 4 de 6
+Tarefa 03 -  Salvar e localizar uma versão
+Salve em um commit as alterações realizadas nas tarefas 1 e 2.
+
+
+
+       1. Abra o menu de commit da ferramenta;
+
+       2. Insira o título:
+
+"D - Alterações da sessão"
+       3. Insira a descrição:
+
+"Alterações nas classes Construcao e Organizacao."
+       4. Realize o commit;       
+
+       5. No menu de controle de branches, localize esse commit no grafo de commits e branches e selecione-o para consultar seus detalhes.
+
+
+
+Responda às perguntas abaixo e mostre ao pesquisador o commit selecionado no grafo.
+
+3.1 Em qual branch o commit foi salvo?  
+Digite apenas o nome da branch, sem aspas, parênteses ou outras informações.  
+3.2  Qual é o título da versão selecionada no grafo?
+Copie o título exibido nos detalhes do commit. Não inclua o ID, o horário ou o nome da branch.
+Após a seção 4
+Seção 5 de 6
+Tarefa 04 - Criar uma branch e recuperar um estado
+A partir da versão D - Alterações da sessão:
+
+No menu de controle de branches, crie uma branch chamada experimento-avaliacao e passe a trabalhar nela.
+No menu de histórico de mudanças, em "D - Alterações da sessão", localize a mudança de Organizacao.java em que o valor inicial de limite passou de 10 para 20. 
+Restaure o projeto para o estado imediatamente após essa mudança.
+Abra Organizacao.java e confira o estado do atributo após ser recuperado.
+Abra o menu de controle de branches e visualize a representação da recuperação.
+Abra o menu de comparar versões e compare as seguintes versões:
+Base — a versão criada pela restauração (Dica: o nome será algo como "Restaurar projeto após mudança #x").
+Alvo — D - Alterações da sessão.
+       7. No menu de comparar versões, abra as diferenças em Organizacao.java e selecione uma das visualizações disponíveis.
+
+Responda às perguntas abaixo e mostre ao pesquisador o arquivo recuperado e a comparação.
+
+4.1. Qual é o nome da branch em uso após a restauração?  
+Digite apenas o nome da branch em uso, sem aspas.
+
+4.2. Qual é o texto da mensagem do método iniciar na base, correspondente à versão criada pela restauração?
+Digite somente o texto da mensagem, sem as aspas e sem copiar a chamada a System.out.println.
+4.3. Qual é o texto da mensagem do método iniciar no alvo, correspondente a D - Alterações da sessão?
+Digite somente o texto da mensagem, sem as aspas e sem copiar a chamada a System.out.println.  
+Após a seção 5
+Seção 6 de 6
+Tarefa 05 -  Explorar o histórico
+No menu de histórico de mudanças, consulte a versão B - Alterações registradas, referente ao arquivo HistoricoExemplo.java. Ela contém três mudanças.
+
+Abra os detalhes dessas mudanças (Dica: clique em uma mudança específica e depois na opção expandir que vai ser habilitada) e consulte os estados anterior e posterior para responder às perguntas abaixo. Você pode consultar novamente qualquer registro;
+Na mudança que adiciona um atributo, consulte também a visualização UML e mostre ao pesquisador onde o atributo aparece.
+Mostre ao pesquisador os estados utilizados para responder.
+
+Não altere nem restaure o projeto nesta atividade.
+
+5.1. Na edição de limite, qual era o valor imediatamente antes da mudança?
+Informe apenas o número, usando algarismos.  
+5.2. Na mesma edição, qual passou a ser o valor imediatamente depois da mudança?  
+Informe apenas o número, usando algarismos. Considere o estado imediatamente após a mudança consultada.
+5.3. Qual é o nome do atributo adicionado?  
+Digite apenas o nome do atributo, sem incluir seu tipo, valor inicial ou a declaração completa.
+5.4. Qual é o tipo do atributo adicionado?  
+Digite apenas o nome do tipo, sem incluir o nome do atributo ou seu valor inicial.  
+5.5. Qual método foi movido?  

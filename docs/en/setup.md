@@ -21,7 +21,7 @@ Set up the plugin, database, and web interface, then make your first change in a
 <table width="100%">
 <tr>
 <td align="left"><a href="demo.md">⬅️ Previous page</a></td>
-<td align="center"><a href="index.md">3️⃣ Installation</a></td>
+<td align="center"><a href="../../README.md#documentation-index">3️⃣ Installation</a></td>
 <td align="right"><a href="installation.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -53,3 +53,11 @@ Set up the plugin, database, and web interface, then make your first change in a
 - [🔀 Interaction diagrams](interaction-diagrams.md)
 - [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
+
+**[📊 Evaluation](evaluation.md)**
+
+- [📋 Planning](evaluation-planning.md)
+- [🧪 Execution](evaluation-execution.md)
+- [📈 Results](evaluation-results.md)
+- [💬 Discussion](evaluation-discussion.md)
+- [📂 Materials and data](evaluation-data.md)

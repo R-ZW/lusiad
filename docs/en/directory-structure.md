@@ -183,12 +183,12 @@ The tree shows directories that contain files in the Lusiad repository or in the
 
 ### On this page
 
-- [Repository root and documentation](#repository-root-and-documentation)
-- [Next.js application](#nextjs-application)
-- [IntelliJ plugin](#intellij-plugin)
-- [Database, build, and tests](#database-build-and-tests)
-- [Where to start for a change](#where-to-start-for-a-change)
-- [Documentation index](#documentation-index)
+> [1. Repository root and documentation](#repository-root-and-documentation)<br>
+> [2. Next.js application](#nextjs-application)<br>
+> [3. IntelliJ plugin](#intellij-plugin)<br>
+> [4. Database, build, and tests](#database-build-and-tests)<br>
+> [5. Where to start for a change](#where-to-start-for-a-change)<br>
+> [Documentation index](#documentation-index)
 
 ## Repository root and documentation
 
@@ -373,7 +373,7 @@ The tests often identify the best starting point for a subsystem. For example, [
 <table width="100%">
 <tr>
 <td align="left"><a href="architecture.md">⬅️ Previous page</a></td>
-<td align="center"><a href="index.md">1️⃣1️⃣ Directory structure</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣1️⃣ Directory structure</a></td>
 <td align="right"><a href="technology-stack.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -406,3 +406,11 @@ The tests often identify the best starting point for a subsystem. For example, [
 - [🔀 Interaction diagrams](interaction-diagrams.md)
 - [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
+
+**[📊 Evaluation](evaluation.md)**
+
+- [📋 Planning](evaluation-planning.md)
+- [🧪 Execution](evaluation-execution.md)
+- [📈 Results](evaluation-results.md)
+- [💬 Discussion](evaluation-discussion.md)
+- [📂 Materials and data](evaluation-data.md)

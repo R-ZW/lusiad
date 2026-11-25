@@ -34,7 +34,7 @@ In the commit menu, save your changes under a descriptive title. In the history 
 <table width="100%">
 <tr>
 <td align="left"><a href="installation.md">⬅️ Previous page</a></td>
-<td align="center"><a href="index.md">5️⃣ First steps</a></td>
+<td align="center"><a href="../../README.md#documentation-index">5️⃣ First steps</a></td>
 <td align="right"><a href="project.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -66,3 +66,11 @@ In the commit menu, save your changes under a descriptive title. In the history 
 - [🔀 Interaction diagrams](interaction-diagrams.md)
 - [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
+
+**[📊 Evaluation](evaluation.md)**
+
+- [📋 Planning](evaluation-planning.md)
+- [🧪 Execution](evaluation-execution.md)
+- [📈 Results](evaluation-results.md)
+- [💬 Discussion](evaluation-discussion.md)
+- [📂 Materials and data](evaluation-data.md)

@@ -183,12 +183,12 @@ A árvore mostra os diretórios com arquivos no repositório do Lusiad ou na doc
 
 ### Nesta página
 
-- [Raiz do repositório e documentação](#raiz-do-repositório-e-documentação)
-- [Aplicação Next.js](#aplicação-nextjs)
-- [Plugin do IntelliJ](#plugin-do-intellij)
-- [Banco de dados, build e testes](#banco-de-dados-build-e-testes)
-- [Onde começar uma alteração](#onde-começar-uma-alteração)
-- [Índice da documentação](#índice-da-documentação)
+> [1. Raiz do repositório e documentação](#raiz-do-repositório-e-documentação)<br>
+> [2. Aplicação Next.js](#aplicação-nextjs)<br>
+> [3. Plugin do IntelliJ](#plugin-do-intellij)<br>
+> [4. Banco de dados, build e testes](#banco-de-dados-build-e-testes)<br>
+> [5. Onde começar uma alteração](#onde-começar-uma-alteração)<br>
+> [Índice da documentação](#índice-da-documentação)
 
 ## Raiz do repositório e documentação
 
@@ -373,7 +373,7 @@ A [Arquitetura](arquitetura.md) explica a divisão de responsabilidades entre es
 <table width="100%">
 <tr>
 <td align="left"><a href="arquitetura.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="index.md">1️⃣1️⃣ Estrutura de diretórios</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣1️⃣ Estrutura de diretórios</a></td>
 <td align="right"><a href="tecnologias-utilizadas.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -406,3 +406,11 @@ A [Arquitetura](arquitetura.md) explica a divisão de responsabilidades entre es
 - [🔀 Diagramas de interação](diagramas-de-interacao.md)
 - [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)
+
+**[📊 Avaliação](avaliacao.md)**
+
+- [📋 Planejamento](avaliacao-planejamento.md)
+- [🧪 Execução](avaliacao-execucao.md)
+- [📈 Resultados](avaliacao-resultados.md)
+- [💬 Discussão](avaliacao-discussao.md)
+- [📂 Materiais e dados](avaliacao-dados.md)

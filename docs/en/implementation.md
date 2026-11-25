@@ -27,7 +27,7 @@ Follow an edit from the browser to the Java source, its change record, and the h
 <table width="100%">
 <tr>
 <td align="left"><a href="prototyping.md">⬅️ Previous page</a></td>
-<td align="center"><a href="index.md">9️⃣ Implementation</a></td>
+<td align="center"><a href="../../README.md#documentation-index">9️⃣ Implementation</a></td>
 <td align="right"><a href="architecture.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -59,3 +59,11 @@ Follow an edit from the browser to the Java source, its change record, and the h
 - [🔀 Interaction diagrams](interaction-diagrams.md)
 - [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
+
+**[📊 Evaluation](evaluation.md)**
+
+- [📋 Planning](evaluation-planning.md)
+- [🧪 Execution](evaluation-execution.md)
+- [📈 Results](evaluation-results.md)
+- [💬 Discussion](evaluation-discussion.md)
+- [📂 Materials and data](evaluation-data.md)

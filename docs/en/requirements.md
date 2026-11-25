@@ -98,7 +98,7 @@ Moving a block illustrates how these requirements work together. The developer n
 <table width="100%">
 <tr>
 <td align="left"><a href="project.md">⬅️ Previous page</a></td>
-<td align="center"><a href="index.md">7️⃣ Requirements</a></td>
+<td align="center"><a href="../../README.md#documentation-index">7️⃣ Requirements</a></td>
 <td align="right"><a href="prototyping.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -130,3 +130,11 @@ Moving a block illustrates how these requirements work together. The developer n
 - [🔀 Interaction diagrams](interaction-diagrams.md)
 - [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
+
+**[📊 Evaluation](evaluation.md)**
+
+- [📋 Planning](evaluation-planning.md)
+- [🧪 Execution](evaluation-execution.md)
+- [📈 Results](evaluation-results.md)
+- [💬 Discussion](evaluation-discussion.md)
+- [📂 Materials and data](evaluation-data.md)

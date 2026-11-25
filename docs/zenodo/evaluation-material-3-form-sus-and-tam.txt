@@ -1,0 +1,168 @@
+Suporte do leitor de tela ativado.
+Questionário de avaliação da ferramenta
+
+Seção 1 de 3
+Questionário de avaliação da ferramenta
+Você concluiu as atividades práticas de avaliação do Lusiad. Agora, gostaríamos de conhecer sua percepção sobre a experiência com a ferramenta.
+
+Este questionário contém 15 afirmações. Indique seu grau de concordância com cada uma, considerando a experiência que acabou de ter, mesmo que tenha encontrado dificuldades ou não tenha concluído alguma atividade.
+
+
+Não há respostas certas ou erradas. Avaliações favoráveis e desfavoráveis são igualmente importantes. As respostas serão associadas ao seu código de participante e tratadas conforme as condições apresentadas no consentimento.
+
+Este formulário está coletando automaticamente os e-mails de todos os participantes.Alterar configurações
+Código de participante
+*
+Insira o código recebido do pesquisador na introdução da avaliação.
+Após a seção 1
+Seção 2 de 3
+Usabilidade
+Descrição (opcional)
+
+Eu acho que gostaria de usar esse sistema frequentemente.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Eu achei esse sistema desnecessariamente complexo.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Eu achei esse sistema fácil de usar.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Eu achei que precisaria de ajuda de uma pessoa técnica para ser capaz de usar esse sistema.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Eu achei que as várias funções desse sistema foram bem integradas.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Eu acho que o sistema apresenta muita inconsistência.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Eu imagino que a maioria das pessoas pode aprender a usar esse sistema rapidamente.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Eu achei esse sistema muito pesado para usar.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Eu me senti muito seguro usando o sistema.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Eu precisei aprender muitas coisas antes que pudesse utilizar esse sistema.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Comentário:
+Após a seção 2
+Seção 3 de 3
+Utilidade percebida e intenção de uso
+Descrição (opcional)
+
+A representação em blocos do Lusiad foi útil para realizar as alterações no código.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Não consigo avaliar
+Comentário:
+A visualização dos estados anterior e posterior me ajudou a identificar o que mudou no programa.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Não consigo avaliar
+Comentário:
+O histórico do Lusiad foi útil para acompanhar a sequência de alterações realizadas no programa.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Não consigo avaliar
+Comentário:
+Se estivesse disponível para meus projetos Java, eu utilizaria o Lusiad para modificar código.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Não consigo avaliar
+Comentário:
+ 
+Se estivesse disponível para meus projetos Java, eu utilizaria o Lusiad para analisar mudanças no código.
+
+*
+Discordo totalmente
+Discordo
+Nem concordo nem discordo
+Concordo
+Concordo totalmente
+Não consigo avaliar
+Comentário:
+

@@ -85,7 +85,7 @@ As telas correspondentes na aplicação em execução estão no [manual de uso](
 <table width="100%">
 <tr>
 <td align="left"><a href="requisitos.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="index.md">8️⃣ Prototipação</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">8️⃣ Prototipação</a></td>
 <td align="right"><a href="implementacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -117,3 +117,11 @@ As telas correspondentes na aplicação em execução estão no [manual de uso](
 - [🔀 Diagramas de interação](diagramas-de-interacao.md)
 - [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)
+
+**[📊 Avaliação](avaliacao.md)**
+
+- [📋 Planejamento](avaliacao-planejamento.md)
+- [🧪 Execução](avaliacao-execucao.md)
+- [📈 Resultados](avaliacao-resultados.md)
+- [💬 Discussão](avaliacao-discussao.md)
+- [📂 Materiais e dados](avaliacao-dados.md)

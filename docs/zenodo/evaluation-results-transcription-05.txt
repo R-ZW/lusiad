@@ -1,0 +1,961 @@
+
+Transcrição 05
+
+
+0:00
+/
+45:08
+Transcrição
+Pesquisar transcrição
+0:02
+Certo, tá gravando. Bueno, boa tarde, [participante], tudo certo? Eh, obrigado
+0:10
+>> por reservar esse tempo para participar. Tu consegue me escutar bem?
+0:15
+>> Escuto bem, sim, 100%.
+0:17
+>> Beleza. Então, antes de começar, eu quero só avisar que a sessão ela vai ser
+0:21
+gravada, né? A proposta é gravar o áudio e a tela durante as atividades para que
+0:26
+eu possa depois rever o uso da ferramenta na na hora da análise, né? Tu
+0:30
+concorda com isso?
+0:31
+>> Concordo.
+0:33
+>> Certo. Bom, essa avaliação, ela faz parte do meu trabalho de conclusão de
+0:37
+curso, né? Ah, a ferramenta ela se chama [ferramenta]. A intuito dela é basicamente
+0:42
+representar a estrutura de programas em Java por meio de blocos e permitir
+0:47
+editar, adicionar esses elementos, né? e o principal que é registrar todas as
+0:52
+mudanças realizadas ao longo do trabalho. O objetivo da avaliação, nesse
+0:57
+caso, é observar como as pessoas usam esses recursos e conhecer a percepção
+1:03
+delas sobre a experiência. A gente tá avaliando, só para constar, né, a gente
+1:06
+tá avaliando a ferramenta, ã, e dificuldades eventualmente podem
+1:11
+aparecer durante o uso, né? A gente não não vai atuir nota a tua habilidade de
+1:14
+programar nem nada. né? A avaliação é exclusiva a ferramenta. Ah, a sessão ela
+1:19
+tem três partes, né? A primeiro vai ter um termo de consentimento e o teu perfil
+1:24
+basicamente, né? Com programador, tua experiência com programação, com
+1:28
+rastreamento de mudanças, enfim. Depois tu vai utilizando a ferramenta, realizar
+1:33
+cinco tarefinhas, eh, seguindo os enunciados prontos de um de um
+1:37
+formulário. E por fim, tu vai responder um questionário referente à experiência
+1:41
+que tu teve com a ferramenta. Ã, a previsão é cerca de 20 a 30 minutos, né?
+1:47
+Se tu seguir certinho, se tu quiser explorar a ferramenta, pode demorar um
+1:50
+pouco mais, mas a ideia é que tu tu siga certinho para para ter essa avaliação um
+1:54
+pouco mais mais tranquila. Os registros dessa sessão eles são
+1:58
+anonimizados, né? No teu caso, tu vai ser o código [código omitido]. Então, os
+2:03
+formulários eventualmente vão pedir um código. O teu código, nesse caso, é
+2:06
+[código omitido]. Tá?
+2:09
+>> Agora eu vou mandar o primeiro link que é o termo de consentimento e as
+2:14
+perguntas de perfil. Me avisa quando tu conseguir abrir esse link. Deixa eu só
+2:18
+abrir o chatzinho da cal aqui rapidinho.
+2:24
+Aí, aqui, tá aqui o link. me avisa quando tu conseguir abrir ele.
+2:27
+>> Beleza,
+2:34
+>> tá? Abri o termo de consentimento.
+2:37
+>> Certo. Eu vou pedir que tu comece a compartilhar a tua tela.
+2:41
+>> Beleza?
+2:48
+>> Só dando o resumo em geral, né? Na primeira página, então, as informações
+2:51
+sobre a pesquisa de agora, né? H, a tua participação e o uso dos dados, né?
+2:57
+Todas as informações referente a isso. Eu vou pedir que tu leia com calma e se
+3:00
+alguma coisa não tiver clara, tu pode me perguntar. Depois dessa primeira página
+3:05
+tem o o formulário que vai pedir o teu consentimento para pra autorização da
+3:10
+gravação e paraas informações que que tu vai passar depois sobre a tua
+3:13
+experiência. E basicamente eu vou pedir que tu responda de acordo com a tua
+3:18
+situação atual. Eu não sei se tu botou para streamar a tela. perguntar é: "Tu
+3:22
+precisa a tela inteira?"
+3:25
+>> Ah, não, pode ser só a janela da
+3:27
+>> Isso
+3:28
+>> aí. Depois eu só vou pedir que quando for a hora do sistema, tu abra a janela
+3:32
+do sistema especificamente. Pode responder esse o questionário com calma
+3:37
+e depois tu me avisa quando tu finalizar aí,
+3:40
+>> tá? Beleza? Aqui eu já dei uma olhada por cima.
+4:01
+esqueci de perguntar. Tá apresentando certinho aí? Tá vendo bem o dela? Ah, tá
+4:05
+apresentando certinho. Tá tudo certinho. Pera aí,
+4:25
+pera aí. Não tem se o meu minha graduação mais atual, mais o concluído
+4:30
+não tá aqui. A não, você Ah, não, não. Ou concluído.
+4:35
+Tá beleza. Então, qual é graduação em andamento?
+4:39
+Isso
+4:40
+>> [resposta de perfil omitida]
+5:55
+>> Certinho. Beleza. Agora vou te enviar os links de
+5:59
+acesso à ferramenta e a lista de tarefas. Me avisa quando tu conseguir
+6:05
+abrir eles,
+6:06
+>> tá? Esse get start now. Eu posso clicar nele?
+6:10
+Hum. Não precisa. Isso aí é só para te criar um coisão online survey. Pode
+6:16
+fechar essa aba se tu quiser. Tranquilo.
+6:20
+>> Ah, no fim interrompeu a gravação. Sei se tem problema.
+6:24
+>> Opa. Não, não, não, não.
+6:25
+>> O compartilhamento no caso interrompeu.
+6:26
+>> Isso, isso. Tu compartilha depois quando tu abrir a ferramenta em si. Beleza.
+6:55
+Conseguiu abrir.
+6:58
+>> Opa, desculpa. Ah, não tinha visto que tinha chegado a mensagem aqui. Opa, tem
+7:02
+as
+7:02
+>> tava esperando.
+7:04
+>> Ah, tá. Avaliação do pera aí. Compartilhar também.
+7:17
+Aí conseguiu abrir a ferramenta.
+7:29
+>> Ã, eu abri um doc aqui.
+7:32
+>> Aham. E tem a outra link que é a ferramenta.
+7:36
+>> Tá. Ah, tá beleza. Precisa do Deixa eu abrir
+7:40
+aqui.
+7:42
+>> Se tu quiser, pode streamar só a ferramenta que a princípio,
+7:49
+>> Ah, aí tu tá tu tá streamando o navegador, então dá para ver ambos, tá?
+7:53
+Melhor assim, inclusive.
+7:54
+>> Ah, eu preciso fazer essa avaliação aqui depois, né?
+7:58
+>> Não, não. Essa aí são as tarefas.
+8:00
+>> Essas aí são, tipo assim, tu vai usar isso aí para te guiar no uso. Então,
+8:03
+tipo assim, tu vai fazer um por um do que tá aí, sabe? ele pede para fazer uma
+8:06
+coisa, tu vai na ferramenta e faz essa coisa, né? Basicamente é isso. Agora a
+8:10
+gente vai para essas atividades práticas. Cada o formulário, eh, cada
+8:14
+sessão daquele formulário ali, ele vai ter eh ele vai ter uma tarefa, né? Eh,
+8:19
+lê uma por vez, eh, tranquilo, vai fazendo conforme o é indicado, né? Eh,
+8:25
+tudo que é nome, valor, trecho de código, tudo que é necessário tá dentro
+8:28
+do enunciado. Tu pode consultar ele durante toda a atividade, né? Eh, quando
+8:33
+houver campos de resposta, eu peço para que tu preencha eles com base no que tu
+8:37
+encontrou na ferramenta, porque algumas algumas questões elas têm, algumas das
+8:41
+sessões, algumas das tarefas, elas têm algumas questõezinhas só para ver se,
+8:46
+tipo, tu chegou na resposta que seria, sabe? Só para ver se, enfim, deu para
+8:49
+usar a ferramenta certinha. Tu pode pedir esclarecimentos para qualquer eh
+8:54
+qualquer parte, seja uma dúvida do do projeto, seja uma dúvida no do
+8:57
+enunciado. Eh, durante essas tarefas, eu vou
+9:00
+registrar como é que tu usa o sistema. Eventualmente, se necessário, eu vou te
+9:03
+dar algumas dicas, se eu ver que tu tá travando em alguma coisa
+9:07
+>> e eu vou pedir pedir que tu verbalize tudo que tu tá achando do sistema,
+9:11
+qualquer defeito, qualquer sugestão, divagação, qualquer coisa que tu pensar,
+9:16
+eu peço que tu que tu me deu o feedback assim enquanto tu usa, sabe? Fica melhor
+9:20
+para mim. Eh, como uma dica que eu vi das sessões anteriores que eu acho que
+9:25
+fica mais tranquilo, é tu sempre tanto tem duas páginas que tem o o no caso
+9:30
+essa primeira página aí, depois quando tu entrar dentro do projeto, no canto
+9:34
+superior direito, tu vai ver que tem um um botãozinho de help. Pode ser
+9:38
+interessante tu começar por aí, sabe? Não precisa, se tu quiser ir fazendo as
+9:42
+coisas na marra, tranquilo. Mas pode ser interessante que aí tu sabe mais para
+9:46
+contextualizar nome de menus, etc., sabe? Eh, ficou alguma dúvida de como tu
+9:50
+vai conduzir essas tarefas?
+9:53
+>> Não, por enquanto não.
+9:54
+>> Beleza, pode fazer com calma e vai, visualmente já tem elogios para dar por
+9:59
+ser um visual clean.
+10:02
+>> Ã,
+10:02
+>> certo.
+10:03
+>> Tá bem a cara do do Svel, aquele CDN, não é o nome,
+10:08
+>> é Shad Cy.
+10:09
+>> É, é isso aí. Tá bem bonito.
+10:13
+>> Beleza. Pode ir fazendo pode ir fazendo esses comentários também. De repente eu
+10:17
+posso às vezes não responder, mas eu tô escutando tudo, sabe? Tipo, se
+10:20
+eventualmente alguma dúvida eu te respondo, mas só para ficar na gravação,
+10:23
+tu vai falando. Beleza? Pode começar com as tarefas, vai no teu, no teu tempo.
+10:32
+>> Beleza? Já.
+11:29
+Pera aí que eu não achei o navegador de arquivos. Mudança, pendência tag.
+11:35
+>> Opa. Tu tem que abrir o projeto ali. Tem um botãozão, ó. Ali aí, ó. Ah, agora
+11:43
+sim.
+11:45
+>> Aí, aí tu, esse, essa aí é um tutorial diferente. Inclusive, se tu quiser fazer
+11:49
+ele, ele mostra menuzinho pro menuzinho o tutorial lá do canto,
+11:53
+>> tá? Tá.
+12:09
+Eu acho que pode ser interessante tu fazer
+12:24
+o tutorial só para saber os nomezinhos de cada menuzinho que aí tu vai tu vai
+12:29
+se localizando.
+12:30
+>> Beleza?
+12:30
+>> Tutorial é esse ali em cima mesmo. Isso aí.
+13:14
+M. Onde é que fica a biblioteca de
+14:25
+componentes?
+14:26
+>> Ah, pois é, eu já ia perguntar isso aí.
+14:29
+>> É aquele aquele dentinho ali na esquerda, tá vendo? Ali, tipo, embaixo
+14:33
+do dentro do canvas de modelagem, dentro
+14:36
+dessa área central aí,
+14:38
+>> tu vai ver que tem dois dentinhos, um pra esquerda e outro pra direita. Esses
+14:41
+aí mesmo,
+14:42
+>> tá?
+14:42
+>> Esses dentinhos aí tu pode clicar neles. Um é biblioteca de componentes e outro
+14:46
+são os atributos.
+14:48
+>> Tá legal? No caso, se eu selecionar algum, vai
+14:52
+aparecer. Ah, tá legal. Tá. É aqui tá me instruindo adicionar um
+15:00
+atributo privado do tipo inteiro. Então, é por aqui.
+15:04
+>> Isso aí. Tu pode tentar navegar os menus ou tu pode buscar o pesquisar o
+15:08
+componente diretamente que tem o barra de pesquisa ali.
+15:21
+OK. Beleza. Um atributo aqui eu coloco, tá
+15:31
+dizendo o nome será chamado limite tipo inteiro
+15:40
+com valor inicial 10. Multiplicador não pede, né?
+15:46
+>> Isso. Ele é privado.
+15:48
+>> Privada. Tá, já tava ali. Beleza. Tá da hora.
+15:56
+Um método público chamado exibir mensagem. Ah, não, tô na classe errada.
+16:01
+Construção era essa mesmo. É. Tá. Um método público chamado exibir mensagem.
+16:08
+Vamos ver. Era
+16:13
+naquela, naquele naquele dropd ali mesmo. Isso. Atributo construtor método.
+16:24
+É aqui. Retorno vazio. parâmetros
+16:47
+sem parâmetro depois depois do método existente,
+16:58
+>> tu pode mover ele, ó. Tu pode clicar no no método exibir mensagem e aí tu vai
+17:02
+ver que no cantinho, ó, ali tu tem no meio. Essa aí, ó. Topzer
+17:11
+dentro exibir mensagem, uma chamada system out print com argumento al
+17:17
+Hum. Ok. Aqui tá. Agora eu recolho esse, expando esse.
+17:23
+>> Na verdade, tu pode utilizar a biblioteca se tu quiser.
+17:26
+>> Ah, tá.
+17:26
+>> Tem o tem a chamada de método. Se tu quiser usar o o menuzinho ali, tu
+17:31
+pode pesquisar direto o system oute ter.
+17:36
+>> Legal. Legal. Eh, não tá fazendo highlight, mas aí no
+17:44
+caso tu jogou para fora do método, tu viu que quando tu colocou mais ou menos
+17:48
+na região das chaves, ele ele mostrou. É isso aí eu tenho que ajeitar. É um
+17:53
+>> tá e deu não. Tranquilo. Agora deu certo. Vocês têm áudio print ln
+17:59
+e o argumento é olá. Beleza.
+18:06
+Ao terminar, abra o menu de propriedades.
+18:10
+Hum. É o outro dentinho.
+18:14
+>> Ah, tá. Seleciona o atributo criado.
+18:22
+Acho que foi esse. Depois o método criado. Pera aí.
+18:27
+Selecione o atributo criado. Depois o método criado.
+18:30
+>> É só para selecionar. É só pra gente saber que esse menu existe.
+18:34
+>> Mostrar para mim, mas a princíp é
+18:35
+>> um pesquisador onde essas instruções são apresentadas. Beleza.
+18:38
+>> Isso tá OK. Pode passar pra próxima tarefa.
+18:41
+>> Beleza. Us seguintes trechos como referência.
+18:45
+Ah, tá. Já tava aqui embaixo.
+18:47
+>> Isso. Isso.
+18:50
+>> Tarefa dois. Editar e reorganizar o modelo. Usando navegador de arquivos.
+18:54
+Abra o arquivo organização Java. Usando o menu de propriedades.
+19:04
+Esse não, aqui ele adiciona coisa propriedades.
+19:07
+>> Esse é o propriedades
+19:08
+>> no método. Opa. Rel alterações. Altere o valor inicial de limite de 10 para 20.
+19:17
+Tá. H, no método iniciar, substitua a
+19:23
+mensagem início por processo iniciado. Tá
+19:34
+aí, já tô pensando em salvar sem os sem as aspinhas para ver o que acontece.
+19:41
+Bom, o usuário fazer tudo, né? Ah, legal.
+19:45
+>> Eu eu ia deixar eu achei que eu queria que tu fizesse sem me perguntar.
+19:52
+Tá beleza. Removo o método encerrar
+20:01
+aqui. Não, no caso seria mover,
+20:06
+não remover.
+20:08
+>> Tá. Movo o método, tá? Inteiro para que apareça antes de
+20:13
+iniciar. OK. Tranquilo.
+20:20
+Ã, exclua somente o comentário, comentário
+20:25
+temporário. OK, tranquilo também.
+20:32
+Depois faça, opa, desfaça essa exclusão e confira o retorno do comentário
+20:38
+aqui. Beleza.
+20:43
+>> É isso aí. Depois refaça a exclusão e confirma que
+20:47
+ele foi removido novamente.
+20:48
+>> É só para seria só para mostrar para mim, mas tá maravilhoso. Pode pode
+20:53
+prosseguir
+20:54
+>> com a tarefa três.
+21:00
+>> Salvem o comite as alterações realizadas em tarefa um e dois.
+21:05
+OK. Aparentemente aqui tá, não sei se aqui tem controle de brente. Vamos ver o
+21:09
+que que tá que que tem aqui. Master estado inicial.
+21:16
+Uhum. Menu de comite. Tá. Tá.
+21:27
+Alterações sessão. OK.
+21:40
+Realize o comit no menu controle de brint. Localize o commit. Tá
+21:47
+comparar versões. Menu de comit. Controle de brint.
+21:55
+Uhum. Tá. Aparentemente tá certo.
+22:02
+Localize esse comite no gráfico de comit. Selecione para consultar seus
+22:06
+detalhes. Isso.
+22:08
+>> Tá. No caso, o o mais recente que tu fez,
+22:12
+o comite mais recente, no caso. Hum. Espera aí. Não deveria ter
+22:18
+aparecido aqui. Eu fiz o comite certo. Será deixou atualizar?
+22:21
+>> Fez o comit certo. Ele tá aí. Tu pode navegar. Tá vendo as bolinhas ali?
+22:27
+>> Ah, tá. Ah, tá. Beleza.
+22:36
+>> Se tu quiser pode fechar o menu decomit. não vai ser mais usado agora por
+22:40
+enquanto. É lá no no canto. Aí
+22:43
+>> esse aqui histórico de mudança. Não, outra
+22:46
+>> seria outra. Não, mas ok. Essa aí tu já fez o que
+22:50
+precisava nessa.
+22:52
+>> Então aqui as alterações, horário, tudo certinho. Aparentemente.
+22:58
+>> Isso aí
+22:59
+>> consigo ver as mudanças também. Legal. Legal.
+23:05
+Só quebrou um pouquinho a barra do lado superior porque a tua tela é um pouco
+23:07
+pequena, acredito eu. Mas é
+23:12
+>> Aham.
+23:12
+>> Tô com ela separado. Metade tá o docs aqui, ó. A planilha e outra metade tá a
+23:18
+tela.
+23:19
+>> Claro, claro.
+23:20
+>> Tá beleza. Então, a Ah, tá. Tem umas perguntinhas embaixo.
+23:25
+Em qual brand o commit foi salvo? M. Ã, qual é o
+23:30
+>> outro nome ali? Só eu vi que tu foi na base, mas tem outro nome
+23:35
+>> Isso,
+23:37
+>> cara. Eu não tinha eu tinha visto bem. Será que eu confundi? Como é que eu
+23:43
+recolho esse aqui e volto, tá? Beleza.
+23:51
+Ah, qual é o título da versão selecionado no grafo? É o título que eu
+23:56
+dei de alterações da sessão. Botar aqui.
+24:04
+Beleza.
+24:08
+>> É isso. Versão
+24:10
+>> pode prosseguir. É pra tarefa quatro. Beleza? Ã, a partir da versão D,
+24:17
+alterações de sessão um, no menu de controle de brand, crie uma branch
+24:21
+chamada experimento avaliação. A partir do controle de brand,
+24:31
+nova brand, experimenta avaliação. Caramba, tua ferramenta é bem ampla,
+24:40
+hein? bastante coisa.
+24:45
+Sim,
+24:45
+>> sistema inteiro é uma ideia, basicamente.
+24:50
+>> No menu de histórico de mudanças em D, localize a mudança de organização Java.
+25:01
+Deixar esse aqui. Hum.
+25:07
+Mudança de organização.
+25:11
+>> Tem um detalhezinho adicional. Tu tá exatamente na mudança que eu quero que
+25:14
+tu esteja.
+25:15
+>> Ah, tá. Que seria o comite, né?
+25:20
+>> Não, não, não. Tu tá na mudança mesmo. É alteração de expressão. Tá escrito
+25:25
+>> tu terminar a dois ali, tu vai ver.
+25:28
+>> No menu de histórico de mudanças, localiza a mudança organização.j.
+25:34
+>> Sim. É, esse aqui é mesmo.
+25:36
+>> E tem uma descriçãozinha mais ali, ó. Tu vê em que o valor inicial do limite
+25:40
+passou de 10 para 20. Tu tá exatamente nela.
+25:44
+>> Tá. E aqui tá destacando o valor que tá alterado, né?
+25:47
+>> Exatamente.
+25:48
+>> Tá beleza.
+25:52
+Restaure o projeto para o estado imediatamente após essa mudança. Hum.
+25:58
+Será que eu tenho que dar um checkout aqui de alguma forma
+26:02
+no estado posterior? Restaure o projeto após estão. Ah, não é
+26:13
+no próprio, tá? Restaure o projeto apóst. Isso aí.
+26:21
+>> Ah, tá pedindo para dar um nome diferente ou não?
+26:26
+Não, não é automático. OK.
+26:40
+Quatro. Abra a organização ponja Java e confira o estado do atributo após
+26:45
+recuperado. Organização. Java. OK. tá no 20,
+26:52
+então deu certo. Abra o menu de controle de branch e
+26:58
+visualize a a representação da recuperação.
+27:04
+Control de brand, ó. Tá,
+27:14
+tá. E voltou. Ela voltou paraa master já. É isso.
+27:21
+>> Não. Eh, basicamente a representação, ela quer dizer que entre aqueles dois
+27:24
+comits ali tinha a mudança que tu restaurou. Essa basicamente ele tá
+27:29
+dizendo que é o que experimenta a avaliação, aquele ponto que tá circulado
+27:33
+em roxo ali, ele basicamente tá retornando, tá apontando para aquela
+27:36
+mudança lá.
+27:38
+>> Ah, tá beleza.
+27:42
+Tá. Visualize a representação, abre abra o menu de comparar versões e compare as
+27:46
+seguintes versões: base alvo, tá?
+27:52
+Vamos ver que que é cada uma dessas. Seria no caso o menuzinho ali do lado.
+28:01
+Tu acho que tu não foi o único que tu não abriu até agora.
+28:07
+base tem que comparar qual com qual a base seria a master, será?
+28:16
+>> Eh, tá descrito no na tarefa.
+28:18
+>> Ah, tá. Versão
+28:20
+>> criada pela restauração.
+28:22
+>> Ah, tá beleza. Restaurar é projeto pós mudança.
+28:27
+E o alvo é alterações da sessão. Tá parar.
+28:39
+Tá, tá no menu de comprar versões, abra
+28:52
+diferença e organização. Java, selecione uma das visualizações disponíveis. Eu
+28:58
+acho que eu já fiz isso. Ah,
+29:00
+>> as visualizações elas são ali do canto. Tem o canvas PSI e tem o por kit dif
+29:04
+também.
+29:05
+>> Ah, tá beleza. Isso aqui eu sou acostumado a
+29:11
+ver, né? Esses outros para mim já são diferentes.
+29:18
+>> É a proposta da ferramenta mesmo.
+29:20
+>> E esse PSI, eu não sei, cara, não entendi o que que é.
+29:25
+Ele é a árvore sintática do do Intelij. Ele é bem específico, sabe? É tipo não
+29:32
+não seria pro usuário padrão olhar.
+29:34
+>> OK,
+29:37
+>> beleza. Bacana que atende a todo tipo de
+29:43
+usuário, né? Eu, como o cara mais leigo aqui, vou olhar o gate DIF, né? Que todo
+29:47
+mundo é obrigado a a saber, né? E também se o cara for mais avançado, tem as
+29:53
+outras opções também. E tem a opção visual, que acho que é a o grande
+29:57
+diferencial da tua ferramenta, né? Bem legal.
+30:01
+Ã, tá. Responde as perguntas abaixo, mostra o pesquisador ou arquivo
+30:06
+recuperado. Tá. Qual é o nome da branch em uso após a restauração?
+30:11
+Branch em uso é por não me lembro.
+30:24
+Tá, eu eu saí da Ixi,
+30:26
+>> não, não, tu tá ali mesmo. É, tu tá no lugar certo. É uma das duas, ou a master
+30:32
+ou a outra.
+30:33
+>> Sim.
+30:35
+>> Qual é a branch que tu tá?
+30:37
+>> É porque eu tô agora na master.
+30:40
+>> Certeza? Tá escrito aqui que tá ativa.
+30:45
+Eh, não, não, ela tá ativa, mas eh vai para baixo no grafo.
+30:50
+>> Tu tá na master mesmo?
+30:51
+>> Não, eu tô na experimento avaliação.
+30:55
+>> Isso aí.
+30:56
+>> Tá.
+31:01
+>> Qual é o texto da mensagem do método iniciar na base?
+31:09
+correspondente versão criada pela restauração.
+31:12
+Digite somente o texto da mensagem. Sim aspas.
+31:17
+É, é esse aqui, né?
+31:23
+>> É isso aí.
+31:26
+>> Qual é o texto da mensagem do método iniciar no alvo
+31:31
+correspondente a D? Tá, eu tô na D. Pera aí.
+31:37
+Iniciar no alvo. Iniciar, encerrar.
+31:43
+>> No caso, base seria o antes e o alvo seria depois, só para constar.
+31:48
+>> Tá, tá, tá, tá.
+31:56
+Então, acho que eu inverti as coisas. Essa aqui é, essa aqui é o depois, né?
+32:02
+Isso. Isso.
+32:03
+>> Então, essa aqui é a mensagem que tá no no alvo
+32:07
+e a que tá no base é início.
+32:14
+Tá, tá. Agora eu acho que agora eu entendi o
+32:22
+que eu tava fazendo. Tarefa cinco. Explorar o histórico no
+32:27
+menu do histórico de mudanças. Consulte a versão B. alterações registradas. Uma
+32:34
+>> pode fechar o a comparação também que tu não vai mais usar ela,
+32:38
+>> tá? Beleza. H
+32:42
+B alterações registradas. Ref teu arquivo
+32:51
+histórico. Exemplo, tá?
+32:57
+Ela contém três mudanças. Abre o detalhe dessas mudanças,
+33:02
+tá? São essas três. Opa. É, são essas três.
+33:10
+Na mudança que adiciona um atributo, consulta também visualização no ML. Pera
+33:14
+aí, vamos voltar. Abra os detalhes dessa mudança. Clique em uma mudança
+33:18
+específica e depois na opção expandir que vai ser habilitado. É isso que eu
+33:22
+fiz agora, né? Ah, não. Aqui, ó. No.
+33:53
+Isso aí. Aí só tem que fazer conforme o que o o que seria me mostrar o que foi
+33:58
+feito na adição via UML, né? Tá beleza?
+34:05
+Pera aí. Aqui eu não tô conseguindo comparar, não tô conseguindo observar.
+34:09
+Ah, tá. Foi mudada a posição de um de uma função, né?
+34:14
+De uma e de um método, não sei como é que é se é método
+34:18
+>> isso. Isso. Tu pode ver como código, inclusive fica mais fácil.
+34:22
+>> Sim. Tá,
+34:28
+tá ali. Só trocou a linha, né? Foi para cima.
+34:33
+Ã, na edição de limite, qual era o valor imediatamente antes da mudança?
+34:42
+Hum. Pera aí que eu não tô no acerto aqui. Não tá alterando o limite.
+34:50
+Alteração de expressão aqui. Atributo limite. Vamos ver. Tá.
+34:57
+Limite
+34:58
+>> só para avisar, tu pode navegar por ali mesmo, ó. Tem os as três mudanças ali,
+35:02
+ó. Tu vê a cada cadeia. Ih, bacana, hein?
+35:06
+Legal, legal. Acredito que com código fique mais fácil
+35:12
+de tu visualizar,
+35:14
+>> tá?
+35:15
+>> No caso, a para responder as questões, né?
+35:17
+>> Beleza. Informa apenas um o número. Antes da mudança era 10,
+35:29
+passou a ser 20. Qual é o nome do atributo adicionado?
+35:35
+Hum, pera aí.
+35:40
+adição foi adicionado um atributo chamado
+35:44
+rótulo sem
+35:49
+sem nada, só o nome dele, tá? Qual é o tipo de atributo adicionado? É
+35:56
+uma string apenas o nome do método que foi
+36:03
+removido. Hum.
+36:13
+Movido. Tá bom. Ah, encerrar.
+36:21
+Beleza. OK.
+36:26
+Pontuação
+36:28
+>> 10 de 10. Ei, top, hein? Ferramenta boa é assim mesmo, cara. É fácil de usar.
+36:35
+>> Maravilha. É, agora eu vou te mandar o último link que tem o questionário da
+36:41
+avaliação em si referente ao que tu a a ferramenta, né, do que tu achou dela
+36:46
+>> aqui. Deixa eu mandar certinho
+36:49
+>> aí tá no lá no Meet. Se tu quiser, tu pode transmitir, continuar transmitindo.
+36:55
+Se tu quiser, tu pode parar também a partir de agora.
+36:58
+>> Beleza? Basicamente esse questionário, ele tem
+37:03
+15 afirmações sobre a experiência que tu que tu acabou de ter com a ferramenta.
+37:07
+Eh, peço para que tu leia cada uma escolha a alternativa que melhor
+37:11
+representa a tua a tua opinião. Eh, considera as dificuldades que tu teve
+37:16
+eventualmente e no teu caso não ficou nenhuma tarefa incompleta, né? Ã, é
+37:21
+importante saber que tanto as avaliações favoráveis quanto desfavoráveis são
+37:25
+importantes para pra pesquisa. E se tiver qualquer comentário específico
+37:30
+para cada uma das questões, tu pode colocar. Se não tiver também pode deixar
+37:34
+o a parte do comentário em branco.
+37:36
+>> Beleza. O código é aquele que também falou no começo, né?
+37:40
+>> É o cinco. Não, não, não é cinco.
+37:44
+>> Tá.
+37:45
+>> Eu vi que tu colocou sim nos outros. Depois eu vou alterar no nos dados.
+37:48
+>> Ah, tá. Eu tinha entendido sim. Eu até escrevi sim aqui. Não é cinco.
+37:53
+>> Ah,
+37:54
+>> tranquilo.
+37:55
+>> Mantenho, Mantenho sim ou deixo cinco aqui? Não vai
+37:58
+>> não. Deixa cinco. Deixa cinco que eu vou saber. Cada um tem um Cada um tem um
+38:01
+código único. Depois eu eu adapto na no form. Tranquilo. Tá show.
+38:09
+Ã, tu quer encerrar aqui antes de eu de eu
+38:15
+responder essas 16 perguntas ou tu quer tem algo depois? Não sei qual é o tem.
+38:20
+Eh, depois tem uma coisinha assim, mas é só a nível de comentários. Vamos se tu
+38:24
+quiser parar de streamar a tela, tu pode parar. Beleza.
+38:28
+Deixa eu encerrar aqui então. Aí tu só me avisa quando finalizar de
+38:47
+responder que aí eu concluo a sessão.
+38:50
+>> Beleza? Aquela pergunta ali, [pesquisador], eu
+40:01
+precisei aprender muitas coisas antes que pudesse utilizar esse sistema.
+40:08
+Do ponto de vista de começar a utilizar o sistema, do ponto de vista de aprender
+40:12
+programação e cois
+40:14
+>> não, do ponto de vista do sistema, não da programação, do teu conhecimento
+40:17
+prévio, no caso.
+40:19
+>> Ah, beleza? Ai, a mesma coisa ali. Eu imagino que a
+40:29
+maioria das pessoas pode aprender a usar esse sistema rapidamente e maioria das
+40:33
+pessoas que já sabem programar, né?
+40:35
+>> Que já sabem programar. Exatamente.
+40:37
+>> Concordo. OK, encerrei.
+42:07
+Certinho. Então, maravilha. Eh, concluímos a sessão, então, eh, já desde
+42:13
+já agradeço. Obrigado, muito obrigado por participar e pelo tempo que que tu
+42:17
+dedicou às atividades. Ã, os teus registros vão contribuir bastante para
+42:21
+analisar o rosto da ferramenta e para orientar os próximos passos do trabalho.
+42:25
+Eh, tu tem alguma dúvida, alguma questão, algum ponto adicional que tu
+42:29
+queira que tu queira pontuar? Hum. Somente elogios, [pesquisador]. Achei
+42:35
+impressionante assim o quão fácil foi de abrir a ferramenta e já sair usando. Foi
+42:41
+bem diferente de qualquer IDE que eu já experienciei antes. Acho que fez um bom
+42:46
+trabalho e me coloco à disposição. Eu tenho um projeto que eu tô fazendo em
+42:51
+Java e de repente se tu quiser que eu use tua ferramenta para testar, para
+42:56
+apontar alguma melhoria ou outro, algum bug, eu meio disponibilizo assim para
+43:01
+ser teu testador ou que
+43:04
+>> maravilha, maravilha. Quando a gente for fazer um projeto prático, com certeza.
+43:08
+Beleza. Eu não sei, não sei a questão como é que se eu já consigo, por
+43:12
+exemplo, se e esse teu projeto ele
+43:18
+ele olha o repositório remoto do Git ou ele consegue ou ele somente consegue ver
+43:22
+um repositório local ou não sei como é que tá isso.
+43:26
+A princípio, eu vou adicionar essa parte de de é um é alguma funcionalidade mais
+43:30
+bem mais para frente, né, a nível de de fazer colaborativo também, mas a
+43:35
+princípio ele ele ele utiliza repositórios localmente, né? Então, eh,
+43:40
+e a questão dele é que as mudanças elas são rastreadas com mecanismo interno,
+43:45
+sabe? Então, tipo, todas aqueles registros que tu viu, tirando os
+43:48
+comites, enfim, o padrão que já existe no Git, ele é um mecanismo interno de
+43:52
+rastreamento. Então, tipo assim, tu vai conseguir importar o teu projeto pra
+43:56
+plataforma, só que os commits eles vão te eles vão continuar do jeito que eles
+43:59
+já são, sabe? Eh, tu não tem como ver as mudanças que tu fez no decorrer, é só as
+44:03
+mudanças que tu fazes dentro da plataforma. Isso aí, inclusive, é algo
+44:06
+que eu vou pesquisar mais adiante, mas, cara, com certeza, eventualmente quando
+44:10
+a gente for fazer um eh a parte de de projetos práticos mesmo, né? Claro que
+44:14
+isso é bem mais para frente, mas pode contar que eu vou que eu vou precisar da
+44:19
+tua ajuda com projeto real mesmo.
+44:21
+>> Beleza? Tá bom. Qualquer coisa que precisar aí pode pode contar.
+44:25
+>> Claro. Mas muito obrigado pelo pelo feedback. Eh, outra coisa também só a
+44:31
+nível de de formalidade, se tu quiser solicitar acesso aos teus registros, a o
+44:35
+vídeo, eh, enfim, os os dados que tu respondeu dos questionários ou se tu
+44:40
+quiser solicitar a remoção deles, como conforme tava lá no termo que tu que tu
+44:44
+aceitou, eh, eles é só é só me contatar via aquele e-mail que eu retiro. A
+44:49
+princípio não é para eu fazer isso, mas se tu eventualmente quiser remover, eles
+44:53
+estão estão lá, conforme o termo constava. Se a gente brigar algum dia,
+44:57
+eu faço isso.
+45:00
+>> Certo, certo.
+45:02
+>> Tá,
+45:02
+>> muito obrigado. Vou vou encerrar a gravação aqui.
+45:05
+>> Beleza. Obrigado.

@@ -27,7 +27,7 @@ Acompanhe uma edição desde o navegador até o arquivo Java, o registro da muda
 <table width="100%">
 <tr>
 <td align="left"><a href="prototipacao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="index.md">9️⃣ Implementação</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">9️⃣ Implementação</a></td>
 <td align="right"><a href="arquitetura.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -59,3 +59,11 @@ Acompanhe uma edição desde o navegador até o arquivo Java, o registro da muda
 - [🔀 Diagramas de interação](diagramas-de-interacao.md)
 - [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)
+
+**[📊 Avaliação](avaliacao.md)**
+
+- [📋 Planejamento](avaliacao-planejamento.md)
+- [🧪 Execução](avaliacao-execucao.md)
+- [📈 Resultados](avaliacao-resultados.md)
+- [💬 Discussão](avaliacao-discussao.md)
+- [📂 Materiais e dados](avaliacao-dados.md)

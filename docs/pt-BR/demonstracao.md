@@ -33,7 +33,7 @@ Em um projeto Java criado só para esta demonstração, `Exemplo.java` continha 
 <table width="100%">
 <tr>
 <td align="left"><a href="manual.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="index.md">2️⃣ Demonstração</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣ Demonstração</a></td>
 <td align="right"><a href="preparacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -65,3 +65,11 @@ Em um projeto Java criado só para esta demonstração, `Exemplo.java` continha 
 - [🔀 Diagramas de interação](diagramas-de-interacao.md)
 - [🧭 Decisões de projeto](decisoes-de-projeto.md)
 - [🔍 Elementos notáveis da implementação](elementos-notaveis-da-implementacao.md)
+
+**[📊 Avaliação](avaliacao.md)**
+
+- [📋 Planejamento](avaliacao-planejamento.md)
+- [🧪 Execução](avaliacao-execucao.md)
+- [📈 Resultados](avaliacao-resultados.md)
+- [💬 Discussão](avaliacao-discussao.md)
+- [📂 Materiais e dados](avaliacao-dados.md)

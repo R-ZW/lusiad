@@ -67,7 +67,7 @@ With the IDE, local service, and frontend running, open the project page. Create
 <table width="100%">
 <tr>
 <td align="left"><a href="setup.md">⬅️ Previous page</a></td>
-<td align="center"><a href="index.md">4️⃣ Installation guide</a></td>
+<td align="center"><a href="../../README.md#documentation-index">4️⃣ Installation guide</a></td>
 <td align="right"><a href="first-steps.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -99,3 +99,11 @@ With the IDE, local service, and frontend running, open the project page. Create
 - [🔀 Interaction diagrams](interaction-diagrams.md)
 - [🧭 Design decisions](design-decisions.md)
 - [🔍 Notable implementation elements](notable-implementation-elements.md)
+
+**[📊 Evaluation](evaluation.md)**
+
+- [📋 Planning](evaluation-planning.md)
+- [🧪 Execution](evaluation-execution.md)
+- [📈 Results](evaluation-results.md)
+- [💬 Discussion](evaluation-discussion.md)
+- [📂 Materials and data](evaluation-data.md)
