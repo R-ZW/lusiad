@@ -1,6 +1,6 @@
 # Linha de base de qualidade
 
-Registro realizado em 27/09/2026 para a atividade P01.
+Registro histórico de 27/09/2026 para a atividade P01. As contagens e o estado descrito referem-se àquela execução. As versões e verificações do checkout atual estão na página [Tecnologias utilizadas](../../docs/pt-BR/tecnologias-utilizadas.md#build-empacotamento-e-verificação).
 
 ## Estado inicial
 
@@ -12,7 +12,7 @@ Registro realizado em 27/09/2026 para a atividade P01.
 
 ## Estado após P01/P02
 
-O comando abaixo é a verificação canônica do frontend:
+Naquela execução, a verificação do frontend foi invocada pelo Corepack.
 
 ```powershell
 corepack yarn verify
@@ -24,11 +24,11 @@ A configuração inicial do ESLint aplica as regras recomendadas do Next.js e tr
 
 Os testes cobrem paridade dos catálogos PT/EN, interpolação, plurais, fallback de idioma, mensagens estruturadas, formatação de datas e a criação de um repositório Git descartável a partir de um projeto Java mínimo. A fixture e o repositório temporário não usam projetos cadastrados pelo usuário.
 
-O backend usa o framework de testes da plataforma IntelliJ já declarado. Seu comando de verificação é:
+O backend declarou suporte a testes da plataforma IntelliJ. Os comandos registrados para a verificação foram os seguintes.
 
 ```powershell
 .\gradlew.bat test
 .\gradlew.bat verifyPlugin
 ```
 
-O ambiente desta execução não possui Java/JDK, portanto os testes do plugin não puderam ser executados aqui. O Docker também não está disponível, por isso a configuração do MySQL de teste foi criada, mas sua inicialização real permanece pendente. Esses dois pontos devem ser validados em uma máquina com JDK 21 e Docker.
+A máquina usada naquela execução estava sem JDK e Docker. O registro de 27/09/2026, portanto, só cobre o resultado das verificações do frontend. O repositório atual também inclui [testes com MySQL descartável](../scripts/test-git-recording.mjs).

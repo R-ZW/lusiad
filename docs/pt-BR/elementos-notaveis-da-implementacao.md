@@ -210,7 +210,7 @@ Restaurar um ponto histórico cria uma nova versão. A remoção seletiva de um 
 <table width="100%">
 <tr>
 <td align="left"><a href="decisoes-de-projeto.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣7️⃣ Elementos notáveis da implementação</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣6️⃣ Elementos notáveis da implementação</a></td>
 <td align="right"><a href="avaliacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -220,7 +220,6 @@ Restaurar um ponto histórico cria uma nova versão. A remoção seletiva de um 
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -250,3 +249,4 @@ Restaurar um ponto histórico cria uma nova versão. A remoção seletiva de um 
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

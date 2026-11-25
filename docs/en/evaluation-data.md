@@ -1,10 +1,10 @@
-# `Lusiad` - Evaluation — Materials and data
+# `Lusiad` – Evaluation — Materials and data
 
 **🇺🇸 English** · [🇧🇷 Português (Brasil)](../pt-BR/avaliacao-dados.md)
 
 [📊 Evaluation](evaluation.md)
 
-The evaluation materials and anonymized data can be found in the [Zenodo record](https://doi.org/10.5281/zenodo.24266445) and in the [`docs/zenodo` directory of this repository](../zenodo/).
+The evaluation materials and anonymized data are available in the [`docs/zenodo` directory of this repository](../zenodo/). The DOI associated with the Zenodo deposit is [10.5281/zenodo.24266445](https://doi.org/10.5281/zenodo.24266445).
 
 ### On this page
 
@@ -43,7 +43,7 @@ The files retain the language used in the sessions. `participante_id` connects t
 <table width="100%">
 <tr>
 <td align="left"><a href="evaluation-discussion.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">2️⃣3️⃣ Evaluation — Materials and data</a></td>
+<td align="center"><a href="../../README.md#documentation-index">2️⃣2️⃣ Evaluation — Materials and data</a></td>
 <td align="right">Next page ➡️</td>
 </tr>
 </table>
@@ -53,7 +53,6 @@ The files retain the language used in the sessions. `participante_id` connects t
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -83,3 +82,4 @@ The files retain the language used in the sessions. `participante_id` connects t
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md) 👈
+- [🗂️ Evaluation files](../zenodo/)

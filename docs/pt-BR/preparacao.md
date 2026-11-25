@@ -20,8 +20,8 @@ Configure o plugin, o banco e a interface web. Depois, faça a primeira mudança
 
 <table width="100%">
 <tr>
-<td align="left"><a href="demonstracao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">3️⃣ Instalação</a></td>
+<td align="left"><a href="manual.md">⬅️ Página anterior</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣ Instalação</a></td>
 <td align="right"><a href="instalacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -31,7 +31,6 @@ Configure o plugin, o banco e a interface web. Depois, faça a primeira mudança
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)** 👈
 
@@ -61,3 +60,4 @@ Configure o plugin, o banco e a interface web. Depois, faça a primeira mudança
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

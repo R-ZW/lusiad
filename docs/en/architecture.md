@@ -184,7 +184,7 @@ The architecture figure from the thesis shows the UI components and their intera
 <table width="100%">
 <tr>
 <td align="left"><a href="implementation.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">🔟 Architecture</a></td>
+<td align="center"><a href="../../README.md#documentation-index">9️⃣ Architecture</a></td>
 <td align="right"><a href="directory-structure.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -194,7 +194,6 @@ The architecture figure from the thesis shows the UI components and their intera
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -224,3 +223,4 @@ The architecture figure from the thesis shows the UI components and their intera
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

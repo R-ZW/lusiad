@@ -1,4 +1,4 @@
-# `Lusiad` - Avaliação — Resultados
+# `Lusiad` – Avaliação — Resultados
 
 [🇺🇸 English](../en/evaluation-results.md) · **🇧🇷 Português (Brasil)**
 
@@ -139,7 +139,7 @@ Onze participantes registraram **56 comentários opcionais**. Os comentários e 
 <table width="100%">
 <tr>
 <td align="left"><a href="avaliacao-execucao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣1️⃣ Avaliação — Resultados</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣0️⃣ Avaliação — Resultados</a></td>
 <td align="right"><a href="avaliacao-discussao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -149,7 +149,6 @@ Onze participantes registraram **56 comentários opcionais**. Os comentários e 
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -179,3 +178,4 @@ Onze participantes registraram **56 comentários opcionais**. Os comentários e 
 - [📈 Resultados](avaliacao-resultados.md) 👈
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

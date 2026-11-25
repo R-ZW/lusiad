@@ -17,57 +17,65 @@
 
 ## 📋 1. Requirements
 
-Windows, IntelliJ IDEA 2025.2.4 with Java support, JDK 21, Node.js 24.12 or newer, Yarn 1.22.22, Git, and MySQL 8.0. The IDE must be running to provide the local API. The frontend and plugin use the same database. The commands below assume PowerShell at the repository root.
+The steps below use PowerShell on Windows. The repository targets IntelliJ IDEA 2025.2.4 with Java support, Java 21 for the plugin, Node.js 24.12.0 or newer, Yarn Classic 1.22.22, and MySQL 8.0. Make `git` and `tar` available on the frontend's PATH. Lusiad uses them to prepare historical previews. Keep the IDE running to provide the local API. [Technology stack](technology-stack.md)
+
+Configure Git's `user.name` and `user.email` for the account that runs the frontend. Git uses this identity when Lusiad creates the first commit and records later changes. [Git commit creation](../../lusiad-frontend/src/lib/services/commit-menu/git-operation.ts)
 
 <a name="from-a-release"></a>
 
 ## 📦 2. From a release
 
-1. Install the plugin ZIP through **Settings → Plugins → gear → Install Plugin from Disk**, then restart the IDE. Use `release/lusiad-plugin-2026-11-15-rc1.zip` and verify its hash in `release/SHA256SUMS.txt`. Its internal plugin version is still `1.0-SNAPSHOT`; this is a newly built archive.
-2. Extract `release/lusiad-frontend-2026-11-15-rc1.zip`. Inside the extracted `lusiad-frontend`, run `yarn install --frozen-lockfile` and `yarn start`. The production build is included. To rebuild, run `yarn build --webpack`.
-3. Prepare an empty database and apply `lusiad-backend/db/lusiad.sql` on a dedicated MySQL instance. The schema file uses the database name `lusiad`.
-4. Open the IntelliJ **Lusiad** panel, configure MySQL, start the local service, and open `http://localhost:3000`.
+If you have the ZIPs for the same release, use the steps below. For a checkout containing the source and the release tag only, use [From source](#from-source).
 
-The candidate was packaged locally. The extracted frontend started successfully; installing the plugin ZIP in a disposable IDE still requires the check described in `release/README.md`.
+The candidate `v2026-11-15-rc1` names its archives `lusiad-plugin-2026-11-15-rc1.zip` and `lusiad-frontend-2026-11-15-rc1.zip`.
+
+1. Compare the ZIPs with that release's `SHA256SUMS.txt` using `Get-FileHash -Algorithm SHA256`. For the candidate tagged `v2026-11-15-rc1`, the checksum file is available in the tag via `git show v2026-11-15-rc1:release/SHA256SUMS.txt`.
+2. In IntelliJ, use **Settings → Plugins → gear → Install Plugin from Disk**, select the plugin ZIP, and restart the IDE.
+3. Extract the frontend ZIP to its own directory. From the extracted `lusiad-frontend` folder, run `yarn install --frozen-lockfile`. The archive includes the production build. Continue with [Configuration](#configuration).
 
 <a name="from-source"></a>
 
 ## 🛠️ 3. From source
+
+Open PowerShell at the repository root and build the plugin.
 
 ```powershell
 cd lusiad-backend
 .\gradlew.bat buildPlugin
 ```
 
-Install the resulting `build/distributions/` ZIP in IntelliJ. For development, `runIde` starts another IDE instance. In another terminal:
+Install the ZIP from `lusiad-backend/build/distributions/` through **Install Plugin from Disk** and restart IntelliJ. For plugin development, run `.\gradlew.bat runIde` from `lusiad-backend/` to launch a development IDE. In another PowerShell terminal opened at the repository root, prepare the frontend.
 
 ```powershell
 cd lusiad-frontend
 yarn install --frozen-lockfile
 yarn build --webpack
-yarn start
 ```
 
-For web development, use `yarn dev` in place of the build and start commands.
+Continue with [Configuration](#configuration). For frontend development, you can skip `yarn build --webpack` and start the development server during configuration.
 
 <a name="configuration"></a>
 
 ## ⚙️ 4. Configuration
 
-Examples are available in `lusiad-backend/.env.example` and `lusiad-frontend/.env.example`. Supply your own credentials and use a test database. The plugin panel configures the database, frontend address, and Java environment. The API listens on `127.0.0.1:8765` by default, while the browser opens `localhost:3000`. Keep API tokens and passwords out of the repository. The frontend connects to MySQL and the local API from its server side.
+1. **Initialize MySQL.** Run [`lusiad-backend/db/lusiad.sql`](../../lusiad-backend/db/lusiad.sql) in a fresh MySQL instance or a fresh `lusiad` schema. The script selects `lusiad` explicitly. Use credentials that can access the schema, including writing the project and history tables. For an existing installation, back up the database and apply only the [applicable migrations](../../lusiad-backend/db/migrations).
+2. **Configure the plugin.** Open a Java project in IntelliJ and go to **View → Tool Windows → Lusiad → Environment**. Set the database host, port, name, user, and password. The plugin and frontend share `~/.lusiad/config.json` by default. If you override `LUSIAD_CONFIG_FILE`, point both processes at the same absolute path. [Backend overrides](../../lusiad-backend/.env.example) · [Frontend overrides](../../lusiad-frontend/.env.example)
+3. **Start the services.** Reopen IntelliJ and the frontend terminal after changing operational settings. In **Lusiad → Running**, check the database connection and start the local API. Its default address is `http://127.0.0.1:8765`. From `lusiad-frontend/`, run `yarn start` for the production build or `yarn dev` for development. Check **Web interface** and open `http://localhost:3000`.
+
+The plugin manages the shared API token. Keep the configuration file and credentials outside the repository. Configure JDK, source roots, and dependencies for each project in the web interface under **Settings → Java**. [Plugin controls](manual.md#plugin-panel) · [Java configuration](manual.md#java)
 
 <a name="check"></a>
 
 ## ✅ 5. Check
 
-With the IDE, local service, and frontend running, open the project page. Create a disposable Java project, initialize Git, open a class, edit it, and inspect the history. Follow the [first steps guide](first-steps.md) for the full walkthrough.
+Check that **Running** reports an active API, a successful database check, and an available web interface. Use a disposable Java project to verify that a file opens as a model and that an edit appears in the pending history before committing it. [First steps](first-steps.md)
 
 ---
 
 <table width="100%">
 <tr>
 <td align="left"><a href="setup.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">4️⃣ Installation guide</a></td>
+<td align="center"><a href="../../README.md#documentation-index">3️⃣ Installation guide</a></td>
 <td align="right"><a href="first-steps.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -77,7 +85,6 @@ With the IDE, local service, and frontend running, open the project page. Create
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -107,3 +114,4 @@ With the IDE, local service, and frontend running, open the project page. Create
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

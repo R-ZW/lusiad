@@ -2,9 +2,21 @@
 
 [🇺🇸 English](../en/directory-structure.md) · **🇧🇷 Português (Brasil)**
 
+### Nesta página
+
+> [1. Árvore de diretórios](#árvore-de-diretórios)<br>
+> [2. Raiz do repositório e documentação](#raiz-do-repositório-e-documentação)<br>
+> [3. Aplicação Next.js](#aplicação-nextjs)<br>
+> [4. Plugin do IntelliJ](#plugin-do-intellij)<br>
+> [5. Banco de dados, build e testes](#banco-de-dados-build-e-testes)<br>
+> [6. Onde começar uma alteração](#onde-começar-uma-alteração)<br>
+> [Índice da documentação](#índice-da-documentação)
+
+---
+
 ## Árvore de diretórios
 
-A árvore mostra os diretórios com arquivos no repositório do Lusiad ou na documentação em preparação. Os caminhos partem da raiz do repositório. Diretórios gerados, como `node_modules/`, `.next/` e o `build/` do Gradle, são criados localmente. Os projetos Java abertos no Lusiad e seus diretórios de trabalho e temporários são configurados à parte.
+A árvore mostra os diretórios com arquivos versionados neste repositório. Os caminhos partem da raiz do repositório. Diretórios gerados, como `node_modules/`, `.next/` e o `build/` do Gradle, são criados localmente. Os projetos Java abertos no Lusiad e seus diretórios de trabalho e temporários são configurados à parte.
 
 ```text
 📦 lusiad/
@@ -12,8 +24,10 @@ A árvore mostra os diretórios com arquivos no repositório do Lusiad ou na doc
 │   ├── 🖼️ assets/
 │   │   ├── 🎨 prototyping/
 │   │   └── 📖 user-guide/
+│   │       └── 🖼️ panels/
 │   ├── 🇺🇸 en/
-│   └── 🇧🇷 pt-BR/
+│   ├── 🇧🇷 pt-BR/
+│   └── 📊 zenodo/
 ├── 🔌 lusiad-backend/
 │   ├── 🗃️ db/
 │   │   └── 🧾 migrations/
@@ -181,22 +195,14 @@ A árvore mostra os diretórios com arquivos no repositório do Lusiad ou na doc
                                 └── 📁 example/
 ```
 
-### Nesta página
-
-> [1. Raiz do repositório e documentação](#raiz-do-repositório-e-documentação)<br>
-> [2. Aplicação Next.js](#aplicação-nextjs)<br>
-> [3. Plugin do IntelliJ](#plugin-do-intellij)<br>
-> [4. Banco de dados, build e testes](#banco-de-dados-build-e-testes)<br>
-> [5. Onde começar uma alteração](#onde-começar-uma-alteração)<br>
-> [Índice da documentação](#índice-da-documentação)
-
 ## Raiz do repositório e documentação
 
 | Diretório | Conteúdo |
 | --- | --- |
 | [`docs/`](..) | Documentação para instalar, usar e entender o Lusiad. Os READMEs na raiz apresentam o projeto em [inglês](../../README.md) e [português](../../README.pt-BR.md). |
 | [`docs/en/`](../en) e [`docs/pt-BR/`](.) | As versões em inglês e português brasileiro. A página de arquitetura descreve as responsabilidades em execução. Esta página aponta os caminhos que implementam essas responsabilidades. |
-| [`docs/assets/`](../assets) | Figuras e capturas de tela compartilhadas. [`prototyping/`](../assets/prototyping) contém as telas da prototipação. [`user-guide/`](../assets/user-guide) contém as capturas preparadas para o manual. |
+| [`docs/assets/`](../assets) | Figuras e capturas de tela compartilhadas. [`prototyping/`](../assets/prototyping) contém as telas da prototipação. [`user-guide/panels/`](../assets/user-guide/panels) contém as capturas do navegador e do IntelliJ usadas no manual. |
+| [`docs/zenodo/`](../zenodo/) | Instrumentos de avaliação, respostas anonimizadas e transcrições das sessões. A página de [materiais e dados](avaliacao-dados.md) explica o que pode ser analisado com cada arquivo. |
 | [`lusiad-frontend/`](../../lusiad-frontend) | Aplicação Next.js, interface no navegador, integração no servidor e testes TypeScript. |
 | [`lusiad-backend/`](../../lusiad-backend) | Plugin do IntelliJ, API HTTP, testes Java e arquivos do esquema MySQL. |
 
@@ -373,7 +379,7 @@ A [Arquitetura](arquitetura.md) explica a divisão de responsabilidades entre es
 <table width="100%">
 <tr>
 <td align="left"><a href="arquitetura.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣1️⃣ Estrutura de diretórios</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">🔟 Estrutura de diretórios</a></td>
 <td align="right"><a href="tecnologias-utilizadas.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -384,7 +390,6 @@ A [Arquitetura](arquitetura.md) explica a divisão de responsabilidades entre es
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -414,3 +419,4 @@ A [Arquitetura](arquitetura.md) explica a divisão de responsabilidades entre es
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

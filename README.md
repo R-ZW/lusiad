@@ -15,7 +15,6 @@ The project is distributed under the [MIT license](LICENSE).
 ### 📖 Overview
 
 - [🖥️ User guide](docs/en/manual.md)
-- [🎬 Demo](docs/en/demo.md)
 
 ### [⚙️ Installation](docs/en/setup.md)
 

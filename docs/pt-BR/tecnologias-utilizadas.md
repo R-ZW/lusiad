@@ -14,6 +14,8 @@ O Lusiad combina uma aplicação web Next.js com um plugin do IntelliJ IDEA. O n
 > [6. Ferramentas de documentação](#ferramentas-de-documentação)<br>
 > [Índice da documentação](#índice-da-documentação)
 
+---
+
 ## Versões de execução e build
 
 | Tecnologia | Versão ou requisito | Papel no Lusiad |
@@ -148,6 +150,16 @@ O frontend tem um build de produção e um script que inicia a CLI do Next.js co
 
 O plugin do IntelliJ tem um build separado. Os scripts Gradle são escritos em Kotlin DSL e declaram o plugin Kotlin JVM `2.1.20`. A implementação em `src/main/java/` é escrita em Java. A tarefa `buildPlugin` do Gradle empacota o ZIP instalável, com o descritor e os catálogos de mensagens. Os testes usam JUnit `4.13.2` e o framework de testes da plataforma IntelliJ. Os scripts de integração do frontend e os testes Java cobrem operações com MySQL, como o registro Git e a persistência de edições. O ambiente de testes pode iniciar um processo descartável do MySQL usando o esquema de testes separado. [Build do plugin](../../lusiad-backend/build.gradle.kts) · [Testes do plugin](../../lusiad-backend/src/test/java/com/lusiad) · [Teste de integração do registro Git](../../lusiad-frontend/scripts/test-git-recording.mjs) · [Script do ambiente de testes](../../lusiad-frontend/scripts/lusiad-test-lab.mjs) · [Esquema de testes](../../lusiad-backend/db/migrations/lusiad-test-schema.sql)
 
+| Diretório | Comando | Cobertura |
+| --- | --- | --- |
+| `lusiad-frontend/` | `yarn verify` | TypeScript, ESLint, testes unitários e de regressão e build de produção. |
+| `lusiad-frontend/` | `yarn test:git:db` | Registro Git e sincronização externa com uma instância descartável do MySQL. |
+| `lusiad-frontend/` | `yarn test:tags:db` | Etiquetas do histórico com uma instância descartável do MySQL. |
+| `lusiad-backend/` | `.\gradlew.bat test` | Testes Java e da plataforma IntelliJ. |
+| `lusiad-backend/` | `.\gradlew.bat verifyPlugin` | Verificação de compatibilidade do plugin com o IntelliJ Plugin Verifier. |
+
+As duas verificações do frontend com banco procuram `mysqld` no PATH por padrão. Se o MySQL estiver instalado em outro local, defina `LUSIAD_MYSQLD` com o caminho do executável. [Verificações do registro Git](../../lusiad-frontend/scripts/test-git-recording.mjs) · [Verificações das etiquetas do histórico](../../lusiad-frontend/scripts/test-history-tags.mjs)
+
 ## Ferramentas de documentação
 
 A documentação é versionada em Markdown em português brasileiro e inglês. Seus diagramas Mermaid descrevem relações entre módulos e fluxos de execução do repositório. As prévias UML na aplicação são geradas em tempo de execução pelo PlantUML a partir de código Java. [Estrutura de diretórios](estrutura-de-diretorios.md) · [Serviço UML da aplicação](../../lusiad-backend/src/main/java/com/lusiad/backend/service/uml/UmlService.java)
@@ -157,7 +169,7 @@ A documentação é versionada em Markdown em português brasileiro e inglês. S
 <table width="100%">
 <tr>
 <td align="left"><a href="estrutura-de-diretorios.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣2️⃣ Tecnologias utilizadas</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣1️⃣ Tecnologias utilizadas</a></td>
 <td align="right"><a href="modelo-de-dados.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -167,7 +179,6 @@ A documentação é versionada em Markdown em português brasileiro e inglês. S
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -197,3 +208,4 @@ A documentação é versionada em Markdown em português brasileiro e inglês. S
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

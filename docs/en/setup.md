@@ -20,8 +20,8 @@ Set up the plugin, database, and web interface, then make your first change in a
 
 <table width="100%">
 <tr>
-<td align="left"><a href="demo.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">3️⃣ Installation</a></td>
+<td align="left"><a href="manual.md">⬅️ Previous page</a></td>
+<td align="center"><a href="../../README.md#documentation-index">2️⃣ Installation</a></td>
 <td align="right"><a href="installation.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -31,7 +31,6 @@ Set up the plugin, database, and web interface, then make your first change in a
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)** 👈
 
@@ -61,3 +60,4 @@ Set up the plugin, database, and web interface, then make your first change in a
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

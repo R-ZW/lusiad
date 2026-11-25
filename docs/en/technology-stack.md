@@ -14,6 +14,8 @@ Lusiad combines a Next.js web application with an IntelliJ IDEA plugin. The brow
 > [6. Documentation tools](#documentation-tools)<br>
 > [Documentation index](#documentation-index)
 
+---
+
 ## Runtime and build versions
 
 | Technology | Version or constraint | Role in Lusiad |
@@ -148,6 +150,16 @@ The frontend has a separate production build and a script that starts the Next.j
 
 The IntelliJ plugin is a separate build. Its Gradle scripts are written in Kotlin DSL and declare the Kotlin JVM plugin `2.1.20`. The plugin implementation in `src/main/java/` is Java. Gradle’s `buildPlugin` task packages the plugin ZIP, including the descriptor and resource bundles. Tests use JUnit `4.13.2` and the IntelliJ Platform test framework. Database-backed frontend scripts and Java integration tests cover paths that use MySQL, including Git recording and edit persistence. The test lab can start a disposable MySQL process using the separate test schema. [Plugin build](../../lusiad-backend/build.gradle.kts) · [Plugin tests](../../lusiad-backend/src/test/java/com/lusiad) · [Git recording integration test](../../lusiad-frontend/scripts/test-git-recording.mjs) · [Test lab script](../../lusiad-frontend/scripts/lusiad-test-lab.mjs) · [Test schema](../../lusiad-backend/db/migrations/lusiad-test-schema.sql)
 
+| Run from | Command | Coverage |
+| --- | --- | --- |
+| `lusiad-frontend/` | `yarn verify` | TypeScript, ESLint, unit and regression tests, and a production build. |
+| `lusiad-frontend/` | `yarn test:git:db` | Git recording and external synchronization using a disposable MySQL instance. |
+| `lusiad-frontend/` | `yarn test:tags:db` | History tags using a disposable MySQL instance. |
+| `lusiad-backend/` | `.\gradlew.bat test` | Java and IntelliJ Platform tests. |
+| `lusiad-backend/` | `.\gradlew.bat verifyPlugin` | Plugin compatibility checks through the IntelliJ Plugin Verifier. |
+
+Both frontend database checks look for `mysqld` on the PATH by default. Set `LUSIAD_MYSQLD` to the executable path if MySQL is installed elsewhere. [Git recording checks](../../lusiad-frontend/scripts/test-git-recording.mjs) · [History tag checks](../../lusiad-frontend/scripts/test-history-tags.mjs)
+
 ## Documentation tools
 
 The documentation is versioned as Markdown in English and Brazilian Portuguese. Its Mermaid diagrams describe source relationships and execution flows in the repository. The application’s UML previews are generated at runtime by PlantUML from Java source. [Documentation tree](directory-structure.md) · [Application UML service](../../lusiad-backend/src/main/java/com/lusiad/backend/service/uml/UmlService.java)
@@ -157,7 +169,7 @@ The documentation is versioned as Markdown in English and Brazilian Portuguese. 
 <table width="100%">
 <tr>
 <td align="left"><a href="directory-structure.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">1️⃣2️⃣ Technology stack</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣1️⃣ Technology stack</a></td>
 <td align="right"><a href="data-model.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -167,7 +179,6 @@ The documentation is versioned as Markdown in English and Brazilian Portuguese. 
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -197,3 +208,4 @@ The documentation is versioned as Markdown in English and Brazilian Portuguese. 
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

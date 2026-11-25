@@ -13,37 +13,32 @@
 
 ## 🧩 1. Antes da movimentação
 
-Em um projeto Java criado só para esta demonstração, `Exemplo.java` continha `iniciar()` antes de `encerrar()`. Na interface real, o usuário selecionou `encerrar()` no modelo e o arrastou para antes de `iniciar()`. O código Java passou a refletir a nova ordem. Em seguida, registrou o commit **Mover encerrar antes de iniciar**, abriu a mudança individual no histórico e comparou esse commit com **Preparar dois métodos**.
+As capturas usam um projeto Java preparado para a demonstração. Em `Exemplo.java`, o canvas mostra `iniciar()` acima de `encerrar()` dentro da mesma classe.
 
 ![Modelo Java e biblioteca antes do movimento: iniciar acima de encerrar](../assets/01-modeling-canvas.png)
 *1. Estado anterior: biblioteca, modelo e código de `Exemplo.java`.*
 
 ## ↕️ 2. Movimentar o método
 
+Selecione `encerrar()` e arraste-o pela alça de movimentação até o espaço acima de `iniciar()`. O código Java passa a refletir a nova ordem, e o Lusiad registra a movimentação como uma alteração individual.
+
 ![Modelo Java depois do movimento: encerrar acima de iniciar](../assets/02-method-move.png)
 *2. A posição dos métodos mudou no modelo e no arquivo Java.*
 
 ## 🔍 3. Comparar os commits
+
+O commit registrado recebeu o título **Mover encerrar antes de iniciar**. No **Histórico de mudanças**, abra o evento de movimentação para consultar os estados logo antes e logo depois da operação. Para comparar versões completas, use **Preparar dois métodos** como base e **Mover encerrar antes de iniciar** como alvo em **Comparar versões**, depois selecione `Exemplo.java`.
 
 ![Comparação visual lado a lado entre os commits anterior e posterior](../assets/05-version-comparison.png)
 *3. A comparação de versões mostra os estados anterior e posterior.*
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left"><a href="manual.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣ Demonstração</a></td>
-<td align="right"><a href="preparacao.md">Próxima página ➡️</a></td>
-</tr>
-</table>
-
 ### Índice da documentação
 
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md) 👈
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -73,3 +68,4 @@ Em um projeto Java criado só para esta demonstração, `Exemplo.java` continha 
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

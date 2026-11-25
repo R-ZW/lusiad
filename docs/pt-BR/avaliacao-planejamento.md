@@ -1,4 +1,4 @@
-# `Lusiad` - Avaliação — Planejamento
+# `Lusiad` – Avaliação — Planejamento
 
 [🇺🇸 English](../en/evaluation-planning.md) · **🇧🇷 Português (Brasil)**
 
@@ -74,7 +74,7 @@ Os registros de observação e as gravações autorizadas da tela compartilhada 
 <table width="100%">
 <tr>
 <td align="left"><a href="avaliacao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣9️⃣ Avaliação — Planejamento</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣8️⃣ Avaliação — Planejamento</a></td>
 <td align="right"><a href="avaliacao-execucao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -84,7 +84,6 @@ Os registros de observação e as gravações autorizadas da tela compartilhada 
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -114,3 +113,4 @@ Os registros de observação e as gravações autorizadas da tela compartilhada 
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

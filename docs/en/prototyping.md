@@ -85,7 +85,7 @@ For the corresponding screens in the running application, see the [user guide](m
 <table width="100%">
 <tr>
 <td align="left"><a href="requirements.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">8️⃣ Prototyping</a></td>
+<td align="center"><a href="../../README.md#documentation-index">7️⃣ Prototyping</a></td>
 <td align="right"><a href="implementation.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -95,7 +95,6 @@ For the corresponding screens in the running application, see the [user guide](m
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -125,3 +124,4 @@ For the corresponding screens in the running application, see the [user guide](m
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

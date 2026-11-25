@@ -39,7 +39,7 @@ No IntelliJ IDEA, abra **View → Tool Windows → Lusiad**. Mantenha a IDE em e
 | **Projetos** | Atualize a lista de cadastros e selecione um projeto, ou deixe o lançador na página de projetos. O painel indica quais projetos estão abertos no IntelliJ ou no Lusiad e permite abrir uma pasta cadastrada na IDE. |
 | **Configurações** | Defina a URL da interface e a pasta do frontend quando forem configuráveis. Use **Salvar URL e pasta** para manter as opções do lançador. Use as preferências compartilhadas para idioma e aparência. |
 | **Ambiente** | Consulte ou edite opções operacionais como os endereços locais, a conexão ao banco e o armazenamento temporário. As opções do processo e da configuração de Run da IDE têm precedência. Reinicie a sessão da IDE e o frontend após alterar o banco ou a API. |
-| **Tutoriais** | Consulte as instruções para iniciar o frontend ou use **Copiar comando de início** para obter o comando do terminal. A interface web tem tutoriais próprios no botão **?**. |
+| **Tutoriais** | **Copiar comando de início** fica disponível quando uma pasta válida do frontend é definida em **Configurações**. O painel mistura instruções de `npm` e Yarn. Use o [guia de instalação](instalacao.md) para seguir a sequência completa com Yarn e o lockfile do repositório. No navegador, abra **?** para ver os tutoriais guiados. |
 
 ### Capturas do painel no IntelliJ
 
@@ -232,7 +232,7 @@ Abra **Configurações → Java** e selecione um projeto cadastrado, ou abra o b
 
 ![Painel de execução Java com código de saída, resultado e ação de executar novamente](../assets/user-guide/panels/java-run-panel.png)
 
-Se nenhuma classe principal aparecer, confira as raízes de produção e a assinatura do método. Caso o compilador informe pacotes ausentes, confira os caminhos das dependências. Um erro de compilação interrompe o processo antes da execução. Uma exceção em tempo de execução pode vir acompanhada da saída impressa até o momento da falha.
+Se nenhuma classe principal aparecer, confira as raízes de produção e a assinatura do método. Caso o compilador informe pacotes ausentes, confira os caminhos das dependências. Um erro de compilação interrompe o processo antes da execução. Uma exceção em tempo de execução pode vir acompanhada da saída impressa até o momento da falha. No exemplo da calculadora, quatro operações geram saída antes de uma divisão por zero aparecer em **Erros**, com código de saída `1`. [Captura do erro em tempo de execução](../assets/user-guide/run-runtime-error.png)
 
 <a name="commit"></a>
 
@@ -390,7 +390,7 @@ Preferências compartilhadas de idioma e aparência podem se sincronizar com o p
 <tr>
 <td align="left"><a href="../../README.pt-BR.md">⬅️ Página anterior</a></td>
 <td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣ Manual de uso</a></td>
-<td align="right"><a href="demonstracao.md">Próxima página ➡️</a></td>
+<td align="right"><a href="preparacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
 
@@ -399,7 +399,6 @@ Preferências compartilhadas de idioma e aparência podem se sincronizar com o p
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md) 👈
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -429,3 +428,4 @@ Preferências compartilhadas de idioma e aparência podem se sincronizar com o p
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

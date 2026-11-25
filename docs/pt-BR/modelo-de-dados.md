@@ -13,6 +13,8 @@ O modelo de dados do Lusiad conecta os arquivos-fonte, os estados versionados no
 > [5. Dados usados nas prévias históricas](#dados-usados-nas-prévias-históricas)<br>
 > [Índice da documentação](#índice-da-documentação)
 
+---
+
 ## Representações e identificadores
 
 | Representação | O que contém | Onde fica |
@@ -208,7 +210,7 @@ A reexecução copia a árvore de trabalho da prévia para `working-copy-prev` i
 <table width="100%">
 <tr>
 <td align="left"><a href="tecnologias-utilizadas.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣3️⃣ Modelo de dados</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣2️⃣ Modelo de dados</a></td>
 <td align="right"><a href="referencia-da-api.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -218,7 +220,6 @@ A reexecução copia a árvore de trabalho da prévia para `working-copy-prev` i
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -248,3 +249,4 @@ A reexecução copia a árvore de trabalho da prévia para `working-copy-prev` i
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

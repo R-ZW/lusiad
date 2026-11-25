@@ -14,6 +14,8 @@ The six decisions below follow the numbering in the article. Each records the re
 > [DD6. Libraries](#dd6)<br>
 > [Documentation index](#documentation-index)
 
+---
+
 <a name="dd1"></a>
 
 ## DD1. IntelliJ IDEA plugin as the system's foundation
@@ -149,7 +151,7 @@ The [implementation walkthrough](notable-implementation-elements.md) follows a m
 <table width="100%">
 <tr>
 <td align="left"><a href="interaction-diagrams.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">1️⃣6️⃣ Design decisions</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣5️⃣ Design decisions</a></td>
 <td align="right"><a href="notable-implementation-elements.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -159,7 +161,6 @@ The [implementation walkthrough](notable-implementation-elements.md) follows a m
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -189,3 +190,4 @@ The [implementation walkthrough](notable-implementation-elements.md) follows a m
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

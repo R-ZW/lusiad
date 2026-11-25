@@ -13,38 +13,32 @@
 
 ## 🧩 1. Before the move
 
-In `Exemplo.java`, the method `iniciar()` appears above `encerrar()`. The canvas shows both methods inside their enclosing class.
+The screenshots use a Java project prepared for the demonstration. In `Exemplo.java`, the canvas shows `iniciar()` above `encerrar()` inside the same class.
 
 ![Java model of Exemplo.java with iniciar above encerrar](../assets/01-modeling-canvas.png)
+*1. The library, model, and source of `Exemplo.java` before the move.*
 
 ## ↕️ 2. Move the method
 
-Drag `encerrar()` above `iniciar()`. The Java source reflects the new order, and Lusiad records the move as an individual change.
+Select `encerrar()` and drag it by its move handle to the gap above `iniciar()`. The Java source reflects the new order, and Lusiad records the move as an individual change.
 
 ![Java model and source after moving encerrar above iniciar](../assets/02-method-move.png)
+*2. The new method order in the model and Java source.*
 
 ## 🔍 3. Compare the commits
 
-After committing the move, you can inspect it in two ways. Open the event in the history to see the method immediately before and after the move. Select two commits to compare the file across versions, as shown below.
+The recorded commit is titled **Mover encerrar antes de iniciar**. In **Change history**, open its move event to inspect the states immediately before and after that operation. To compare whole versions, select **Preparar dois métodos** as the base and **Mover encerrar antes de iniciar** as the target in **Compare versions**, then select `Exemplo.java`.
 
 ![Side-by-side comparison of the two commits showing the change in method order](../assets/05-version-comparison.png)
+*3. The version comparison shows the two states side by side.*
 
 ---
-
-<table width="100%">
-<tr>
-<td align="left"><a href="manual.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">2️⃣ Demo</a></td>
-<td align="right"><a href="setup.md">Next page ➡️</a></td>
-</tr>
-</table>
 
 ### Documentation index
 
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md) 👈
 
 **[⚙️ Installation](setup.md)**
 
@@ -74,3 +68,4 @@ After committing the move, you can inspect it in two ways. Open the event in the
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

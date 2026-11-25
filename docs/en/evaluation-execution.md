@@ -1,4 +1,4 @@
-# `Lusiad` - Evaluation — Execution
+# `Lusiad` – Evaluation — Execution
 
 **🇺🇸 English** · [🇧🇷 Português (Brasil)](../pt-BR/avaliacao-execucao.md)
 
@@ -44,7 +44,7 @@ The electronic forms produced 15 records for each of the three instruments. Part
 <table width="100%">
 <tr>
 <td align="left"><a href="evaluation-planning.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">2️⃣0️⃣ Evaluation — Execution</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣9️⃣ Evaluation — Execution</a></td>
 <td align="right"><a href="evaluation-results.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -54,7 +54,6 @@ The electronic forms produced 15 records for each of the three instruments. Part
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -84,3 +83,4 @@ The electronic forms produced 15 records for each of the three instruments. Part
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

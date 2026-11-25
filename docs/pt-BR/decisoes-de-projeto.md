@@ -14,6 +14,8 @@ As seis decisões a seguir mantêm a numeração do artigo. Cada uma registra o 
 > [DD6. Bibliotecas](#dd6)<br>
 > [Índice da documentação](#índice-da-documentação)
 
+---
+
 <a name="dd1"></a>
 
 ## DD1. Plugin do IntelliJ IDEA como base do sistema
@@ -149,7 +151,7 @@ A página de [elementos notáveis da implementação](elementos-notaveis-da-impl
 <table width="100%">
 <tr>
 <td align="left"><a href="diagramas-de-interacao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣6️⃣ Decisões de projeto</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣5️⃣ Decisões de projeto</a></td>
 <td align="right"><a href="elementos-notaveis-da-implementacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -159,7 +161,6 @@ A página de [elementos notáveis da implementação](elementos-notaveis-da-impl
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -189,3 +190,4 @@ A página de [elementos notáveis da implementação](elementos-notaveis-da-impl
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

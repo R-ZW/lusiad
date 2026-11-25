@@ -1,4 +1,4 @@
-# `Lusiad` - Evaluation — Planning
+# `Lusiad` – Evaluation — Planning
 
 **🇺🇸 English** · [🇧🇷 Português (Brasil)](../pt-BR/avaliacao-planejamento.md)
 
@@ -74,7 +74,7 @@ Observation records and authorized screen-sharing recordings complemented the qu
 <table width="100%">
 <tr>
 <td align="left"><a href="evaluation.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">1️⃣9️⃣ Evaluation — Planning</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣8️⃣ Evaluation — Planning</a></td>
 <td align="right"><a href="evaluation-execution.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -84,7 +84,6 @@ Observation records and authorized screen-sharing recordings complemented the qu
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -114,3 +113,4 @@ Observation records and authorized screen-sharing recordings complemented the qu
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

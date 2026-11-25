@@ -13,6 +13,8 @@ Lusiad's data model connects source files, Git snapshots, and MySQL events. The 
 > [5. Data used in historical previews](#data-used-in-historical-previews)<br>
 > [Documentation index](#documentation-index)
 
+---
+
 ## Representations and identifiers
 
 | Representation | What it contains | Where it lives |
@@ -208,7 +210,7 @@ The replay copies the working snapshot to `working-copy-prev` immediately before
 <table width="100%">
 <tr>
 <td align="left"><a href="technology-stack.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">1️⃣3️⃣ Data model</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣2️⃣ Data model</a></td>
 <td align="right"><a href="api-reference.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -218,7 +220,6 @@ The replay copies the working snapshot to `working-copy-prev` immediately before
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -248,3 +249,4 @@ The replay copies the working snapshot to `working-copy-prev` immediately before
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

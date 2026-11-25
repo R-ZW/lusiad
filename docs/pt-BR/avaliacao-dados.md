@@ -1,10 +1,10 @@
-# `Lusiad` - Avaliação — Materiais e dados
+# `Lusiad` – Avaliação — Materiais e dados
 
 [🇺🇸 English](../en/evaluation-data.md) · **🇧🇷 Português (Brasil)**
 
 [📊 Avaliação](avaliacao.md)
 
-Os materiais e dados anonimizados da avaliação podem ser encontrados no [registro do Zenodo](https://doi.org/10.5281/zenodo.24266445) e no [diretório `docs/zenodo` deste repositório](../zenodo/).
+Os materiais e dados anonimizados da avaliação estão disponíveis no [diretório `docs/zenodo` deste repositório](../zenodo/). O DOI associado ao depósito no Zenodo é [10.5281/zenodo.24266445](https://doi.org/10.5281/zenodo.24266445).
 
 ### Nesta página
 
@@ -43,7 +43,7 @@ Os arquivos mantêm o idioma usado nas sessões. `participante_id` relaciona os 
 <table width="100%">
 <tr>
 <td align="left"><a href="avaliacao-discussao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣3️⃣ Avaliação — Materiais e dados</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣2️⃣ Avaliação — Materiais e dados</a></td>
 <td align="right">Próxima página ➡️</td>
 </tr>
 </table>
@@ -53,7 +53,6 @@ Os arquivos mantêm o idioma usado nas sessões. `participante_id` relaciona os 
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -83,3 +82,4 @@ Os arquivos mantêm o idioma usado nas sessões. `participante_id` relaciona os 
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md) 👈
+- [🗂️ Arquivos da avaliação](../zenodo/)

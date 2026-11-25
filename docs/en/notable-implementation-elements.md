@@ -210,7 +210,7 @@ Restoring a historical point creates a new version. Selective removal of one eve
 <table width="100%">
 <tr>
 <td align="left"><a href="design-decisions.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">1️⃣7️⃣ Notable implementation elements</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣6️⃣ Notable implementation elements</a></td>
 <td align="right"><a href="evaluation.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -220,7 +220,6 @@ Restoring a historical point creates a new version. Selective removal of one eve
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -250,3 +249,4 @@ Restoring a historical point creates a new version. Selective removal of one eve
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

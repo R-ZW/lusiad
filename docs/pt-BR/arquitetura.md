@@ -184,7 +184,7 @@ A figura arquitetural do projeto de TCC mostra os componentes de interface e sua
 <table width="100%">
 <tr>
 <td align="left"><a href="implementacao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">🔟 Arquitetura</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">9️⃣ Arquitetura</a></td>
 <td align="right"><a href="estrutura-de-diretorios.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -194,7 +194,6 @@ A figura arquitetural do projeto de TCC mostra os componentes de interface e sua
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -224,3 +223,4 @@ A figura arquitetural do projeto de TCC mostra os componentes de interface e sua
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

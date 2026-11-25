@@ -21,7 +21,7 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 <table width="100%">
 <tr>
 <td align="left"><a href="first-steps.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">6️⃣ Project</a></td>
+<td align="center"><a href="../../README.md#documentation-index">5️⃣ Project</a></td>
 <td align="right"><a href="requirements.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -31,7 +31,6 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -61,3 +60,4 @@ Explore the requirements behind Lusiad and the prototypes that shaped the editor
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

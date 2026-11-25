@@ -2,9 +2,21 @@
 
 **🇺🇸 English** · [🇧🇷 Português (Brasil)](../pt-BR/estrutura-de-diretorios.md)
 
+### On this page
+
+> [1. Directory tree](#directory-tree)<br>
+> [2. Repository root and documentation](#repository-root-and-documentation)<br>
+> [3. Next.js application](#nextjs-application)<br>
+> [4. IntelliJ plugin](#intellij-plugin)<br>
+> [5. Database, build, and tests](#database-build-and-tests)<br>
+> [6. Where to start for a change](#where-to-start-for-a-change)<br>
+> [Documentation index](#documentation-index)
+
+---
+
 ## Directory tree
 
-The tree shows directories that contain files in the Lusiad repository or in the documentation being prepared alongside it. Paths are relative to the repository root. Generated directories such as `node_modules/`, `.next/`, and Gradle’s `build/` are created locally. The Java projects opened in Lusiad and their working and temporary directories are configured separately.
+The tree shows directories with files tracked in this repository. Paths are relative to the repository root. Generated directories such as `node_modules/`, `.next/`, and Gradle’s `build/` are created locally. The Java projects opened in Lusiad and their working and temporary directories are configured separately.
 
 ```text
 📦 lusiad/
@@ -12,8 +24,10 @@ The tree shows directories that contain files in the Lusiad repository or in the
 │   ├── 🖼️ assets/
 │   │   ├── 🎨 prototyping/
 │   │   └── 📖 user-guide/
+│   │       └── 🖼️ panels/
 │   ├── 🇺🇸 en/
-│   └── 🇧🇷 pt-BR/
+│   ├── 🇧🇷 pt-BR/
+│   └── 📊 zenodo/
 ├── 🔌 lusiad-backend/
 │   ├── 🗃️ db/
 │   │   └── 🧾 migrations/
@@ -181,22 +195,14 @@ The tree shows directories that contain files in the Lusiad repository or in the
                                 └── 📁 example/
 ```
 
-### On this page
-
-> [1. Repository root and documentation](#repository-root-and-documentation)<br>
-> [2. Next.js application](#nextjs-application)<br>
-> [3. IntelliJ plugin](#intellij-plugin)<br>
-> [4. Database, build, and tests](#database-build-and-tests)<br>
-> [5. Where to start for a change](#where-to-start-for-a-change)<br>
-> [Documentation index](#documentation-index)
-
 ## Repository root and documentation
 
 | Directory | Contents |
 | --- | --- |
 | [`docs/`](..) | Documentation for installing, using, and understanding Lusiad. The root [English README](../../README.md) and [Portuguese README](../../README.pt-BR.md) introduce the project. |
 | [`docs/en/`](.) and [`docs/pt-BR/`](../pt-BR) | The English and Brazilian Portuguese versions. The architecture page describes runtime responsibilities. This page maps those responsibilities to source paths. |
-| [`docs/assets/`](../assets) | Shared figures and screenshots. [`prototyping/`](../assets/prototyping) holds the design mockups. [`user-guide/`](../assets/user-guide) holds screenshots captured for the user guide. |
+| [`docs/assets/`](../assets) | Shared figures and screenshots. [`prototyping/`](../assets/prototyping) holds the design mockups. [`user-guide/panels/`](../assets/user-guide/panels) holds the browser and IntelliJ screenshots used in the user guide. |
+| [`docs/zenodo/`](../zenodo/) | Evaluation instruments, anonymized responses, and session transcripts. The [materials and data page](evaluation-data.md) explains what each file supports. |
 | [`lusiad-frontend/`](../../lusiad-frontend) | Next.js application, browser UI, server-side integration, and TypeScript tests. |
 | [`lusiad-backend/`](../../lusiad-backend) | IntelliJ plugin, HTTP API, Java tests, and MySQL schema files. |
 
@@ -373,7 +379,7 @@ The tests often identify the best starting point for a subsystem. For example, [
 <table width="100%">
 <tr>
 <td align="left"><a href="architecture.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">1️⃣1️⃣ Directory structure</a></td>
+<td align="center"><a href="../../README.md#documentation-index">🔟 Directory structure</a></td>
 <td align="right"><a href="technology-stack.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -384,7 +390,6 @@ The tests often identify the best starting point for a subsystem. For example, [
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -414,3 +419,4 @@ The tests often identify the best starting point for a subsystem. For example, [
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

@@ -17,6 +17,8 @@ These sequence diagrams trace operations from the browser to the component that 
 > [9. Compile and run Java](#compile-and-run-java)<br>
 > [Documentation index](#documentation-index)
 
+---
+
 ## Open a project and load its model
 
 Opening the project page loads the registration and the file tree. Selecting a live Java file then loads its PSI tree through the plugin. The server asks the plugin to reconcile prepared edits before reading the current file. The returned `revision` identifies the text to which the model offsets refer. [Project page](../../lusiad-frontend/src/app/project/%5BprojectId%5D/page.tsx) · [Model controller](../../lusiad-frontend/src/controllers/model-editor/model-editor.controller.ts) · [Live PSI service](../../lusiad-frontend/src/lib/services/model-editor/psi-api.service.ts)
@@ -80,7 +82,7 @@ sequenceDiagram
     end
 ```
 
-On confirmation, the plugin writes the change and updates the edit journal in a single SQL transaction. An edit that preserves the text can return `noOp` without creating a change event. If a write is interrupted, recovery compares the file with the recorded states to confirm, abort, or flag the prepared intent for inspection. [Edit coordination and recovery](../../lusiad-backend/src/main/java/com/lusiad/backend/service/psi/EditCoordinator.java) · [SQL confirmation](../../lusiad-backend/src/main/java/com/lusiad/backend/repository/change/EditOperationStore.java)
+The plugin records its intent before writing the file. After verifying the write, it inserts the pending change and marks the intent as applied in the same SQL transaction. An edit that preserves the text can return `noOp` without creating an event. If the process stops before confirmation, recovery compares the file with the recorded states to confirm, abort, or flag the prepared intent for inspection. [Edit coordination and recovery](../../lusiad-backend/src/main/java/com/lusiad/backend/service/psi/EditCoordinator.java) · [SQL confirmation](../../lusiad-backend/src/main/java/com/lusiad/backend/repository/change/EditOperationStore.java)
 
 ## Record a Git version
 
@@ -361,7 +363,7 @@ sequenceDiagram
 <table width="100%">
 <tr>
 <td align="left"><a href="api-reference.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">1️⃣5️⃣ Interaction diagrams</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣4️⃣ Interaction diagrams</a></td>
 <td align="right"><a href="design-decisions.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -371,7 +373,6 @@ sequenceDiagram
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -401,3 +402,4 @@ sequenceDiagram
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

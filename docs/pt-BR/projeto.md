@@ -21,7 +21,7 @@ Conheça os requisitos do Lusiad e os protótipos que orientaram o desenho do ed
 <table width="100%">
 <tr>
 <td align="left"><a href="primeiros-passos.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">6️⃣ Projeto</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">5️⃣ Projeto</a></td>
 <td align="right"><a href="requisitos.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -31,7 +31,6 @@ Conheça os requisitos do Lusiad e os protótipos que orientaram o desenho do ed
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -61,3 +60,4 @@ Conheça os requisitos do Lusiad e os protótipos que orientaram o desenho do ed
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

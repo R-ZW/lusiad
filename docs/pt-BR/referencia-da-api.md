@@ -17,6 +17,8 @@ O Lusiad oferece interfaces HTTP em dois pontos. O navegador chama a aplicação
 > [9. Respostas e erros](#respostas-e-erros)<br>
 > [Índice da documentação](#índice-da-documentação)
 
+---
+
 ## Endereços e convenções de requisição
 
 | Interface | URL base padrão | Chamadores e convenções |
@@ -252,7 +254,7 @@ export type BackendActionResult<T> = T | BackendActionFailure
 <table width="100%">
 <tr>
 <td align="left"><a href="modelo-de-dados.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣4️⃣ Referência da API</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣3️⃣ Referência da API</a></td>
 <td align="right"><a href="diagramas-de-interacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -262,7 +264,6 @@ export type BackendActionResult<T> = T | BackendActionFailure
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -292,3 +293,4 @@ export type BackendActionResult<T> = T | BackendActionFailure
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

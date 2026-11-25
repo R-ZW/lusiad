@@ -1,4 +1,4 @@
-# `Lusiad` - Avaliação — Execução
+# `Lusiad` – Avaliação — Execução
 
 [🇺🇸 English](../en/evaluation-execution.md) · **🇧🇷 Português (Brasil)**
 
@@ -44,7 +44,7 @@ Os formulários eletrônicos produziram 15 registros para cada um dos três inst
 <table width="100%">
 <tr>
 <td align="left"><a href="avaliacao-planejamento.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣0️⃣ Avaliação — Execução</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣9️⃣ Avaliação — Execução</a></td>
 <td align="right"><a href="avaliacao-resultados.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -54,7 +54,6 @@ Os formulários eletrônicos produziram 15 registros para cada um dos três inst
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -84,3 +83,4 @@ Os formulários eletrônicos produziram 15 registros para cada um dos três inst
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

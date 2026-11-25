@@ -1,4 +1,4 @@
-# `Lusiad` - Evaluation — Discussion
+# `Lusiad` – Evaluation — Discussion
 
 **🇺🇸 English** · [🇧🇷 Português (Brasil)](../pt-BR/avaliacao-discussao.md)
 
@@ -57,7 +57,7 @@ The thesis uses Wohlin et al.'s four categories and follows Verdecchia et al. in
 <table width="100%">
 <tr>
 <td align="left"><a href="evaluation-results.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">2️⃣2️⃣ Evaluation — Discussion</a></td>
+<td align="center"><a href="../../README.md#documentation-index">2️⃣1️⃣ Evaluation — Discussion</a></td>
 <td align="right"><a href="evaluation-data.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -67,7 +67,6 @@ The thesis uses Wohlin et al.'s four categories and follows Verdecchia et al. in
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -97,3 +96,4 @@ The thesis uses Wohlin et al.'s four categories and follows Verdecchia et al. in
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md) 👈
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

@@ -15,26 +15,34 @@
 
 ## 📂 1. Create a project
 
-Start the plugin and frontend as described in [Installation](installation.md). On the project page, register a disposable Java directory and open it. Initialize Git from the interface. If the project already has a repository, check the selected branch.
+Start the plugin and frontend as described in the [installation guide](installation.md). In a disposable folder, save the following example as `Exemplo.java`.
+
+```java
+public class Exemplo {
+  private int limite = 10;
+}
+```
+
+On the Projects page, choose **New project**, give it a name, and enter the folder path. Select the registration and choose **Open project**. Open **Commit** on the right and choose **Initialize repository**. This saves the initial Git baseline before you make the first edit. [Project registration](manual.md#projects) · [Commit controls](manual.md#commit)
 
 <a name="edit-the-model"></a>
 
 ## 🧩 2. Edit the model
 
-Open a `.java` file in the explorer. The central workspace shows its structure and Java source. Use the library to insert elements and the properties panel to edit selected components. Create a simple method, change a value, and inspect the corresponding code. When moving a method, check its new position and the pending change before continuing.
+In the file explorer, double-click `Exemplo.java`. Select the field `limite` on the canvas and open **Properties**. Under **Attributes**, change its initializer from `10` to `20`, then select **Save**. Check that the new value appears in the Java source and that **Change history → Uncommitted changes** shows the edit. [Properties and edit confirmation](manual.md#properties)
 
 <a name="record-and-inspect"></a>
 
 ## 🕘 3. Record and inspect
 
-In the commit menu, save your changes under a descriptive title. In the history view, select the commit and open an individual change. Compare the before and after states in the code or model view. The [manual](manual.md) covers the other panels, and [implementation](notable-implementation-elements.md) explains how these states are obtained.
+In **Commit**, enter a title such as **Change the field initializer** and select **Commit**. In **Change history**, expand that commit and open the individual edit. Check that `limite` is `10` in **Before** and `20` in **After**. Use **Compare versions** to compare the initial baseline with the new commit for the entire file. [History](manual.md#history) · [Version comparison](manual.md#comparison)
 
 ---
 
 <table width="100%">
 <tr>
 <td align="left"><a href="installation.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">5️⃣ First steps</a></td>
+<td align="center"><a href="../../README.md#documentation-index">4️⃣ First steps</a></td>
 <td align="right"><a href="project.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -44,7 +52,6 @@ In the commit menu, save your changes under a descriptive title. In the history 
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -74,3 +81,4 @@ In the commit menu, save your changes under a descriptive title. In the history 
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

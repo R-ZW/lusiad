@@ -1,4 +1,4 @@
-# `Lusiad` - Avaliação — Discussão
+# `Lusiad` – Avaliação — Discussão
 
 [🇺🇸 English](../en/evaluation-discussion.md) · **🇧🇷 Português (Brasil)**
 
@@ -57,7 +57,7 @@ O TCC usa as quatro categorias de Wohlin et al. e segue Verdecchia et al. ao rel
 <table width="100%">
 <tr>
 <td align="left"><a href="avaliacao-resultados.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣2️⃣ Avaliação — Discussão</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">2️⃣1️⃣ Avaliação — Discussão</a></td>
 <td align="right"><a href="avaliacao-dados.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -67,7 +67,6 @@ O TCC usa as quatro categorias de Wohlin et al. e segue Verdecchia et al. ao rel
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -97,3 +96,4 @@ O TCC usa as quatro categorias de Wohlin et al. e segue Verdecchia et al. ao rel
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md) 👈
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

@@ -17,6 +17,8 @@ Lusiad exposes HTTP interfaces at two points. The browser calls the Next.js appl
 > [9. Responses and errors](#responses-and-errors)<br>
 > [Documentation index](#documentation-index)
 
+---
+
 ## Addresses and request conventions
 
 | Interface | Default base URL | Callers and conventions |
@@ -252,7 +254,7 @@ export type BackendActionResult<T> = T | BackendActionFailure
 <table width="100%">
 <tr>
 <td align="left"><a href="data-model.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">1️⃣4️⃣ API reference</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣3️⃣ API reference</a></td>
 <td align="right"><a href="interaction-diagrams.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -262,7 +264,6 @@ export type BackendActionResult<T> = T | BackendActionFailure
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -292,3 +293,4 @@ export type BackendActionResult<T> = T | BackendActionFailure
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

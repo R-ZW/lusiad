@@ -1,4 +1,4 @@
-# `Lusiad` - Avaliação
+# `Lusiad` – Avaliação
 
 [🇺🇸 English](../en/evaluation.md) · **🇧🇷 Português (Brasil)**
 
@@ -28,14 +28,14 @@ O Lusiad foi avaliado no Trabalho de Conclusão de Curso por meio de um processo
 - A média da System Usability Scale (SUS) foi de **81,83 em 100**. As sessões também revelaram dificuldades em ações específicas, como retornar ao menu e perceber que uma alteração havia sido aplicada.
 - Todos consideraram os blocos úteis para as tarefas de edição. Cinco declararam maior intenção de usar o Lusiad para analisar mudanças do que para editar, e dez atribuíram a mesma avaliação aos dois usos.
 
-As sessões registram um primeiro contato com a ferramenta, com moderação e um projeto Java preparado. Os instrumentos, as respostas aos questionários e as transcrições anonimizadas estão vinculados à [pasta de dados do repositório](../zenodo/) e ao [registro no Zenodo](https://doi.org/10.5281/zenodo.24266445).
+As sessões registram um primeiro contato com a ferramenta, com moderação e um projeto Java preparado. Consulte a página de [materiais e dados](avaliacao-dados.md) para acessar os instrumentos, as respostas aos questionários, as transcrições anonimizadas e o DOI associado ao depósito no Zenodo.
 
 ---
 
 <table width="100%">
 <tr>
 <td align="left"><a href="elementos-notaveis-da-implementacao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣8️⃣ Avaliação</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣7️⃣ Avaliação</a></td>
 <td align="right"><a href="avaliacao-planejamento.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -45,7 +45,6 @@ As sessões registram um primeiro contato com a ferramenta, com moderação e um
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -75,3 +74,4 @@ As sessões registram um primeiro contato com a ferramenta, com moderação e um
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

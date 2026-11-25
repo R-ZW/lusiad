@@ -1,4 +1,4 @@
-# `Lusiad` - Evaluation
+# `Lusiad` – Evaluation
 
 **🇺🇸 English** · [🇧🇷 Português (Brasil)](../pt-BR/avaliacao.md)
 
@@ -28,14 +28,14 @@ Lusiad was evaluated as part of the undergraduate thesis using a Design Science 
 - The mean System Usability Scale (SUS) score was **81.83 out of 100**. The sessions also revealed difficulties with specific actions, including returning to the menu and recognizing that a source edit had been applied.
 - All participants found blocks useful for the editing tasks. Five expressed stronger intention to use the tool for change analysis than for editing, and ten gave the two uses the same rating.
 
-The sessions capture a first encounter with the tool using a prepared Java project and moderation. The instruments, questionnaire responses, and anonymized transcripts are linked from the [repository data directory](../zenodo/) and the [Zenodo record](https://doi.org/10.5281/zenodo.24266445).
+The sessions capture a first encounter with the tool using a prepared Java project and moderation. See the [materials and data page](evaluation-data.md) for the instruments, questionnaire responses, anonymized transcripts, and associated Zenodo DOI.
 
 ---
 
 <table width="100%">
 <tr>
 <td align="left"><a href="notable-implementation-elements.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">1️⃣8️⃣ Evaluation</a></td>
+<td align="center"><a href="../../README.md#documentation-index">1️⃣7️⃣ Evaluation</a></td>
 <td align="right"><a href="evaluation-planning.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -45,7 +45,6 @@ The sessions capture a first encounter with the tool using a prepared Java proje
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -75,3 +74,4 @@ The sessions capture a first encounter with the tool using a prepared Java proje
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

@@ -17,6 +17,8 @@ Estes diagramas de sequência acompanham cada operação desde o navegador até 
 > [9. Compilar e executar Java](#compilar-e-executar-java)<br>
 > [Índice da documentação](#índice-da-documentação)
 
+---
+
 ## Abrir um projeto e carregar seu modelo
 
 A página do projeto carrega o cadastro e a árvore de arquivos. Ao selecionar um arquivo Java em edição, o navegador solicita sua árvore PSI por meio do plugin. O servidor pede ao plugin que reconcilie as edições preparadas antes de ler o arquivo atual. A `revision` devolvida identifica o texto ao qual os offsets do modelo se referem. [Página do projeto](../../lusiad-frontend/src/app/project/%5BprojectId%5D/page.tsx) · [Controlador do modelo](../../lusiad-frontend/src/controllers/model-editor/model-editor.controller.ts) · [Serviço de leitura PSI](../../lusiad-frontend/src/lib/services/model-editor/psi-api.service.ts)
@@ -80,7 +82,7 @@ sequenceDiagram
     end
 ```
 
-Na confirmação, o plugin grava a alteração e atualiza o registro de operação na mesma transação SQL. Uma edição que preserva o texto pode retornar `noOp` sem criar um evento. Se a gravação for interrompida, a recuperação compara o arquivo com os estados registrados para confirmar, cancelar ou sinalizar a intenção para inspeção. [Coordenação e recuperação de edições](../../lusiad-backend/src/main/java/com/lusiad/backend/service/psi/EditCoordinator.java) · [Confirmação SQL](../../lusiad-backend/src/main/java/com/lusiad/backend/repository/change/EditOperationStore.java)
+O plugin registra a intenção antes de gravar o arquivo. Depois de verificar a gravação, insere a alteração pendente e marca a intenção como aplicada na mesma transação SQL. Uma edição que preserva o texto pode retornar `noOp` sem criar um evento. Se o processo for interrompido antes da confirmação, a recuperação compara o arquivo com os estados registrados para confirmar, cancelar ou sinalizar a intenção para inspeção. [Coordenação e recuperação de edições](../../lusiad-backend/src/main/java/com/lusiad/backend/service/psi/EditCoordinator.java) · [Confirmação SQL](../../lusiad-backend/src/main/java/com/lusiad/backend/repository/change/EditOperationStore.java)
 
 ## Registrar uma versão Git
 
@@ -361,7 +363,7 @@ sequenceDiagram
 <table width="100%">
 <tr>
 <td align="left"><a href="referencia-da-api.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣5️⃣ Diagramas de interação</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">1️⃣4️⃣ Diagramas de interação</a></td>
 <td align="right"><a href="decisoes-de-projeto.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -371,7 +373,6 @@ sequenceDiagram
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -401,3 +402,4 @@ sequenceDiagram
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

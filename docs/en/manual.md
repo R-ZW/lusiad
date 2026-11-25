@@ -39,7 +39,7 @@ Open **View → Tool Windows → Lusiad** in IntelliJ IDEA. Keep the IDE running
 | **Projects** | Refresh the registrations and choose one from the list, or keep the launcher set to the Projects page. The panel indicates which projects are open in IntelliJ or Lusiad and offers a way to open a registered folder in the IDE. |
 | **Settings** | Set the web interface URL and frontend folder when configurable. Use **Save URL and folder** to keep those launcher settings. Use the shared interface preferences for language and appearance. |
 | **Environment** | Inspect or edit operational settings such as the local endpoints, database connection, and temporary storage. Process and IDE Run overrides take precedence. Restart the IDE session and the frontend after changing database or API settings. |
-| **Tutorials** | Read the frontend startup instructions or use **Copy startup command** to get the command to run in a terminal. The browser has its own guided tours under **?**. |
+| **Tutorials** | **Copy startup command** becomes available when a valid frontend folder is configured in **Settings**. The panel mixes `npm` and Yarn instructions. Use the [installation guide](installation.md) for the complete Yarn workflow with the repository lockfile. In the browser, open **?** for guided tours. |
 
 ### IntelliJ panel screenshots
 
@@ -232,7 +232,7 @@ Open **Settings → Java** and select a registered project, or use the configura
 
 ![Java run panel with successful exit code, output, and Run again](../assets/user-guide/panels/java-run-panel.png)
 
-If no main is listed, check the production roots and the method signature. If the compiler reports missing packages, check the dependency paths. A compile error stops before execution. A runtime exception appears after compilation and can include output produced before the failure.
+If no main is listed, check the production roots and the method signature. If the compiler reports missing packages, check the dependency paths. A compile error stops before execution. A runtime exception appears after compilation and can include output produced before the failure. The calculator example prints four successful operations, then reports a division by zero in **Errors** and exits with code `1`. [Runtime error screenshot](../assets/user-guide/run-runtime-error.png)
 
 <a name="commit"></a>
 
@@ -390,7 +390,7 @@ Shared language and appearance preferences can synchronize with the plugin. Favo
 <tr>
 <td align="left"><a href="../../README.md">⬅️ Previous page</a></td>
 <td align="center"><a href="../../README.md#documentation-index">1️⃣ User guide</a></td>
-<td align="right"><a href="demo.md">Next page ➡️</a></td>
+<td align="right"><a href="setup.md">Next page ➡️</a></td>
 </tr>
 </table>
 
@@ -399,7 +399,6 @@ Shared language and appearance preferences can synchronize with the plugin. Favo
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md) 👈
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -429,3 +428,4 @@ Shared language and appearance preferences can synchronize with the plugin. Favo
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)

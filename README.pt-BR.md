@@ -15,7 +15,6 @@ O projeto é distribuído sob a [licença MIT](LICENSE).
 ### 📖 Visão geral
 
 - [🖥️ Manual de uso](docs/pt-BR/manual.md)
-- [🎬 Demonstração](docs/pt-BR/demonstracao.md)
 
 ### [⚙️ Instalação](docs/pt-BR/preparacao.md)
 

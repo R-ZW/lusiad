@@ -2,7 +2,7 @@
 
 [🇺🇸 English](../en/implementation.md) · **🇧🇷 Português (Brasil)**
 
-Acompanhe uma edição desde o navegador até o arquivo Java, o registro da mudança e sua exibição no histórico.
+Esta seção explica como o Lusiad transforma código Java em um modelo editável, registra mudanças e reconstrói estados anteriores para comparação. Use o índice abaixo para encontrar arquivos-fonte, estruturas de dados, contratos da API e fluxos de interação.
 
 ### Nesta página
 
@@ -13,21 +13,21 @@ Acompanhe uma edição desde o navegador até o arquivo Java, o registro da muda
 
 ## 📑 Nesta seção
 
-- [**🏗️ Arquitetura**](arquitetura.md) — Conheça a integração entre o plugin do IntelliJ, a aplicação Next.js, o Git e o MySQL.
-- [**📂 Estrutura de diretórios**](estrutura-de-diretorios.md) — Explore a árvore do repositório e localize os arquivos-fonte de cada parte do Lusiad.
-- [**🧰 Tecnologias utilizadas**](tecnologias-utilizadas.md)
-- [**🗃️ Modelo de dados**](modelo-de-dados.md)
-- [**🔌 Referência da API**](referencia-da-api.md)
-- [**🔀 Diagramas de interação**](diagramas-de-interacao.md)
-- [**🧭 Decisões de projeto**](decisoes-de-projeto.md)
-- [**🔍 Elementos notáveis da implementação**](elementos-notaveis-da-implementacao.md) — Acompanhe o registro de uma movimentação de método e a reconstrução dos estados anterior e posterior.
+- [**🏗️ Arquitetura**](arquitetura.md) — Responsabilidades da aplicação Next.js e do plugin do IntelliJ, da leitura da PSI ao registro de uma edição com Git e MySQL.
+- [**📂 Estrutura de diretórios**](estrutura-de-diretorios.md) — Árvore do repositório e localização do frontend, do plugin, dos testes e da documentação.
+- [**🧰 Tecnologias utilizadas**](tecnologias-utilizadas.md) — Versões de execução e build, dependências, ferramentas Java e comandos de verificação.
+- [**🗃️ Modelo de dados**](modelo-de-dados.md) — Identificadores e armazenamento de projetos, branches, commits, mudanças, tags e registros de operações.
+- [**🔌 Referência da API**](referencia-da-api.md) — Rotas e ações de servidor do Next.js, endpoints locais do plugin, convenções de requisição e respostas de erro.
+- [**🔀 Diagramas de interação**](diagramas-de-interacao.md) — Diagramas de sequência para carregar o modelo, editar código, registrar commits, comparar versões, restaurar estados e executar Java.
+- [**🧭 Decisões de projeto**](decisoes-de-projeto.md) — Motivos para a adoção do plugin do IntelliJ, da arquitetura cliente–servidor, de Java e TypeScript, do MySQL e das bibliotecas selecionadas.
+- [**🔍 Elementos notáveis da implementação**](elementos-notaveis-da-implementacao.md) — Como os nós da PSI viram blocos editáveis, como o movimento de um método é registrado e como a reaplicação reconstrói os estados anterior e posterior.
 
 ---
 
 <table width="100%">
 <tr>
 <td align="left"><a href="prototipacao.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">9️⃣ Implementação</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">8️⃣ Implementação</a></td>
 <td align="right"><a href="arquitetura.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -37,7 +37,6 @@ Acompanhe uma edição desde o navegador até o arquivo Java, o registro da muda
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -67,3 +66,4 @@ Acompanhe uma edição desde o navegador até o arquivo Java, o registro da muda
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

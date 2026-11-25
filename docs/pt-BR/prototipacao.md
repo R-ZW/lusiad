@@ -85,7 +85,7 @@ As telas correspondentes na aplicação em execução estão no [manual de uso](
 <table width="100%">
 <tr>
 <td align="left"><a href="requisitos.md">⬅️ Página anterior</a></td>
-<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">8️⃣ Prototipação</a></td>
+<td align="center"><a href="../../README.pt-BR.md#índice-da-documentação">7️⃣ Prototipação</a></td>
 <td align="right"><a href="implementacao.md">Próxima página ➡️</a></td>
 </tr>
 </table>
@@ -95,7 +95,6 @@ As telas correspondentes na aplicação em execução estão no [manual de uso](
 **[📖 Visão geral](../../README.pt-BR.md)**
 
 - [🖥️ Manual de uso](manual.md)
-- [🎬 Demonstração](demonstracao.md)
 
 **[⚙️ Instalação](preparacao.md)**
 
@@ -125,3 +124,4 @@ As telas correspondentes na aplicação em execução estão no [manual de uso](
 - [📈 Resultados](avaliacao-resultados.md)
 - [💬 Discussão](avaliacao-discussao.md)
 - [📂 Materiais e dados](avaliacao-dados.md)
+- [🗂️ Arquivos da avaliação](../zenodo/)

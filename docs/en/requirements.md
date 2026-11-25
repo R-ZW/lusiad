@@ -98,7 +98,7 @@ Moving a block illustrates how these requirements work together. The developer n
 <table width="100%">
 <tr>
 <td align="left"><a href="project.md">⬅️ Previous page</a></td>
-<td align="center"><a href="../../README.md#documentation-index">7️⃣ Requirements</a></td>
+<td align="center"><a href="../../README.md#documentation-index">6️⃣ Requirements</a></td>
 <td align="right"><a href="prototyping.md">Next page ➡️</a></td>
 </tr>
 </table>
@@ -108,7 +108,6 @@ Moving a block illustrates how these requirements work together. The developer n
 **[📖 Overview](../../README.md)**
 
 - [🖥️ User guide](manual.md)
-- [🎬 Demo](demo.md)
 
 **[⚙️ Installation](setup.md)**
 
@@ -138,3 +137,4 @@ Moving a block illustrates how these requirements work together. The developer n
 - [📈 Results](evaluation-results.md)
 - [💬 Discussion](evaluation-discussion.md)
 - [📂 Materials and data](evaluation-data.md)
+- [🗂️ Evaluation files](../zenodo/)
